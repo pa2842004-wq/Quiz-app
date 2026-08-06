@@ -1,0 +1,3567 @@
+[
+  {
+    "id": 1,
+    "question": "Lựa chọn đáp áp thích hợp điền vào dấu … Nhận biết đúng cây thuốc nhằm bảo đảm tính…. khi sử dụng cũng như tránh những rủi ro về kinh tế khi không sử dụng đúng loài",
+    "options": {
+      "A": "An toàn",
+      "B": "Chính xác",
+      "C": "Hiệu quả",
+      "D": "Kinh tế"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Thuốc sử dụng cho con người thuộc mấy nguồn gốc:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Các thuốc có nguồn gốc từ dược liệu vẫn chiếm từ:",
+    "options": {
+      "A": "20-30%",
+      "B": "30-40%",
+      "C": "40-50%",
+      "D": "50-60%"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Thời kỳ thích hợp để thu hái vỏ cây thường  là",
+    "options": {
+      "A": "Mùa xuân",
+      "B": "Mùa hè",
+      "C": "Mùa thu",
+      "D": "Mùa đông"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Chọn từ thích hợp điền vào dấu… Lá và ngọn cây thường thu hái cho thời kỳ cây quang hợp mạnh nhất, đặc biệt là cây bắt đầu có ….",
+    "options": {
+      "A": "Hoa",
+      "B": "Quả",
+      "C": "Mầm",
+      "D": "Quả chín"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Chọn từ thích hợp điền vào dấu.... Trong thời gian bảo quản, dược liệu chịu ảnh hưởng của nhiều yếu tố:...",
+    "options": {
+      "A": "Nhiệt độ, bao bì chứa dược liệu.",
+      "B": "Nhiệt độ, ánh sáng, độ ẩm",
+      "C": "Ánh sáng, nhiệt độ",
+      "D": "Nhiệt độ, bao bì chứa dựa liệu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Lựa chọn đáp áp thích hợp điền vào dấu … Enzym tồn tại trong dược thảo sau khi thu hái sẽ hoạt động mạnh ở nhiệt độ …",
+    "options": {
+      "A": "25- 50 độ C",
+      "B": "25 – 40 độ C",
+      "C": "40 – 60 độ C",
+      "D": "30 – 80 độ C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Phơi dược liệu gồm có:",
+    "options": {
+      "A": "4 cách phơi",
+      "B": "3 cách phơi",
+      "C": "2 cách phơi",
+      "D": "1 cách phơi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Phương pháp phá hủy Enzym bằng cồn sôi sử dụng cồn:",
+    "options": {
+      "A": "90 độ",
+      "B": "70 độ",
+      "C": "95 độ",
+      "D": "60 độ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Phơi trong râm thường áp dụng đối với loại dược liệu:",
+    "options": {
+      "A": "Chứa chất béo",
+      "B": "Chứa tinh dầu",
+      "C": "Quí hiếm",
+      "D": "Có chứa glycosid."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 1 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền hóa bần",
+      "D": "Miền sinh trưởng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 2 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền hóa bần",
+      "D": "Miền sinh trưởng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 3 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền hóa bần",
+      "D": "Phần phát triển dài ra của rễ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 4 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền lông hút",
+      "D": "Miền sinh trưởng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 5 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền hóa bần",
+      "D": "Lông hút"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Quan sát hình ảnh dưới đây cho biết tại vị trí  sô 6 là bộ phận nào của rễ cây",
+    "options": {
+      "A": "Chóp rễ",
+      "B": "Đỉnh rễ",
+      "C": "Miền lông hút",
+      "D": "Miền hóa bần"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Quan sát hình ảnh sau đây và cho biết rễ số 1 thuộc loại rễ gì",
+    "options": {
+      "A": "Rễ chùm",
+      "B": "Rễ củ",
+      "C": "Rễ bám",
+      "D": "Rễ cọc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "Quan sát hình ảnh sau đây và cho biết rễ số 2 thuộc loại rễ gì",
+    "options": {
+      "A": "Rễ hô hấp",
+      "B": "Rễ củ",
+      "C": "Rễ cọc",
+      "D": "Rễ chùm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Quan sát hình ảnh sau đây và cho biết rễ số 3 thuộc loại rễ gì",
+    "options": {
+      "A": "Rễ chùm",
+      "B": "Rễ củ",
+      "C": "Rễ hô hấp",
+      "D": "Rễ phụ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "question": "Quan sát hình ảnh sau đây và cho biết rễ số 4 thuộc loại rễ gì",
+    "options": {
+      "A": "Rễ chùm",
+      "B": "Rễ củ",
+      "C": "Rễ phụ",
+      "D": "Rễ hô hấp"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "question": "Quan sát hình ảnh sau đây và cho biết rễ số 5 thuộc loại rễ gì",
+    "options": {
+      "A": "Rễ chùm",
+      "B": "Rễ bám",
+      "C": "Rễ phụ",
+      "D": "Rễ củ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "Quan sát hình sau đây và cho biết tại vị trí số 1  của quả là",
+    "options": {
+      "A": "Phôi mầm",
+      "B": "Nội nhũ",
+      "C": "Áo hạt",
+      "D": "Mầm hạt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Quan sát hình sau đây và cho biết tại vị trí số 2 của quả  là",
+    "options": {
+      "A": "Nội nhũ",
+      "B": "Phôi mầm",
+      "C": "Áo hạt",
+      "D": "Mầm hạt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Quan sát hình sau đây và cho biết tại vị trí số 3 của quả là",
+    "options": {
+      "A": "Nội nhũ",
+      "B": "Áo hạt",
+      "C": "Phôi mầm",
+      "D": "Mầm hạt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Quan sát hình sau đây và cho biết tại vị trí số 4 cuả quả là",
+    "options": {
+      "A": "Vỏ quả ngoài",
+      "B": "Vỏ quả trong",
+      "C": "Vỏ quả giữa",
+      "D": "Vỏ quả khô"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Quan sát hình sau đây và cho biết tại vị trí số 5 của quả là",
+    "options": {
+      "A": "Vỏ quả trong",
+      "B": "Vỏ quả giữa",
+      "C": "Vỏ quả ngoài",
+      "D": "Vỏ quả khô"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Quan sát hình ảnh và cho biết cách sắp xếp lá trên cành?",
+    "options": {
+      "A": "Lá kép lông chim 2 lần",
+      "B": "Lá kép lông chim 3 lần",
+      "C": "Lá kép lông chim 1 lần",
+      "D": "Lá kép chân vịt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Quan sát hình ảnh và cho biết cách sắp xếp lá trên cành?",
+    "options": {
+      "A": "Lá mọc so le",
+      "B": "Lá mọc vòng",
+      "C": "Lá mọc đối",
+      "D": "Lá mọc thành chùm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "Quan sát hình ảnh và cho biết cách sắp xếp lá trên cành?",
+    "options": {
+      "A": "Lá mọc vòng",
+      "B": "Lá mọc so le",
+      "C": "Lá mọc đối",
+      "D": "Lá mọc đối chéo chữ thập"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Quan sát hình ảnh và cho biết cách sắp xếp lá trên cành?",
+    "options": {
+      "A": "Lá mọc vòng",
+      "B": "Lá mọc đối",
+      "C": "Lá mọc so le",
+      "D": "Lá mọc đối chéo chữ thập"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Quan sát hình ảnh và cho biết cách sắp xếp lá trên cành?",
+    "options": {
+      "A": "Lá kép lông chim 2 lần",
+      "B": "Lá kép chân vịt",
+      "C": "Lá kép lông chim 1 lần",
+      "D": "Lá kép long chim  3 lần"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Lựa chọn đáp án đúng điền vào dầu… … là phần phồng to ở dưới, trong … chứa các lá noãn.",
+    "options": {
+      "A": "Nhụy",
+      "B": "Bầu",
+      "C": "Nhị",
+      "D": "Lá bắc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Một trong các phần phụ của hoa là",
+    "options": {
+      "A": "Tràng hoa",
+      "B": "Đấu",
+      "C": "Cánh hoa",
+      "D": "Bộ nhụy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Một trong các phần phụ của hoa là",
+    "options": {
+      "A": "Tràng hoa",
+      "B": "Tuyến mật",
+      "C": "Cánh hoa",
+      "D": "Bộ nhụy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Một trong các phần chính của hoa là",
+    "options": {
+      "A": "Tuyến mật",
+      "B": "Tràng hoa",
+      "C": "Đấu",
+      "D": "Tràng phụ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Một trong các phần chính của hoa là",
+    "options": {
+      "A": "Tuyến mật",
+      "B": "Bộ nhụy",
+      "C": "Đấu",
+      "D": "Tràng phụ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Một trong các phần chính của hoa gồm",
+    "options": {
+      "A": "Tuyến mật",
+      "B": "bộ nhị",
+      "C": "Đấu",
+      "D": "Tràng phụ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Quả thịt thuộc nhóm quả nào",
+    "options": {
+      "A": "Quả tụ",
+      "B": "Quả đơn",
+      "C": "Quả kép",
+      "D": "Quả đơn sinh tính"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Lựa chọn đáp án đúng điền vào dấu… …  được hình thành do sự phát triển của bầu nhưng noãn không được thụ phấn.",
+    "options": {
+      "A": "Quả đơn",
+      "B": "Quả đơn tính sinh",
+      "C": "Quả thịt",
+      "D": "Quả kép"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Lựa chọn đáp án đúng điền vào dấu… ... được hình thành từ một hoa có nhiều lá noãn rời nhau.",
+    "options": {
+      "A": "Quả tụ",
+      "B": "Quả đơn tính sinh",
+      "C": "Quả thịt",
+      "D": "Quả kép"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Chọn đáp án đúng điền vào dấu… ….là những hợp chất vô định hình trắng đục hoặc trong suốt, cứng dày đặc ở nhiệt độ bình thường, mềm khi đun nóng, không tan trong nước, tan trong alcol, tan ít hoặc nhiều trong các dung môi hữu cơ khác và không lôi cuốn được theo hơi nước",
+    "options": {
+      "A": "Glycosid",
+      "B": "Lipid",
+      "C": "Glycosid",
+      "D": "Chất nhựa"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "question": "Chọn đáp án đúng điền vào chỗ… Chất nhựa là nhũng hợp chất vô định hình … hoặc trong suốt, cứng dày đặc ở nhiệt độ bình thường, mềm khi đun nóng.",
+    "options": {
+      "A": "màu vàng",
+      "B": "màu nâu",
+      "C": "màu đen",
+      "D": "màu trắng đục"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "question": "Một trong những tác dụng của nhựa cánh kiến trắng",
+    "options": {
+      "A": "Nhuận tẩy",
+      "B": "Chữa ho, long đờm",
+      "C": "Chữa đau dạ dày",
+      "D": "Hạ huyết áp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Cánh kiến trắng thuộc họ",
+    "options": {
+      "A": "Sâu cánh kiến",
+      "B": "Thầu dầu",
+      "C": "Trôm",
+      "D": "Bồ đề"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Chọn đáp án đúng điền vào chỗ… ….là sản phẩm tự nhiên có trong động vật và thực vật, có thành phần cấu tạo khác nhau, thường là este của acid béo với các alcol",
+    "options": {
+      "A": "Glycosid",
+      "B": "Alkaloid",
+      "C": "Tinh dầu",
+      "D": "Lipid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "question": "Dựa vào thành phần alcol có thể xếp dược liệu chứa lipid thành mấy nhóm sau:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Tác dụng của dầu mỡ trong y học",
+    "options": {
+      "A": "Làm thuốc nhuận tẩy",
+      "B": "Chữa ho, sát khuẩn đường hô hấp",
+      "C": "Nguyên liệu tổng hợp chất dẻo, chất tạo màng",
+      "D": "Bảo về da, niêm mạc, làm mềm da"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 48,
+    "question": "Một trong các bộ phận dùng của Thầu dầu",
+    "options": {
+      "A": "Thân",
+      "B": "Rễ",
+      "C": "Hạt",
+      "D": "Qủa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Dầu thầu dầu có tính chất",
+    "options": {
+      "A": "Lỏng không màu hoặc hơi vàng",
+      "B": "Không mùi, vị",
+      "C": "Tan trong nước",
+      "D": "Không tan trong cồn tuyệt đối"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Dược liệu Ca cao thuộc họ",
+    "options": {
+      "A": "Trôm",
+      "B": "Thầu dầu",
+      "C": "Hoa hồng",
+      "D": "Táo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "question": "Lựa chọn đáp án dung điền vào dấu… … là những thành phần rất quan trọng của thực vật, nó là nơi tích trữ năng lượng từ ánh sáng mặt trời qua quá trình quang hợp",
+    "options": {
+      "A": "Lipid",
+      "B": "Chất nhựa",
+      "C": "Acid hữu cơ",
+      "D": "Carbonhydrat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "question": "Carbonhydrat có thể chia thành  thành mấy nhóm",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Cát căn là dược liệu được chế từ",
+    "options": {
+      "A": "Hoài sơn",
+      "B": "Củ sen",
+      "C": "Củ sắn dây",
+      "D": "Nhân sâm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "Cát căn thuộc họ",
+    "options": {
+      "A": "Lúa",
+      "B": "Củ mài",
+      "C": "Đậu",
+      "D": "Hoa môi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Tác dụng chính của cát căn là",
+    "options": {
+      "A": "Chữa ăn uống kém, trẻ em đau bụng đi ngoài",
+      "B": "Thuốc lợi sữa, lỵ viêm ruột",
+      "C": "Chữa sốt, nhức đầu, khát nước, kiết lỵ",
+      "D": "Thuốc thông tiểu, chữa phù thũng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Liều dùng của Hoài sơn là",
+    "options": {
+      "A": "5g/ ngày",
+      "B": "6- 12g/ ngày",
+      "C": "10-30g/ ngày",
+      "D": "12-24g/ ngày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "question": "Bộ phận dùng của hoài sơn là",
+    "options": {
+      "A": "Lá",
+      "B": "Củ",
+      "C": "Hạt",
+      "D": "Thân rễ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "question": "Thành phần hóa học của hoài sơn",
+    "options": {
+      "A": "Tinh bột,tanin",
+      "B": "Tinh bột, alkaloid",
+      "C": "Tinh bột, chất nhầy",
+      "D": "Tinh bột, chất nhựa"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "question": "Bộ phận dùng làm thuốc của cây Ý dĩ là",
+    "options": {
+      "A": "Hoa",
+      "B": "Quả",
+      "C": "Lá",
+      "D": "Hạt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "question": "Tác dụng chính của trạch tả là",
+    "options": {
+      "A": "Lợi tiểu, chữa phù thũng",
+      "B": "Bổ tỳ, bổ thận",
+      "C": "An thần, chữa mất ngủ",
+      "D": "Làm thuốc bổ dưỡng, bổ phổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "question": "Thân cây Ý dĩ thuộc loại cây",
+    "options": {
+      "A": "Cây gỗ",
+      "B": "Cây leo",
+      "C": "Cây thảo",
+      "D": "Cây cỏ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Liều dùng của Liên tâm là",
+    "options": {
+      "A": "3 - 5 g/ ngày",
+      "B": "6- 12g/ ngày",
+      "C": "10-30g/ ngày",
+      "D": "12-34g/ ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Tâm sen có tác dụng",
+    "options": {
+      "A": "Chữa di mộng tinh",
+      "B": "Cầm máu",
+      "C": "Làm mứt sen",
+      "D": "Thuốc an thần"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 64,
+    "question": "Tua sen có tác dụng",
+    "options": {
+      "A": "Chữa di mộng tinh",
+      "B": "Bổ máu",
+      "C": "Làm mứt sen",
+      "D": "Thuốc an thần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "question": "Bộ phận dùng của hoài sơn là",
+    "options": {
+      "A": "Lá",
+      "B": "Củ",
+      "C": "Hạt",
+      "D": "Thân rễ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "question": "Thành phần hóa học của hoài sơn",
+    "options": {
+      "A": "Tinh bột,tanin",
+      "B": "Tinh bột, alkaloid",
+      "C": "Tinh bột, chất nhầy",
+      "D": "Tinh bột, chất nhựa"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "question": "Tua sen là bộ phận nào của hoa sen",
+    "options": {
+      "A": "Nhị hoa",
+      "B": "Đế hoa",
+      "C": "Lá hoa",
+      "D": "Quả"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "question": "Ngó sen còn được gọi là",
+    "options": {
+      "A": "Liên tu",
+      "B": "Liên ngẫu",
+      "C": "Liên thạch",
+      "D": "Liên phòng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Ngó sen là bộ phận nào của sen",
+    "options": {
+      "A": "Quả sen",
+      "B": "Nhị hoa",
+      "C": "Tâm sen",
+      "D": "Thân rễ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "question": "Một trong các  dược liệu chứa acid hữu cơ",
+    "options": {
+      "A": "Hoài sơn",
+      "B": "Thầu dầu",
+      "C": "Trúc đào",
+      "D": "Sơn tra"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 71,
+    "question": "Bộ phận dùng làm thuốc của Sơn tra là",
+    "options": {
+      "A": "Hạt",
+      "B": "Lá",
+      "C": "Vỏ thân",
+      "D": "Quả"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "question": "Cây Mơ thuộc họ",
+    "options": {
+      "A": "Lúa",
+      "B": "Củ mài",
+      "C": "Hoa hồng",
+      "D": "Hoa môi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 73,
+    "question": "Bộ phận dùng làm thuốc của Cây mơ là",
+    "options": {
+      "A": "Hạt , quả",
+      "B": "Lá, vỏ thân",
+      "C": "Lá, quả",
+      "D": "Quả, hạt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 74,
+    "question": "Một trong những thành phần hóa học của cây mơ là",
+    "options": {
+      "A": "Acid malic",
+      "B": "Acid lactic",
+      "C": "Acid propionic",
+      "D": "Aicd sunfuric"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "question": "Một trong những thành phần hóa học của cây mơ là",
+    "options": {
+      "A": "Acid citric",
+      "B": "Acid lactic",
+      "C": "Acid propionic",
+      "D": "Aicd sunfuric"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "question": "Một trong những tác dụng của quả mơ là",
+    "options": {
+      "A": "Hạ huyết áp",
+      "B": "Chống nhiễm khuẩn",
+      "C": "Chữa đau dạ dày",
+      "D": "Kích thích tiêu hóa"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "question": "Một trong những tác dụng của quả mơ là",
+    "options": {
+      "A": "Tăng huyết áp",
+      "B": "Hạ huyết áp",
+      "C": "Chữa đau dạ dày",
+      "D": "Giảm ho"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "question": "Thân cây kim anh thuộc loại thân",
+    "options": {
+      "A": "Thân bụi",
+      "B": "Thân leo",
+      "C": "Thân gỗ",
+      "D": "Thân bò"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "question": "Kim anh thuộc họ",
+    "options": {
+      "A": "Lúa",
+      "B": "Củ mài",
+      "C": "Táo",
+      "D": "Hoa môi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "question": "Thành phần hóa học chính của cây Kim anh thuộc nhóm",
+    "options": {
+      "A": "Carbonhydrat",
+      "B": "Lipid",
+      "C": "Acid hữu cơ",
+      "D": "Chất nhựa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "question": "Một trong những thành phần hóa học của Kim anh là",
+    "options": {
+      "A": "Acid malic",
+      "B": "Acid lactic",
+      "C": "Acid propionic",
+      "D": "Aicd sunfuric"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Một trong những thành phần hóa học của Kim anh là",
+    "options": {
+      "A": "Acid citric",
+      "B": "Acid lactic",
+      "C": "Acid propionic",
+      "D": "Aicd sunfuric"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "question": "Một trong những thành phần hóa học của Kim anh là",
+    "options": {
+      "A": "Tanin",
+      "B": "Lipid",
+      "C": "Chất béo",
+      "D": "Carbonhydrat"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Một trong những tác dụng của Kim anh là",
+    "options": {
+      "A": "Chữa phù thũng",
+      "B": "Hạ huyết áp",
+      "C": "Chữa đau dạ dày",
+      "D": "Kháng khuẩn"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "question": "Một trong những tác dụng của Kim anh là",
+    "options": {
+      "A": "Chữa sốt xuất huyết",
+      "B": "Hạ nhiệt",
+      "C": "Chữa đau dạ dày",
+      "D": "Giảm xơ vữa động mạch"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 86,
+    "question": "Liều dùng của Kim anh là",
+    "options": {
+      "A": "20 – 25gram/ngày",
+      "B": "15 – 20 gram/ngày",
+      "C": "8 – 16 gram/ngày",
+      "D": "3 – 6 gram/ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "question": "Cách dùng của Kim anh là",
+    "options": {
+      "A": "Lấy lá, giã nhỏ, lấy nước uống",
+      "B": "Nấu thành cao lỏng",
+      "C": "Dùng tươi hoặc phơi khô sắc lấy nước uống, nấu thành cao.",
+      "D": "Phơi hoặc sấy khổ rồi sắc lấy nước uống"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "question": "Một trong các loại glycosid thường gặp trong dược liệu là",
+    "options": {
+      "A": "Flavonoid",
+      "B": "Chất béo",
+      "C": "Nhựa",
+      "D": "Saponin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "question": "Thành phần hóa học chính trong lá trúc đào thuộc nhóm",
+    "options": {
+      "A": "Glycoisd tim",
+      "B": "Saponin",
+      "C": "Anthranoid",
+      "D": "Tanin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Liều dùng, cách dùng của dược liệu lá Trúc đào",
+    "options": {
+      "A": "20-30g lá khô, nấu nước đặc rửa",
+      "B": "50g – 70g lá tươi, nấu nước đặc rửa",
+      "C": "20-30g lá tươi, nấu nước đặc rửa",
+      "D": "50g – 70g lá khô, nấu nước đặc rửa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "question": "Một trong những tính chất hóa học của Saponin",
+    "options": {
+      "A": "Làm tăng sức căng bề mặt, tạo bọt nhiều khi lắc với nước, có tác dụng nhũ hoá và tẩy sạch.",
+      "B": "Làm vỡ hồng cầu ngay ở nồng độ rất loãng.",
+      "C": "Tạo phức với lipid",
+      "D": "Không gây kích ứng niêmmạc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Một trong các tính chất  của Saponin",
+    "options": {
+      "A": "Làm vỡ hồng cầu khi ở nồng độ cao",
+      "B": "Làm vỡ hồng cầu ở ngay nồng độ loãng",
+      "C": "Có thể tạo phức với lipid",
+      "D": "Có thể tạo phức với protein"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "Thành phần hóa học chính của cam thảo là:",
+    "options": {
+      "A": "Ginsenoid",
+      "B": "Glycyrrhizin",
+      "C": "Tanin",
+      "D": "Oleanilic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "question": "Cam thảo thuộc họ",
+    "options": {
+      "A": "Cam thảo",
+      "B": "Đậu",
+      "C": "Hoa chuông",
+      "D": "Nhân sâm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Cách dùng và liều dùng của Cam thảo chữa ho lao, ho lâu ngày:",
+    "options": {
+      "A": "Dùng Cam thảo nướng 120g tán bột, uống mỗi lần 4g, ngày uống 3-4 lần",
+      "B": "Dùng cao Cam thảo 2 phần, nước uống 1 phần hoà tan. Ngày uống 3 lần, mỗi lần 1 thìa cà phê. Không uống liên tục quá 3 tuần lễ",
+      "C": "Dùng cao mềm Cam thảo, ngày uống 1-2 thìa cà phê.",
+      "D": "Dùng cao lỏng  Cam thảo, ngày uống 5- 10ml  thìa cà phê"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Bộ phận dung làm thuốc của Viễn chí là",
+    "options": {
+      "A": "Lá",
+      "B": "Rễ củ",
+      "C": "Hoa",
+      "D": "Cành"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Một trong những  tác dụng của Viễn chí là",
+    "options": {
+      "A": "Chữa ho",
+      "B": "Chữa loét dạ dày",
+      "C": "Chữa tiêu chảy",
+      "D": "Chữa chứng mất trí nhớ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Dược liệu Cát cánh thuộc họ",
+    "options": {
+      "A": "Hoa Chuông",
+      "B": "Thầu dầu",
+      "C": "Trúc đào",
+      "D": "Hoa môi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "question": "Dược liệu Ngưu tất thuộc họ",
+    "options": {
+      "A": "Rau giền",
+      "B": "Thầu dầu",
+      "C": "Trúc đào",
+      "D": "Hoa môi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "question": "Liều dung của Ngưu tất",
+    "options": {
+      "A": "3-7g/ngày",
+      "B": "5-10g/ngày",
+      "C": "4 -8g/ngày",
+      "D": "Ngày dùng 6-12g"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 101,
+    "question": "Thành phần hóa học chính của Nhân sâm là",
+    "options": {
+      "A": "Glycyrrhizin",
+      "B": "Cortison",
+      "C": "Ginsenoid",
+      "D": "Vitamin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "question": "Một trong những tác dụng của Nhân sâm là",
+    "options": {
+      "A": "Nhuận tẩy",
+      "B": "Lợi tiểu",
+      "C": "Chống suy nhược cơ thể",
+      "D": "Hạ nhiệt"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 103,
+    "question": "Một trong những thành phần hóa học trong mạch môn là",
+    "options": {
+      "A": "Chất nhầy, chất nhựa",
+      "B": "Chất nhầy, đường",
+      "C": "Tanin",
+      "D": "Lipid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "question": "Liều dùng của mạch môn:",
+    "options": {
+      "A": "10-15g/ngày",
+      "B": "20-25g/ngày",
+      "C": "30-35g/ngày",
+      "D": "40-45g/ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 105,
+    "question": "Tùy theo vị trí của các nhóm thế trong nhân antrquinon mà người ta chia ra làm mấy nhóm",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 106,
+    "question": "Nhóm nhuận tẩy thường có hai nhóm (-OH) ở vị trí",
+    "options": {
+      "A": "2 và 3",
+      "B": "1 và 8",
+      "C": "10 và 13",
+      "D": "4 và 7"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "question": "Một trong các dược liệu chứa anthranoid là t",
+    "options": {
+      "A": "Cát căn",
+      "B": "Thảo quyết minh",
+      "C": "Hoài sơn",
+      "D": "Thầu dầu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "question": "Một trong những tác dụng của thảo quyết minh là:",
+    "options": {
+      "A": "Đau mắt đỏ, đau răng",
+      "B": "Đau mắt đỏ, người mệt mỏi",
+      "C": "Đau mắt đỏ, nhức đầu, mất ngủ",
+      "D": "Đau mắt, quáng gà, chữa táo bón"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Thân cây Đại hoàng thuộc loại",
+    "options": {
+      "A": "Thân thảo",
+      "B": "Thân cỏ",
+      "C": "Thân gỗ",
+      "D": "Thân bụi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 110,
+    "question": "Thành phần hóa học chính trong đại hoàng thuộc nhóm glycosid",
+    "options": {
+      "A": "Anthranoid",
+      "B": "Tanin",
+      "C": "Saponin",
+      "D": "Glycoisd tim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 111,
+    "question": "Một trong những thành phần hóa học của hà thủ ô đỏ:",
+    "options": {
+      "A": "Tanin, alcaloid",
+      "B": "Tanin, coumarin",
+      "C": "Anthranoid, tanin",
+      "D": "Anthranoid, alkaloid"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "question": "Một trong những tác dụng của hà thủ ô đỏ là:",
+    "options": {
+      "A": "Bổ gan thận, bổ máu",
+      "B": "Cầm máu, giảm viên, giảm đau",
+      "C": "Tăng cường trí nhớ, khả năng tập trung",
+      "D": "Tăng cường sức đề kháng của cơ thể"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "question": "Thân cây Hà thủ ô đỏ  thuộc loại",
+    "options": {
+      "A": "Thân cỏ",
+      "B": "Thân thảo",
+      "C": "Thân gỗ",
+      "D": "Thân bụi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Dược liệu  nào sau đây chứa Flavonoid",
+    "options": {
+      "A": "Hòe hoa",
+      "B": "Thầu dầu",
+      "C": "Cát căn",
+      "D": "Trúc đào"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "question": "Một trong những tác dụng của hòe hoa là",
+    "options": {
+      "A": "Bền thành mạch, giảm tính thấm mao mạch.",
+      "B": "Bền thành mạch, tăng tính thấm mao mạch.",
+      "C": "Tác dụng kháng khuẩn, ngăn sự tích tụ mỡ ở bụng",
+      "D": "Tác dụng kháng nấm, ngăn sự tích tụ mỡ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "question": "Dược liệu Diếp cá thuộc họ",
+    "options": {
+      "A": "Trúc đào",
+      "B": "Đậu",
+      "C": "Lá Dấp",
+      "D": "Thầu dầu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 117,
+    "question": "Thành phần hóa học chính trong Diếp cá thuộc nhóm",
+    "options": {
+      "A": "Flavonoid",
+      "B": "Tanin",
+      "C": "Saponin",
+      "D": "Glycoisd tim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "question": "Liều dùng của Actiso",
+    "options": {
+      "A": "6 – 12g /ngày",
+      "B": "10 – 15g /ngày",
+      "C": "20 –  25g /ngày",
+      "D": "30 –  35g /ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 119,
+    "question": "Một trong các bộ phận dùng của cây Dâu tằm",
+    "options": {
+      "A": "Vỏ rễ",
+      "B": "Thân rễ",
+      "C": "Lá",
+      "D": "Thân củ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "question": "Thành phần hóa học chính trong Dâu tằm thuộc nhóm",
+    "options": {
+      "A": "Flavonoid",
+      "B": "Tanin",
+      "C": "Saponin",
+      "D": "Glycoisd tim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 121,
+    "question": "Dược liệu Tô mộc thuộc họ",
+    "options": {
+      "A": "Flavonoid",
+      "B": "Thầu dầu",
+      "C": "Trúc đào",
+      "D": "Vang",
+      "E": "Cúc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "question": "Thân cây Tô mộc thuộc loại thân cây",
+    "options": {
+      "A": "Thân gỗ",
+      "B": "Thân thảo",
+      "C": "Thân cỏ",
+      "D": "Thân bụi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "question": "Tác dụng chính của dược liệu Tô mộc",
+    "options": {
+      "A": "Cầm máu",
+      "B": "Chữa ho",
+      "C": "Điều trị mất ngủ",
+      "D": "Giảm đau"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Một trong những tính chất của coumarin là",
+    "options": {
+      "A": "Mùi thơm",
+      "B": "Mùi khó chịu",
+      "C": "Không mùi",
+      "D": "Mùi chua"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "question": "Dược liệu nào sau đây thành phần hóa học chứa coumarin là",
+    "options": {
+      "A": "Bạch chỉ",
+      "B": "Dâu tằm",
+      "C": "Hòe hoa",
+      "D": "Cát căn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 126,
+    "question": "Thân cây Bạch chỉ thuộc loại thân cây",
+    "options": {
+      "A": "Thân thảo",
+      "B": "Thân gỗ",
+      "C": "Thân cỏ",
+      "D": "Thân bụi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "question": "Bạch chỉ thuộc họ",
+    "options": {
+      "A": "Trúc đào",
+      "B": "Nhân sâm",
+      "C": "Hoa tán",
+      "D": "Hoa cúc"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 128,
+    "question": "Chữ y trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "uy",
+      "B": "u",
+      "C": "y",
+      "D": "I"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "question": "Chữ o trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "ô",
+      "B": "o",
+      "C": "ơ",
+      "D": "uo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "question": "Trong tiếng Latin chữ c trước u, o, u được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "c",
+      "B": "x",
+      "C": "k",
+      "D": "s"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Trong tiếng Latin chữ c trước e, i, y, ae, oe được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "x",
+      "B": "c",
+      "C": "k",
+      "D": "r"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "question": "Chữ f trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "ph",
+      "B": "f",
+      "C": "phờ",
+      "D": "ép-phờ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 133,
+    "question": "Chữ g trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "gh",
+      "B": "g",
+      "C": "ngh",
+      "D": "gi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "question": "Chữ s trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "s",
+      "B": "st",
+      "C": "xd",
+      "D": "x"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 135,
+    "question": "Khi chữ s đứng giữa 2 nguyên âm hoặc đứng giữa một nguyên âm và chữ m hay n thì đọc như chữ gì trong tiếng việt:",
+    "options": {
+      "A": "đ",
+      "B": "s",
+      "C": "x",
+      "D": "d"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 136,
+    "question": "Chữ t trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "t",
+      "B": "th",
+      "C": "ti",
+      "D": "thi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "question": "Trong tiếng Latin Chữ x được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "x",
+      "B": "kx",
+      "C": "kd",
+      "D": "s"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "question": "Chữ  x đứng sau nguyên âm đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "kd",
+      "B": "x",
+      "C": "kx",
+      "D": "s"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "question": "Chữ  x đứng giữa 2 nguyên âm đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "kd",
+      "B": "x",
+      "C": "kx",
+      "D": "s"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "Chữ z trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "z",
+      "B": "gi",
+      "C": "d",
+      "D": "r"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 141,
+    "question": "Chữ Ae trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "a",
+      "B": "eo",
+      "C": "e",
+      "D": "ê"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 142,
+    "question": "Chữ Oe trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "a",
+      "B": "eo",
+      "C": "ơ",
+      "D": "ê"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 143,
+    "question": "Chữ Au trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "a",
+      "B": "u",
+      "C": "au",
+      "D": "âu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "question": "Chữ Eu trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "e",
+      "B": "ê",
+      "C": "êu",
+      "D": "eo"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 145,
+    "question": "Chữ Ch trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "c",
+      "B": "k",
+      "C": "kh",
+      "D": "tr"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 146,
+    "question": "Chữ Rh trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "h",
+      "B": "r",
+      "C": "rh",
+      "D": "gi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "question": "Chữ Th trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "h",
+      "B": "th",
+      "C": "rh",
+      "D": "t"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Chữ Rh trong tiếng Latin được đọc như chữ nào trong tiếng việt:",
+    "options": {
+      "A": "h",
+      "B": "r",
+      "C": "rh",
+      "D": "gi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "question": "Tên các đường có âm cuối là osum thì được chuyển thành:",
+    "options": {
+      "A": "ose",
+      "B": "osid",
+      "C": "odum",
+      "D": "ozid"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "question": "Các oxyd trong cùng một loại thì lấy số gì để phân biệt :",
+    "options": {
+      "A": "Hydro",
+      "B": "Cacbon",
+      "C": "oxy",
+      "D": "nito"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 151,
+    "question": "Các acid có đuôi tận cùng là osum được viết là:",
+    "options": {
+      "A": "o",
+      "B": "acid",
+      "C": "a",
+      "D": "e"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "question": "Các acid có đuôi tận cùng là icum được viết là:",
+    "options": {
+      "A": "ic",
+      "B": "icum",
+      "C": "i",
+      "D": "e"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 153,
+    "question": "Các muối của acid có tận cùng là osum được viết là:",
+    "options": {
+      "A": "it",
+      "B": "acid",
+      "C": "at",
+      "D": "ic."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "Các muối của acid có tận cùng là icum được viết là:",
+    "options": {
+      "A": "at",
+      "B": "acid",
+      "C": "a",
+      "D": "e"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “o” có thể đọc là:",
+    "options": {
+      "A": "o",
+      "B": "ô",
+      "C": "ơ",
+      "D": "o hoặc ô"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “ou” được đọc là:",
+    "options": {
+      "A": "o",
+      "B": "e",
+      "C": "ơ",
+      "D": "u"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 157,
+    "question": "Chữ b đứng sau nguyên âm “y “ và trước phụ âm hoặc cuối vần đọc là:",
+    "options": {
+      "A": "b",
+      "B": "ph",
+      "C": "pờ",
+      "D": "f"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 158,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “c”  được đọc là cờ khi đướng trước nguyên âm:",
+    "options": {
+      "A": "a, i, o",
+      "B": "a, o, e",
+      "C": "a, o, ơ",
+      "D": "a, o, u."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 159,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “d”  được đọc là…..khi đứng ở cuối từ:",
+    "options": {
+      "A": "o",
+      "B": "e",
+      "C": "ơ",
+      "D": "tờ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 160,
+    "question": "Theo thuật ngữ quốc tế Latin viết là “g” được đọc là “gờ” khi đứng trước các nguyên âm:",
+    "options": {
+      "A": "a, u, o",
+      "B": "a, i, o",
+      "C": "a, o, e",
+      "D": "a, o, ơ."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Theo thuật ngữ quốc tế Latin viết là “s” thì được đọc là:",
+    "options": {
+      "A": "sờ",
+      "B": "xờ",
+      "C": "z",
+      "D": "o"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 162,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “t” thì được đọc là :",
+    "options": {
+      "A": "sờ",
+      "B": "tờ",
+      "C": "xờ",
+      "D": "o"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "question": "Theo thuật ngữ quốc tế Latin Viết là “W”  đọc là .... khi đứng trước nguyên âm:",
+    "options": {
+      "A": "sờ",
+      "B": "tờ",
+      "C": "vờ",
+      "D": "o."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 164,
+    "question": "Theo thuật ngữ quốc tế Latin Viết là “W” đọc là .... khi đứng trước phụ âm:",
+    "options": {
+      "A": "vờ",
+      "B": "tờ",
+      "C": "u",
+      "D": "o"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 165,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là “z” thì được đọc là:",
+    "options": {
+      "A": "zờ",
+      "B": "tờ",
+      "C": "dờ",
+      "D": "gi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 166,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ar thì được đọc là:",
+    "options": {
+      "A": "al",
+      "B": "ar",
+      "C": "ar(ơ)",
+      "D": "ac"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 167,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ax thì được đọc là:",
+    "options": {
+      "A": "al",
+      "B": "ar",
+      "C": "ar(ơ)",
+      "D": "ăc – x(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 168,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là er thì được đọc là:",
+    "options": {
+      "A": "el",
+      "B": "ar",
+      "C": "ar(ơ)",
+      "D": "ec"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 169,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ex thì được đọc là:",
+    "options": {
+      "A": "ax",
+      "B": "exo",
+      "C": "ar(ơ)",
+      "D": "êc-x(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 170,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ic thì được đọc là:",
+    "options": {
+      "A": "i",
+      "B": "c",
+      "C": "ic",
+      "D": "ich"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 171,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ic thì được đọc là:",
+    "options": {
+      "A": "i",
+      "B": "d",
+      "C": "id",
+      "D": "it"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 172,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ix thì được đọc là:",
+    "options": {
+      "A": "i",
+      "B": "x",
+      "C": "ix",
+      "D": "ic-x(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 173,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là od thì được đọc là:",
+    "options": {
+      "A": "o",
+      "B": "d",
+      "C": "ol(ơ)",
+      "D": "ôđ(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 174,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là ol thì được đọc là:",
+    "options": {
+      "A": "o",
+      "B": "l",
+      "C": "ol(ơ)",
+      "D": "ôl(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 175,
+    "question": "Viết là or trong cách đọc tên thuốc bằng tiếng Việt theo thuật ngữ  quốc tế Theo thuật ngữ  quốc tế Latin viết là or thì được đọc là:",
+    "options": {
+      "A": "orơ",
+      "B": "ol(ơ)",
+      "C": "ôl(ơ) tin",
+      "D": "ooc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 176,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là yl thì được đọc là:",
+    "options": {
+      "A": "y",
+      "B": "l",
+      "C": "yl",
+      "D": "yl(ơ)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 177,
+    "question": "Theo thuật ngữ  quốc tế Latin thì viết là am được đọc là:",
+    "options": {
+      "A": "a",
+      "B": "am",
+      "C": "âm",
+      "D": "ăm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 178,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là an, en thì được đọc là:",
+    "options": {
+      "A": "an",
+      "B": "en",
+      "C": "ăng",
+      "D": "ang"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 179,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là on thì được đọc là:",
+    "options": {
+      "A": "on",
+      "B": "onh",
+      "C": "ông",
+      "D": "ăng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 180,
+    "question": "Theo thuật ngữ  quốc tế Latin viết là qui thì được đọc là:",
+    "options": {
+      "A": "in",
+      "B": "qui",
+      "C": "ki",
+      "D": "anh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 181,
+    "question": "Aluminium là tên nguyên tố:",
+    "options": {
+      "A": "Bạc",
+      "B": "Chì",
+      "C": "Nhôm",
+      "D": "Đồng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Carboneum là tên nguyên tố :",
+    "options": {
+      "A": "Bạc",
+      "B": "Chì",
+      "C": "Carbon",
+      "D": "Đồng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 183,
+    "question": "Hydragyrum là tên nguyên tố:",
+    "options": {
+      "A": "Bạc",
+      "B": "Chì",
+      "C": "Thủy Ngân",
+      "D": "Đồng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "question": "Acidum aceticum là tên hóa chất:",
+    "options": {
+      "A": "acid boric",
+      "B": "acid citric",
+      "C": "acid acetic",
+      "D": "acid benzoic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 185,
+    "question": "Acidum aceticum là tên hóa chất:",
+    "options": {
+      "A": "acid boric",
+      "B": "acid citric",
+      "C": "acid acetic",
+      "D": "acid benzoic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 186,
+    "question": "Viết là cito trong tiếng Latin đọc là :",
+    "options": {
+      "A": "ci – tô",
+      "B": "Ci – to",
+      "C": "Xi- tô",
+      "D": "Xi – to"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 187,
+    "question": "Viết là Bonus trong tiếng Latin đọc là:",
+    "options": {
+      "A": "Bo – nu – sờ",
+      "B": "Bô – nu – sơ",
+      "C": "Bô – nu – xờ",
+      "D": "Bô – nu – xơ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "question": "Viết là Injectio trong tiếng Latin đọc là:",
+    "options": {
+      "A": "In- I - ếch – xi – ô",
+      "B": "In- j- ec – ti – ô",
+      "C": "In – i- ếch – ti –ô",
+      "D": "In – i – êch – xi – ô"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 189,
+    "question": "Chữ Dextrose trong tiếng Việt theo thuật ngữ Latin đọc là:",
+    "options": {
+      "A": "Đếch - t(ờ)rô - z(ơ).",
+      "B": "Đếch – xờ - t(ờ)rô - z(ơ).",
+      "C": "Dếch - t(ờ)rô - z(ơ).",
+      "D": "Đếch - t(ờ)rô - d(ơ)."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "question": "Chữ Antypyrin trong tiếng Việt theo thuật ngữ Latin đọc là:",
+    "options": {
+      "A": "Ăng - ti – pi- rin .",
+      "B": "An - ti – pi-  rin .",
+      "C": "Ăn - ti - pi - rin .",
+      "D": "Ăng - tuy – puy- rin ."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 191,
+    "question": "Họ Gừng có tên khoa học là:",
+    "options": {
+      "A": "Polygalaceae",
+      "B": "Zingiberaceae",
+      "C": "Liliaceae",
+      "D": "Mimosaceae"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "question": "Họ Cúc có tên khoa học là:",
+    "options": {
+      "A": "Lamiaceae",
+      "B": "Arecaceae",
+      "C": "Asteraceae",
+      "D": "Lamiaceae"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 193,
+    "question": "Họ Cà phê có tên khoa học là:",
+    "options": {
+      "A": "Rubiaceae",
+      "B": "Moraceae",
+      "C": "Fabaceae",
+      "D": "Araceae"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "question": "Ngọn cây, búp cây  có tên khoa học là:",
+    "options": {
+      "A": "Apex",
+      "B": "Albumen",
+      "C": "Anthera",
+      "D": "Arillus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "question": "Quả có tên khoa học là:",
+    "options": {
+      "A": "Folium",
+      "B": "Flos",
+      "C": "Fructus",
+      "D": "Pericarpium"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "question": "Lá cây có tên khoa học là:",
+    "options": {
+      "A": "Folium",
+      "B": "Flos",
+      "C": "Anthera",
+      "D": "Arillus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "question": "Bẹ chìa có tên khoa học là:",
+    "options": {
+      "A": "Corolla",
+      "B": "Flos",
+      "C": "Anthera",
+      "D": "Ochrea"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 198,
+    "question": "Tên khoa học Loài là:",
+    "options": {
+      "A": "Cortex",
+      "B": "Species",
+      "C": "Corolla",
+      "D": "Calyculus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "question": "Tên khoa học của Hạt là:",
+    "options": {
+      "A": "Semen",
+      "B": "Flos",
+      "C": "Anthera",
+      "D": "Arillus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "question": "Họ hoa môi có tên khoa học là:",
+    "options": {
+      "A": "Apocynaceae",
+      "B": "Araliaceae",
+      "C": "Araceae",
+      "D": "Lamiaceae"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 201,
+    "question": "Theo thuật ngữ latin Sintomycin  đọc là:",
+    "options": {
+      "A": "San - tô - my – cin",
+      "B": "Sin  - tô - my – cin",
+      "C": "Sanh - tô - my - xin",
+      "D": "Sanh - tô - my – cin."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 202,
+    "question": "Theo thuật ngữ latin Acid nitric  đọc là:",
+    "options": {
+      "A": "A - cit - ni - tờ - rich",
+      "B": "A - xít - ni - t(ờ) - rích",
+      "C": "A - xít - ni - t(ờ)rích",
+      "D": "A - xít - ni - tờ - rích"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Theo thuật ngữ latin Acgyrol đọc là:",
+    "options": {
+      "A": "Ac- gy - rôl(ơ)",
+      "B": "Ac- gy - rô- l(ơ)",
+      "C": "Ac- gy - rô – lơ",
+      "D": "Ac- gy - rôl - (ơ)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "question": "Theo thuật ngữ latin Acid ascorbic đọc là:",
+    "options": {
+      "A": "A- xít - a - sờ - cooc – bic",
+      "B": "A- xít - a – s(ơ) - cooc – bic",
+      "C": "A- xít - a - sơ - coc – bic",
+      "D": "A- xít - a - sờ - coc – bic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "Theo thuật ngữ latin Ethyl clorid đọc là:",
+    "options": {
+      "A": "Ê - ty l(ơ) - c(ờ)lo – rit",
+      "B": "Ê - thy - l(ơ) - c(ờ)lo – rit",
+      "C": "Ê - ty - l(ơ) - c(ơ)lo – rit",
+      "D": "Ê - ty - lơ - c(ờ)lo – rit"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "question": "Họ Hành có tên khoa học là:",
+    "options": {
+      "A": "Polygalaceae",
+      "B": "Zingiberaceae",
+      "C": "Liliaceae",
+      "D": "Mimosaceae"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 207,
+    "question": "Họ Đậu có tên khoa học là:",
+    "options": {
+      "A": "Lamiaceae",
+      "B": "Arecaceae",
+      "C": "Asteraceae",
+      "D": "Fabaceae"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "question": "Họ lúa có tên khoa học là:",
+    "options": {
+      "A": "Rubiaceae",
+      "B": "Moraceae",
+      "C": "Fabaceae",
+      "D": "Poaceae"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 209,
+    "question": "Họ Cau có tên khoa học là:",
+    "options": {
+      "A": "Lamiaceae",
+      "B": "Arecaceae",
+      "C": "Asteraceae",
+      "D": "Fabaceae"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "question": "Bán nguyên âm J đọc là:",
+    "options": {
+      "A": "Ip - xi- lon",
+      "B": "i",
+      "C": "ip – xờ",
+      "D": "ip – xơ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "question": "Bộ phận dùng làm thuốc làm thuốc của cây Óc chó là",
+    "options": {
+      "A": "Hoa",
+      "B": "Thân",
+      "C": "Hạt",
+      "D": "Lá"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 212,
+    "question": "Đặc điểm về hạt của cây óc chó chia thành:",
+    "options": {
+      "A": "2 thuỳ",
+      "B": "3 thuỳ",
+      "C": "4 thuỳ",
+      "D": "5 thuỳ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 213,
+    "question": "Một trong những công dụng của hạt óc chó là:",
+    "options": {
+      "A": "Chống rụng tóc",
+      "B": "Đen tóc",
+      "C": "Trị ho",
+      "D": "Chữa đau lưng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 214,
+    "question": "Bộ phận dùng làm thuốc trị ho, viêm phế quản của cây Óc chó là:",
+    "options": {
+      "A": "Hoa",
+      "B": "Thân",
+      "C": "Hạt",
+      "D": "Lá"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 215,
+    "question": "Công dụng của vỏ quả cây Óc chó là",
+    "options": {
+      "A": "Chữa mất ngủ",
+      "B": "Giảm cholesteron",
+      "C": "Chữa bệnh Herpes",
+      "D": "Hạ huyết áp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 216,
+    "question": "Một trong những công dụng của Sâm đại hành là:",
+    "options": {
+      "A": "Bổ máu",
+      "B": "Kích thích tiêu hóa",
+      "C": "Chữa sốt",
+      "D": "Sát khuẩn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "question": "Liều dùng của Sâm đại hành khô là:",
+    "options": {
+      "A": "2- 4g/ ngày",
+      "B": "6- 12g/ ngày",
+      "C": "10- 12g/ngày",
+      "D": "15-20g/ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 218,
+    "question": "Alcaloid chủ yếu trong Hoàng liên là",
+    "options": {
+      "A": "Berberin",
+      "B": "Palmatin",
+      "C": "Coptism",
+      "D": "Cafein"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 219,
+    "question": "Liều dùng của Hoàng liên là",
+    "options": {
+      "A": "3-6g/ ngày",
+      "B": "5- 10g/ ngày",
+      "C": "6- 12g/ ngày",
+      "D": "10- 20g/ ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 220,
+    "question": "Một trong những công dụng của Tỏi là",
+    "options": {
+      "A": "Chống nhiễm trùng đường hô hấp",
+      "B": "Chữa lỵ",
+      "C": "Chàm nhiễm trùng",
+      "D": "Chốc đầu ở trẻ em"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Một trong những công dụng của Nghệ dùng đường uống là:",
+    "options": {
+      "A": "Viêm lợi",
+      "B": "Sỏi thận",
+      "C": "Viêm họng",
+      "D": "Viêm dạ dày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 222,
+    "question": "Liều dùng của Nghệ là:",
+    "options": {
+      "A": "2 – 4 g/ ngày",
+      "B": "6- 12g/ ngày",
+      "C": "10-20g/ ngày",
+      "D": "15- 20g/ ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 223,
+    "question": "Công dụng của Nghệ khi dùng ngoài chữa:",
+    "options": {
+      "A": "Chốc lở đầu",
+      "B": "Nhanh liền sẹo.",
+      "C": "Nấm kẽ",
+      "D": "Herpes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 224,
+    "question": "Liều dùng của rễ bạch hoa xà",
+    "options": {
+      "A": "2-4g",
+      "B": "6-12g",
+      "C": "10- 15g.",
+      "D": "15- 30g"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 225,
+    "question": "Một trong những công dụng của bạch hoa xà là trị:",
+    "options": {
+      "A": "Đau đầu",
+      "B": "Đau dạ dày",
+      "C": "Phong thấp đau nhức xương",
+      "D": "Rối loạn tiêu hóa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "question": "Thể chất của đa số tinh dầu",
+    "options": {
+      "A": "Không bay hơi được ở nhiệt độ thường",
+      "B": "Ở thể rắn",
+      "C": "Lỏng ở nhiệt độ thường",
+      "D": "Không bay hơi được ở nhiệt độ cao"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Một trong những tác dụng của tinh dầu khi sử dụng ngoài da:",
+    "options": {
+      "A": "Chống viêm",
+      "B": "Trị nấm",
+      "C": "Trị bỏng",
+      "D": "Trị hôi nách"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 228,
+    "question": "Trần bì là bộ phận nào phơi khô của quýt",
+    "options": {
+      "A": "Vỏ quả",
+      "B": "Vỏ thân",
+      "C": "Vỏ cành",
+      "D": "Vỏ rễ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 229,
+    "question": "Liều dùng của Trần bì là",
+    "options": {
+      "A": "4-8g/ ngày",
+      "B": "6-12g/ ngày",
+      "C": "10-15g/ ngày",
+      "D": "15-30g/ ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "question": "Bộ phận nào của cây quýt dùng để chữa đau ruột non:",
+    "options": {
+      "A": "Hạt",
+      "B": "Vỏ quả",
+      "C": "Lá",
+      "D": "Thân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Thảo quả thuộc họ",
+    "options": {
+      "A": "Gừng",
+      "B": "Cam",
+      "C": "Hoa môi",
+      "D": "Bạc hà"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "question": "Thành phần hóa học chính của tinh dầu thảo quả là",
+    "options": {
+      "A": "Aldehyd cinamic",
+      "B": "Camphen",
+      "C": "Borneol",
+      "D": "Cineol"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 233,
+    "question": "Một trong những Công dụng của thảo quả",
+    "options": {
+      "A": "Chữa đau bụng",
+      "B": "Chữa ho",
+      "C": "Chữa đau dạ dày",
+      "D": "Chữa cảm nóng không ra mồ hôi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "question": "Thành phần hóa học chính của tinh dầu bạc hà á là",
+    "options": {
+      "A": "Camphor",
+      "B": "Borneol",
+      "C": "Cineol",
+      "D": "L-menthol"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 235,
+    "question": "Thành phần hóa học chính trong cây bạc hà á thuộc nhóm:",
+    "options": {
+      "A": "Alcaloid",
+      "B": "Tinh dầu",
+      "C": "Tanin",
+      "D": "Flavonoid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Liều dùng của bạc hà á là",
+    "options": {
+      "A": "4-8g/ ngày",
+      "B": "6-12g/ ngày",
+      "C": "10-15g/ ngày",
+      "D": "15-30g/ ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 237,
+    "question": "Cây long não thuộc họ",
+    "options": {
+      "A": "Cam",
+      "B": "Gừng",
+      "C": "Long não",
+      "D": "Hoa môi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Bộ phận dùng của cây long não:",
+    "options": {
+      "A": "Thân",
+      "B": "Rễ",
+      "C": "Gỗ và lá",
+      "D": "Cành"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 239,
+    "question": "Thành phần hóa học chính trong long não:",
+    "options": {
+      "A": "Methol",
+      "B": "Menthofuran",
+      "C": "Limonen",
+      "D": "Camphor và tinh dầu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 240,
+    "question": "Một trong những tác dụng của Camphor là:",
+    "options": {
+      "A": "Chữa đau dạ dày",
+      "B": "Kích thích cơ trơn đường tiêu hóa",
+      "C": "Kích thích thần kinh thực vật",
+      "D": "Kích thích thần kinh trung ương"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 241,
+    "question": "Một trong những thành phần hoá học của Gừng là",
+    "options": {
+      "A": "Saponin",
+      "B": "Tinh dầu",
+      "C": "Alcaloid",
+      "D": "Tanin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 242,
+    "question": "Trong y học cổ truyền gừng tươi được gọi là",
+    "options": {
+      "A": "Can khương",
+      "B": "Sinh khương",
+      "C": "Nga truật",
+      "D": "Sung úy thảo"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "question": "Trong y học cổ truyền gừng khô được gọi là",
+    "options": {
+      "A": "Can khương",
+      "B": "Sinh khương",
+      "C": "Khương hoàng",
+      "D": "Địa cốt bì"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 244,
+    "question": "Cây Đinh hương thuộc họ",
+    "options": {
+      "A": "Long não",
+      "B": "Sim",
+      "C": "Cúc",
+      "D": "Cam"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 245,
+    "question": "Nụ hoa Đinh hương có chứa tinh dầu từ",
+    "options": {
+      "A": "15-20%",
+      "B": "20- 25%",
+      "C": "25-30%",
+      "D": "35-40%"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Bộ phận dùng của Đại hồi là",
+    "options": {
+      "A": "Quả",
+      "B": "Hoa",
+      "C": "Nụ Hoa",
+      "D": "Vỏ quả"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "question": "Theo đông y Quế có tính vị",
+    "options": {
+      "A": "Ngọt cay, đại nhiệt.",
+      "B": "Ngọt, ôn",
+      "C": "Cay, hàn.",
+      "D": "Cay, Ôn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "question": "Một trong những tác dụng của Quế là:",
+    "options": {
+      "A": "Kích thích tiêu hoá",
+      "B": "Kích thích thần kinh trung ương",
+      "C": "Ức chế thần kinh trung ương",
+      "D": "Chống rụng tóc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 249,
+    "question": "Alcaloid phản ứng với thuốc thử HNO3 tạo tủa có màu:",
+    "options": {
+      "A": "xanh",
+      "B": "Đỏ",
+      "C": "Vàng tươi",
+      "D": "Cam"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 250,
+    "question": "Alcaloid là những hợp chất hữu cơ có chứa:",
+    "options": {
+      "A": "Carbon",
+      "B": "Hydro",
+      "C": "Nitơ",
+      "D": "Oxy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 251,
+    "question": "Alcaloid chính trong Ma hoàng là",
+    "options": {
+      "A": "Morphin",
+      "B": "Cafein",
+      "C": "L- Ephedrin",
+      "D": "Nicotin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 252,
+    "question": "Cây Ớt thuộc họ",
+    "options": {
+      "A": "Cà",
+      "B": "Cúc",
+      "C": "Cam",
+      "D": "Sim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "question": "Bộ phận dùng của Cây Ớt",
+    "options": {
+      "A": "Quả, lá",
+      "B": "Toàn cây",
+      "C": "Rễ",
+      "D": "Thân rễ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "question": "Thành phần hóa học chính trong quả Ớt là",
+    "options": {
+      "A": "Capsaicin",
+      "B": "Papaverin",
+      "C": "Daizin",
+      "D": "Cuomarin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "question": "Ích mẫu thuộc loại cây",
+    "options": {
+      "A": "Thân gỗ",
+      "B": "Thân leo",
+      "C": "Thân bò",
+      "D": "Thân thảo"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 256,
+    "question": "Ích mẫu thuộc họ",
+    "options": {
+      "A": "Hoa môi",
+      "B": "Cà",
+      "C": "Ma hoàng",
+      "D": "Cà phê"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "question": "Quả của cây Ích mẫu còn được gọi là:",
+    "options": {
+      "A": "Xa tiền tử",
+      "B": "Chi tử",
+      "C": "Nha đảm tử",
+      "D": "Sung úy tử"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 258,
+    "question": "Một trong những công dụng của Ích mẫu là",
+    "options": {
+      "A": "Bổ huyết dùng cho người mới ốm dậy",
+      "B": "Chữa sốt không ra mồ hôi",
+      "C": "Chữa rong huyết",
+      "D": "Giảm đau trong các bệnh đau khớp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 259,
+    "question": "Một trong những thành phần hóa học trong hạt Hồ tiêu là:",
+    "options": {
+      "A": "Saponin",
+      "B": "Alcaloid",
+      "C": "Glycosid",
+      "D": "Tanin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "question": "Một trong những công dụng của Hồ tiêu là",
+    "options": {
+      "A": "Cầm máu",
+      "B": "Kích thích tiêu hoá",
+      "C": "Chống viêm đường tiêu hóa",
+      "D": "Sáng mắt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 261,
+    "question": "Một trong những công dụng của Lựu là:",
+    "options": {
+      "A": "Chữa ho",
+      "B": "Dùng làm thuốc chữa sán",
+      "C": "Dùng làm thuốc chữa giun",
+      "D": "Mụn nhọt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "question": "Vị Binh lang là cách gọi khác của",
+    "options": {
+      "A": "Quả cau",
+      "B": "Hạt cau",
+      "C": "Vỏ quả cau",
+      "D": "Buồng cau"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "question": "Vỏ quả cau còn có tên gọi khác là",
+    "options": {
+      "A": "Binh lang",
+      "B": "Đại phúc bì",
+      "C": "Tang bạch bì",
+      "D": "Tân lang"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "Nước sắc hạt cau có tác dụng",
+    "options": {
+      "A": ".Diệt các loại giun",
+      "B": "Tê liệt sán dây",
+      "C": "Diệt giun đũa",
+      "D": "Diệt giun kim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "question": "Liều dùng của hạt cau là",
+    "options": {
+      "A": "2-4g/ngày",
+      "B": "6-12g/ ngày",
+      "C": "8-16g/ ngày",
+      "D": "10-20g/ ngày"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "question": "Đặc điểm của quả cà độc dược",
+    "options": {
+      "A": "Quả hình thận, mặt ngoài có gai",
+      "B": "Quả hình thận, mặt ngoài có khía răng cưa",
+      "C": "Quả hình cầu, mặt ngoài có gai",
+      "D": "Quả hình cầu, mặt ngoài có khía răng cưa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 267,
+    "question": "Thành phần hóa học chính trong cà độc dược:",
+    "options": {
+      "A": "Glycoside",
+      "B": "Chất nhựa",
+      "C": "Chất nhầy",
+      "D": "Alcaloid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 268,
+    "question": "Một trong những tác dụng của cà độc dược là:",
+    "options": {
+      "A": "Chống tiêu chảy",
+      "B": "Co đồng tử",
+      "C": "Ức chế thần kinh thực vật",
+      "D": "Ức chế hệ cơ trơn"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 269,
+    "question": "Thành phần hóa học chính trong cây canhkina là",
+    "options": {
+      "A": "Brucin",
+      "B": "Stricnin",
+      "C": "Atropin",
+      "D": "Quinin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 270,
+    "question": "Alcaloid chính của cây ipeca là",
+    "options": {
+      "A": "Brucin",
+      "B": "Stricnin",
+      "C": "Atropin",
+      "D": "Emetin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 271,
+    "question": "Alcaloid chính của cây thuốc phiện là",
+    "options": {
+      "A": "Emetin, Codein, thebain",
+      "B": "Cafein, Codein, thebain",
+      "C": "Brucin, Codein, thebain",
+      "D": "Morphin, Codein, papaverin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 272,
+    "question": "Cây Bình vôi thuộc họ",
+    "options": {
+      "A": "Hồ tiêu",
+      "B": "Trinh nữ",
+      "C": "Dâu tằm",
+      "D": "Tiết dê"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 273,
+    "question": "Quả cây Bình vôi là loại quả:",
+    "options": {
+      "A": "Quả hạch",
+      "B": "Quả mọng",
+      "C": "Quả khô",
+      "D": "Quả đóng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "question": "Alcaloid chính của cây bình vôi là",
+    "options": {
+      "A": "Stephanin",
+      "B": "Palmatin",
+      "C": "Brucin",
+      "D": "Rotundin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 275,
+    "question": "Một trong những công dụng của cây vàng đắng là",
+    "options": {
+      "A": "Chữa đau lưng",
+      "B": "Chữa  đau đầu",
+      "C": "Chữa đau răng",
+      "D": "Chữa lỵ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 276,
+    "question": "Liều dùng của cây vàng đắng là",
+    "options": {
+      "A": "0,5-1g./ngày",
+      "B": "1-2g./ngày",
+      "C": "2-4g./ngày",
+      "D": "4-6g./ngày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 277,
+    "question": "Quả cây Hoàng liên gai có đặc điểm",
+    "options": {
+      "A": "Quả mọng hình trái xoan",
+      "B": "Quả mọng hình trứng ngược",
+      "C": "Quả khô hình trứng ngược",
+      "D": "Quả đóng hình trứng ngược"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "question": "Thành phần hóa học chính trong cây Hoàng liên là:",
+    "options": {
+      "A": "Berberin",
+      "B": "Emetin",
+      "C": "Capsaicin",
+      "D": "Uabain"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "question": "Cây hoàng bá thuộc họ",
+    "options": {
+      "A": "Cam",
+      "B": "Cà",
+      "C": "Mõm chó",
+      "D": "Hoàng liên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "question": "Thành phần hóa học trong vỏ thân hoàng bá có chứa khoảng",
+    "options": {
+      "A": "1,6% berberin",
+      "B": "2,6% berberin",
+      "C": "3,6% berberin",
+      "D": "4,6% berberin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "question": "Bộ phận dùng của cây hoàng đằng là",
+    "options": {
+      "A": "Thân và rễ",
+      "B": "Lá",
+      "C": "Quả",
+      "D": "Vỏ thân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 282,
+    "question": "Đặc điểm thực vật của quả cây hoàng đằng",
+    "options": {
+      "A": "Quả hạch",
+      "B": "Quả mọng",
+      "C": "Quả khô",
+      "D": "Quả đóng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "question": "Alcaloid chính có trong cây hoàng đằng là",
+    "options": {
+      "A": "Palmatin",
+      "B": "Emetin",
+      "C": "Capsaicin",
+      "D": "Uabain"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "Một trong những công dụng của cây hoàng đằng là",
+    "options": {
+      "A": "Chữa viêm ruột",
+      "B": "Chữa sâu răng",
+      "C": "Chữa đau lưng",
+      "D": "Chữa đau đầu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "question": "Thành phần hóa học chính của hạt mã tiền là",
+    "options": {
+      "A": "Strychnin",
+      "B": "Berberin",
+      "C": "Brucin",
+      "D": "Atropin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 286,
+    "question": "Một trong những tác dụng của Strychnin là",
+    "options": {
+      "A": "Kích thích thần kinh trung ương",
+      "B": "Kích thích thần kinh thực vật",
+      "C": "Ức chế thần kinh trung ương",
+      "D": "Kích thích thần kinh ngoại biên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "question": "Mã tiền được dùng làm nguyên liệu để chiết xuất",
+    "options": {
+      "A": "Strychnin",
+      "B": "Berberin",
+      "C": "Brucin",
+      "D": "Atropin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "question": "Bộ phận dùng của cây hoàng nàn là",
+    "options": {
+      "A": "Vỏ cây",
+      "B": "Toàn cây",
+      "C": "Hoa",
+      "D": "Thân rễ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "question": "Đặc điểm thực vật của hoa cây Dừa cạn",
+    "options": {
+      "A": "Hoa trắng hoặc hồng",
+      "B": "Hoa trắng hoặc vàng",
+      "C": "Hoa vàng hoặc hồng",
+      "D": "Hoa đỏ hoặc hồng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 290,
+    "question": "Cao lỏng dừa cạn có tác dụng",
+    "options": {
+      "A": "Hạ huyết áp, an thần gây ngủ",
+      "B": "Hạ huyết áp, chữa suy tim",
+      "C": "Hạ huyết áp, chữa tim đập nhanh",
+      "D": "Tăng huyết áp, an thần gây ngủ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 291,
+    "question": "Vinblastin và vincristin trong dừa cạn có tác dụng",
+    "options": {
+      "A": "Chống ung thư",
+      "B": "Chống viêm đường tiết niệu",
+      "C": "Chống tai biến",
+      "D": "Chữa viêm ruột"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 292,
+    "question": "Liều dùng của cây dừa cạn là",
+    "options": {
+      "A": "2- 4g/ ngày",
+      "B": "4- 6g/ ngày",
+      "C": "8-12g/ ngày",
+      "D": "10-20g/ ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 293,
+    "question": "Một trong những tên khác của cây Lạc tiên là",
+    "options": {
+      "A": "Mắc khén",
+      "B": "Lõi tiền",
+      "C": "Lồng đèn.",
+      "D": "Hải đồng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 294,
+    "question": "Liều dùng của cây Lạc tiên là",
+    "options": {
+      "A": "2- 4g/ ngày",
+      "B": "4- 6g/ ngày",
+      "C": "10-20g / ngày",
+      "D": "15-30g/ ngày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 295,
+    "question": "công dụng của cây Lạc tiên là",
+    "options": {
+      "A": "An thần chữa mất ngủ, chữa đau dạ dày do căng thẳng thần kinh",
+      "B": "An thần chữa mất ngủ, chữa trầm cảm do căng thẳng thần kinh",
+      "C": "An thần chữa mất ngủ, suy nhược thần kinh, động kinh, co giật.",
+      "D": "An thần chữa mất ngủ, suy nhược tỳ vị, kém ăn, ăn uống không tiêu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "question": "Một trong những tên khác của cây Thường sơn là",
+    "options": {
+      "A": "Mắc khén",
+      "B": "Lõi tiền",
+      "C": "Kê niệu thảo",
+      "D": "Hải đồng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 297,
+    "question": "Một trong những công dụng Cây Thường sơn là:",
+    "options": {
+      "A": "Chữa sốt rét",
+      "B": "Chữa cảm lạnh",
+      "C": "Chữa ho",
+      "D": "Chữa phong thấp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "question": "Đặc điểm quả lúc non của cây cà phê có màu",
+    "options": {
+      "A": "Xanh",
+      "B": "Đỏ",
+      "C": "Vàng",
+      "D": "Tím"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 299,
+    "question": "Hạt và lá Cà phê sống giã nát ngâm rượu uống có tác dụng",
+    "options": {
+      "A": "Chữa tê thấp",
+      "B": "Chữa bệnh ngoài da",
+      "C": "Chữa sâu răng",
+      "D": "Chữa đau dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "question": "Bộ phận dùng của cây Mức hoa trắng:",
+    "options": {
+      "A": "Vỏ thân",
+      "B": "Vỏ cành",
+      "C": "Lá",
+      "D": "Rễ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 301,
+    "question": "Một trong những tác dụng cây Mức hoa trắng là:",
+    "options": {
+      "A": "Chữa lỵ amip",
+      "B": "Chữa cảm lạnh",
+      "C": "Chữa ho",
+      "D": "Chữa phong thấp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 302,
+    "question": "Bộ phận dùng của cây Bách bộ là",
+    "options": {
+      "A": "Rễ củ",
+      "B": "Thân rễ",
+      "C": "Lá",
+      "D": "Hoa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 303,
+    "question": "Alcaloid chính có trong cây Bách bộ là",
+    "options": {
+      "A": "Tuberostemonin",
+      "B": "Stemonin",
+      "C": "Tuberlin",
+      "D": "Stricnin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "question": "Bách bộ làm thuốc trị ho có liều dùng là",
+    "options": {
+      "A": "2- 4g/ ngày",
+      "B": "3- 6g/ ngày",
+      "C": "6-20g/ ngày",
+      "D": "15-30g/ ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 305,
+    "question": "Một trong những tác dụng cây Bách bộ là:",
+    "options": {
+      "A": "Giảm ho",
+      "B": "Chữa cảm lạnh",
+      "C": "Chữa tiêu chảy",
+      "D": "Chữa phong thấp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 306,
+    "question": "Cây tỏi độc thuộc họ",
+    "options": {
+      "A": "Hoa hồng",
+      "B": "Lúa",
+      "C": "Hành",
+      "D": "Cam"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 307,
+    "question": "bộ phận dùng của cây tỏi độc là",
+    "options": {
+      "A": "Lá",
+      "B": "Thân rễ",
+      "C": "Hạt chín",
+      "D": "Toàn cây"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 308,
+    "question": "Cây Beladon thuộc họ",
+    "options": {
+      "A": "Nhân sâm",
+      "B": "Sim",
+      "C": "Cà",
+      "D": "Đậu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 309,
+    "question": "Đặc điểm về quả của cây Beladon là",
+    "options": {
+      "A": "Quả hạch, chứa nhiều hạt, lúc đầu có màu xanh sau chín có màu tím đen",
+      "B": "Quả khô, chứa nhiều hạt, lúc đầu có màu xanh sau chín có màu tím đen",
+      "C": "Quả thịt, chứa nhiều hạt, lúc đầu có màu xanh sau chín có màu tím đen",
+      "D": "Quả thịt, chứa ít hạt, lúc đầu có màu xanh sau chín có màu tím đen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "Thành phần hóa học chính trong Cây Beladon là",
+    "options": {
+      "A": "Glycosid",
+      "B": "Saponin",
+      "C": "Acaloid",
+      "D": "Tanin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 311,
+    "question": "Một trong những tác dụng của Atropin có trong Cây Beladon là",
+    "options": {
+      "A": "Làm liệt giao cảm",
+      "B": "Kích thích giao cảm",
+      "C": "Làm liệt phó giao cảm",
+      "D": "Kích thích phó giao cảm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 312,
+    "question": "Sử dụng dịch chiết rễ cây Beladon để chữa bệnh",
+    "options": {
+      "A": "Động kinh",
+      "B": "Alzemor",
+      "C": "Parkinson.",
+      "D": "Liệt giao cảm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 313,
+    "question": "Hạch nấm Cựa khoả mạch có vị",
+    "options": {
+      "A": "Chua",
+      "B": "Ngọt",
+      "C": "Đắng.",
+      "D": "Cay"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 314,
+    "question": "Một trong những tác dụng của Hạch nấm Cựa khoả mạch là",
+    "options": {
+      "A": "Giảm sự co thắt của các cơ trơn",
+      "B": "Kích thích sự co thắt của các cơ trơn phế quản",
+      "C": "Kích thích sự co thắt của các cơ trơn",
+      "D": "Kích thích sự co thắt của các mao mạch"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 315,
+    "question": "Liều dùng của cây chè là",
+    "options": {
+      "A": "2-4g/ ngày",
+      "B": "3-6g/ ngày",
+      "C": "5-10g/ ngày.",
+      "D": "6-12g/ ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "Một trong những thành phần hóa học của cà lá xẻ",
+    "options": {
+      "A": "Cortison",
+      "B": "Progesterone",
+      "C": "Solasodin.",
+      "D": "Presnison"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 317,
+    "question": "Một trong những tác dụng của Cà lá xẻ là",
+    "options": {
+      "A": "Chống co giật",
+      "B": "Chữa mụn nhọt",
+      "C": "Chống viêm dùng trong các bệnh dị ứng",
+      "D": "Chữa mất ngủ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 318,
+    "question": "Hàm lượng nước trong Mật ong là:",
+    "options": {
+      "A": "2-5%",
+      "B": "5- 10%",
+      "C": "18 - 20%.",
+      "D": "25-30%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 319,
+    "question": "Một trong những tác dụng của nọc rắn hổ mang chúa",
+    "options": {
+      "A": "Gây tê tại chỗ",
+      "B": "Chống viêm",
+      "C": "Làm thuốc bổ kích thích tiêu hóa",
+      "D": "Dùng tăng sức cho người già yếu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 320,
+    "question": "Một trong những thành phần hoá học của mật Rắn",
+    "options": {
+      "A": "Acid acetic",
+      "B": "Acid Steraric",
+      "C": "Acid Malic",
+      "D": "Acid cholic"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 321,
+    "question": "Một trong những tác dụng của tắc kè",
+    "options": {
+      "A": "Chữa suy nhược cơ thể",
+      "B": "Chữa đau dạ dày",
+      "C": "Chữa bệnh đau xương",
+      "D": "Chữa đau bụng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "question": "Một trong những thành phần hoá học của tắc kè là",
+    "options": {
+      "A": "Dầu béo và Glysin",
+      "B": "Dầu béo và Arginin",
+      "C": "Dầu béo và Leusin",
+      "D": "Dầu béo các acid amin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 323,
+    "question": "Một trong những công dụng của Sao biển",
+    "options": {
+      "A": "Làm vết thương mau lên da non",
+      "B": "Chữa bán thân bất toại",
+      "C": "Chữa bệnh thần kinh đau nhức",
+      "D": "Dùng làm thuốc bổ dưỡng cơ thể"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 324,
+    "question": "Một trong những công dụng của Cá ngựa",
+    "options": {
+      "A": "Làm vết thương mau lên da non",
+      "B": "Chữa bán thân bất toại",
+      "C": "Chữa bệnh thần kinh đau nhức",
+      "D": "Thuốc bổ, kích thích sinh dục"
+    },
+    "answer": "D"
+  }
+]
