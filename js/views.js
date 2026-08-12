@@ -50,9 +50,9 @@ export function renderDashboard(history) {
   if (entries.length === 0) {
     return `
       <section class="dashboard-section">
-        <h3 class="dashboard-title">📊 Thống kê của Mun ngu</h3>
+        <h3 class="dashboard-title">📊 Thống kê</h3>
         <div class="dashboard-empty">
-          <p>Hoàn thành một bài để Mun ngu mở khoá thống kê nha~ 🌷</p>
+          <p>Hoàn thành một bài để mở khoá thống kê nha~ 🌷</p>
         </div>
       </section>
     `;
@@ -103,7 +103,7 @@ export function renderDashboard(history) {
   return `
     <section class="dashboard-section">
       <div>
-        <h3 class="dashboard-title">📊 Thống kê của Mun ngu</h3>
+        <h3 class="dashboard-title">📊 Thống kê</h3>
         <p class="dashboard-subtitle">10 lần làm bài gần nhất</p>
       </div>
       <div class="dashboard-chart-wrap">
@@ -198,7 +198,7 @@ export function renderHome(app, state, { session, lastResult, bookmarks, history
 
   const topicSelectorHtml = `
     <section class="topic-selector-card">
-      <h3>📚 Chọn học phần cho Mun Ngu</h3>
+      <h3>📚 Chọn học phần</h3>
       <div class="topic-tabs">
         ${topicTabsHtml}
       </div>
@@ -230,27 +230,27 @@ export function renderHome(app, state, { session, lastResult, bookmarks, history
       <section class="control-row">
         <label class="toggle-card">
           <input type="checkbox" data-role="shuffle-toggle" ${state.persisted.settings.shuffleQuestions ? "checked" : ""} />
-          <span>🔀 Trộn thứ tự câu hỏi cho Mun ngu</span>
+          <span>🔀 Trộn thứ tự câu hỏi</span>
         </label>
         <label class="toggle-card">
           <input type="checkbox" data-role="shuffle-options-toggle" ${state.persisted.settings.shuffleOptions ? "checked" : ""} />
-          <span>🔤 Đảo đáp án A/B/C/D cho Mun ngu</span>
+          <span>🔤 Đảo đáp án A/B/C/D</span>
         </label>
         <label class="toggle-card">
           <input type="checkbox" data-role="fast-mode-toggle" ${state.persisted.settings.fastMode ? "checked" : ""} />
-          <span>⏩ Làm nhanh cho Mun ngu</span>
+          <span>⏩ Làm nhanh</span>
         </label>
         <label class="toggle-card">
           <input type="checkbox" data-role="instant-feedback-toggle" ${state.persisted.settings.immediateFeedback ? "checked" : ""} />
-          <span>⚡ Báo đúng/sai cho Mun ngu</span>
+          <span>⚡ Báo đúng/sai</span>
         </label>
       </section>
 
       <section class="setup-card">
         <div>
-          <h3>🚀 Bắt đầu theo khoảng câu cho Mun ngu</h3>
+          <h3>🚀 Bắt đầu theo khoảng câu</h3>
           <p class="subtle-text">
-            chọn khoảng câu cho Mun Ngu
+            chọn khoảng câu
           </p>
         </div>
 
@@ -281,7 +281,7 @@ export function renderHome(app, state, { session, lastResult, bookmarks, history
               data-role="range-end"
             />
           </label>
-          <button class="secondary-button" data-action="start-range">Mun ngu bắt đầu</button>
+          <button class="secondary-button" data-action="start-range">Bắt đầu</button>
         </div>
 
         ${state.ui.setupError
@@ -363,7 +363,7 @@ export function renderHistorySection(history, showHistory) {
   return `
     <section class="history-section">
       <div class="history-header">
-        <h3 class="history-title">📋 Lịch sử làm bài của Mun ngu ${hasHistory ? `<span class="history-count">(${history.length})</span>` : ""}</h3>
+        <h3 class="history-title">📋 Lịch sử làm bài ${hasHistory ? `<span class="history-count">(${history.length})</span>` : ""}</h3>
         <button class="history-toggle-btn" data-action="history-toggle">
           ${showHistory ? '▲ Thu lại' : '▼ Mở ra'}
         </button>
