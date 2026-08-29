@@ -1,0 +1,4996 @@
+[
+  {
+    "id": 1,
+    "question": "Biến chứng bệnh mắt hột:",
+    "options": {
+      "A": "Viêm bờ mi",
+      "B": "Chắp, lẹo mắt",
+      "C": "Lẹo mắt",
+      "D": "Lông quặm, lông xiêu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "question": "Biến chứng bệnh viêm tai giữa:",
+    "options": {
+      "A": "Viêm phổi",
+      "B": "Viêm màng bồ đào",
+      "C": "Viêm mũi họng cấp",
+      "D": "Tiêu chảy kéo dài"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Biến chứng của bệnh viêm VA:",
+    "options": {
+      "A": "Viêm thanh quản",
+      "B": "Viêm mũi họng cấp",
+      "C": "Viêm tai xương chũm",
+      "D": "Điếc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Nguyên nhân toàn thân có thể gây viêm quanh răng là:",
+    "options": {
+      "A": "Vệ sinh răng miệng kém",
+      "B": "Do tuyến nước bọt",
+      "C": "Sâu răng không được xử trí kịp thời",
+      "D": "Bệnh toàn thân như lao, giang mai, đái tháo đường"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "Giai đoạn da đỏ trong bệnh eczema có dặc điểm:",
+    "options": {
+      "A": "Xuất hiện nốt sẩn",
+      "B": "Xuất hiện nốt sẩn phát triển thành mụn nước nhỏ",
+      "C": "Xuất hiện đám da đỏ, ranh giới không rõ",
+      "D": "Tổ chức da bị xơ hóa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Nếu ruột thừa viêm không được xử trí kịp thời, sẽ tiến triển thành đám quánh ruột thừa với biểu hiện:",
+    "options": {
+      "A": "Sốt giảm, đỡ đau bụng",
+      "B": "Sốt cao, đau bụng dữ dội",
+      "C": "Sốt giảm, đau bụng ngày càng tăng",
+      "D": "Cơ thể suy nhược"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Nếu ruột thừa viêm không được xử trí kịp thời, sẽ tiến triển thành viêm phúc mạc với biểu hiện:",
+    "options": {
+      "A": "Sốt cao, toàn thân suy sụp nhanh, có dấu hiệu nhiễm khuẩn nặng",
+      "B": "Sốt giảm, đau bụng dữ dội, nhiễm khuẩn nặng",
+      "C": "Sốt giảm, sờ bụng mềm",
+      "D": "Sốt cao, sờ bụng mềm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Thuốc được dùng làm tan sỏi mật:",
+    "options": {
+      "A": "Chenodex",
+      "B": "Atropin",
+      "C": "Magiesulfat",
+      "D": "Dolargan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Thuốc có tác dụng giảm co thắt cơ trơn niệu quản:",
+    "options": {
+      "A": "Chenodex",
+      "B": "Atropin",
+      "C": "Magiesulfat",
+      "D": "Dolargan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Nguyên nhân gây tắc ruột cơ học:",
+    "options": {
+      "A": "Lòng ruột bị nút lại bởi những vật lạ",
+      "B": "Ruột bị liệt",
+      "C": "Ruột bị co thắt",
+      "D": "Tổn thương thần kinh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Nếu người bệnh bị bỏng vùng đầu mặt cổ, đánh giá tổn thương với diện tích là:",
+    "options": {
+      "A": "9%",
+      "B": "18%",
+      "C": "1%",
+      "D": "2%"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Nếu người bệnh bị bỏng vùng bộ phận sinh dục, đánh giá tổn thương với diện tích là:",
+    "options": {
+      "A": "9%",
+      "B": "18%",
+      "C": "1%",
+      "D": "2%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Nếu người bệnh bị bỏng vùng thân trước, đánh giá tổn thương với diện tích là:",
+    "options": {
+      "A": "9%",
+      "B": "18%",
+      "C": "1%",
+      "D": "2%"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Trẻ bị còi xương do thiếu vitamin D, cần bổ sung vitamin D với liều lượng:",
+    "options": {
+      "A": "2000 – 4000 đơn vị / ngày tổng liều 60000 đơn vị.",
+      "B": "1000 – 2000 đơn vị / ngày tổng liều 50000 đơn vị.",
+      "C": "3000 – 5000 đơn vị / ngày tổng liều 80000 đơn vị.",
+      "D": "500 – 1000 đơn vị / ngày tổng liều 10000 đơn vị"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Yếu tố nguy cơ gây nhiễm khuẩn hô hấp cấp tính ở trẻ em là:",
+    "options": {
+      "A": "Trẻ đẻ ra có cân nặng trên 2500 g",
+      "B": "Trẻ được nuôi bằng sữa mẹ",
+      "C": "Trẻ đẻ ra có cân nặng trên 3000 g",
+      "D": "Thời tiết lạnh"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Trẻ dưới < 2 tháng được phân loại là thở nhanh khi tần số thở:",
+    "options": {
+      "A": "30 lần/phút",
+      "B": "40 lần/phút",
+      "C": "50 lần/phút",
+      "D": "60 lần/phút"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Trẻ dưới từ 2 - < 12 tháng được phân loại là thở nhanh khi tần số thở:",
+    "options": {
+      "A": "30 lần/phút",
+      "B": "40 lần/phút",
+      "C": "50 lần/phút",
+      "D": "60 lần/phút"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Trẻ dưới từ 12 tháng - < 5 tuổi được phân loại là thở nhanh khi tần số thở:",
+    "options": {
+      "A": "30 lần/phút",
+      "B": "40 lần/phút",
+      "C": "50 lần/phút",
+      "D": "60 lần/phút"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Theo chương trình nhiễm khuẩn hô hấp cấp, trẻ dưới 2 tháng tuổi được phân loại có dấu hiệu nguy kịch khi có biểu hiện dấu hiệu nào dưới đây:",
+    "options": {
+      "A": "Sốt hoặc hạ nhiệt độ.",
+      "B": "Ho",
+      "C": "Chảy nước mũi",
+      "D": "Nhịp thở 40 lần/phút"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Theo chương trình nhiễm khuẩn hô hấp cấp tính, dấu hiệu quyết định để phân loại Viêm phổi rất nặng ở trẻ từ 2 tháng đến dưới 5 tuổi là:",
+    "options": {
+      "A": "Rút lõm lồng ngực.",
+      "B": "Thở nhanh.",
+      "C": "Ngủ li bì khó đánh thức.",
+      "D": "Ho."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Theo chương trình nhiễm khuẩn hô hấp cấp tính, dấu hiệu để phân loại viêm phổi cho trẻ 2 tháng – 5 tuổi là:",
+    "options": {
+      "A": "Rút lõm lồng ngực.",
+      "B": "Thở nhanh.",
+      "C": "Dấu hiệu nguy kịch.",
+      "D": "Ho."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Trẻ 2 tháng đến 12 tháng tuổi được phân loại là thở nhanh khi tần số thở:",
+    "options": {
+      "A": "Từ 60 lần/ phút trở lên",
+      "B": "Từ 50 lần/ phút trở lên",
+      "C": "Từ 40 lần/ phút trở lên",
+      "D": "Từ 30 lần/ phút trở lên"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Trẻ từ 2 tháng đến 5 tuổi bị viêm phảo đang điều trị tại nhà, cần khám lại khi:",
+    "options": {
+      "A": "Vẫn ho",
+      "B": "Chảy nước mũi",
+      "C": "Còn sốt nhẹ",
+      "D": "Rút lõm lồng ngực"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Trẻ từ 2 tháng đến dưới 5 tuổi được phân loại là viêm phổi nặng khi có dấu hiệu sau:",
+    "options": {
+      "A": "Thở nhanh.",
+      "B": "Co giật.",
+      "C": "Khò khè.",
+      "D": "Rút lõm lồng ngực."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Theo chương trình nhiễm khuẩn hô hấp cấp, trẻ 8 tháng tuổi được phân loại là viêm phổi nặng khi:",
+    "options": {
+      "A": "Ho nhiều.",
+      "B": "Tím tái.",
+      "C": "Thở nhanh.",
+      "D": "Rút lõm lồng ngực."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Theo chương trình nhiễm khuẩn hô hấp cấp, dấu hiệu rút lõm lồng ngực nặng có giá trị để phân loại bệnh đối với trẻ:",
+    "options": {
+      "A": "Dưới 2 tháng tuổi",
+      "B": "Dưới 1 tháng tuổi",
+      "C": "Dưới 1,5 tháng tuổi",
+      "D": "Trên 2 tháng tuổi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Một trẻ 6 tháng tuổi, cân nặng 6,2 kg có biểu hiện ho, không nôn, không co giật, tần số thở 55 lần/phút, không rút lõm lồng ngực. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho trẻ là:",
+    "options": {
+      "A": "Viêm phổi rất nặng",
+      "B": "Không viêm phổi ho hoặc cảm lạnh",
+      "C": "Chảy nước mũi",
+      "D": "Viêm phổi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "question": "Tiêu chảy cấp là tình trạng đi ngoài phân lỏng hoặc tóe nước:",
+    "options": {
+      "A": "Trên 3 lần/ngày và kéo dài không quá 14 ngày",
+      "B": "Trên 2 lần/ngày và kéo dài không quá 14 ngày",
+      "C": "Trên 4 lần/ngày và kéo dài không quá 14 ngày",
+      "D": "Trên 5 lần/ngày và kéo dài không quá 14 ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Tiêu chảy kéo dài là tình trạng đi ngoài phân loảng hoặc tóe nước:",
+    "options": {
+      "A": "Trên 3 lần/ngày và kéo dài trên 14 ngày",
+      "B": "Trên 3 lần/ngày và kéo dài không quá 14 ngày",
+      "C": "Trên 4 lần/ngày và kéo dài không quá 14 ngày",
+      "D": "Trên 5 lần/ngày và kéo dài không quá 14 ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Nguyên nhân gây tiêu chảy cấp ở trẻ em do:",
+    "options": {
+      "A": "Xoắn khuẩn giang mai",
+      "B": "Cầu khuẩn gram âm",
+      "C": "Rotavirus",
+      "D": "Bifidus ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Một trong những dấu hiệu để đánh giá mức độ mất nước ở trẻ bị tiêu chảy cấp:",
+    "options": {
+      "A": "Đau bụng",
+      "B": "Buồn nôn",
+      "C": "Khát",
+      "D": "Đi ngoài phân đen ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "Một trong những dấu hiệu để đánh giá mức độ mất nước ở trẻ bị tiêu chảy cấp:",
+    "options": {
+      "A": "Đau bụng",
+      "B": "Buồn nôn",
+      "C": "Mắt trũng",
+      "D": "Đi ngoài phân đen ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "Một trong những dấu hiệu để đánh giá mức độ mất nước ở trẻ bị tiêu chảy cấp:",
+    "options": {
+      "A": "Đau bụng",
+      "B": "Buồn nôn",
+      "C": "Nếp véo da",
+      "D": "Đi ngoài phân đen ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "Một ttong những dấu hiệu để đánh giá mức độ mất nước ở trẻ bị tiêu chảy cấp:",
+    "options": {
+      "A": "Đau bụng",
+      "B": "Buồn nôn",
+      "C": "Toàn trạng",
+      "D": "Đi ngoài phân đen ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "Dấu hiệu để đánh giá trẻ tiêu chảy bị mất nước nặng:",
+    "options": {
+      "A": "Nếp véo da mất rất chậm",
+      "B": "Nôn",
+      "C": "Biếng ăn",
+      "D": "Tiêu chảy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Dung dịch chủ yếu để bù nước và điện giải cho trẻ bị tiêu chảy cấp:",
+    "options": {
+      "A": "Glucoze.",
+      "B": "Albumin",
+      "C": "Calxiclorid",
+      "D": "Oresol"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 37,
+    "question": "Nguyên nhân gây bệnh viêm cầu thận cấp là:",
+    "options": {
+      "A": "Trực khuẩn.",
+      "B": "Song cầu khuẩn.",
+      "C": "Virus.",
+      "D": "Liên cầu khuẩn tan máu nhóm A"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Một trong những triệu chứng lâm sàng của bệnh viêm cầu thận cấp giai đoạn khởi phát là:",
+    "options": {
+      "A": "Đái nhiều.",
+      "B": "Phù nhẹ mi mắt.",
+      "C": "Sốt cao.",
+      "D": "Đau thượng vị"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Bệnh viêm cầu thận cấp giai đoạn toàn phát không có triệu chứng nào dưới đây:",
+    "options": {
+      "A": "Phù.",
+      "B": "Toàn thân có hội chứng nhiễm khuẩn.",
+      "C": "Đái ít, nước tiểu trắng đục.",
+      "D": "Huyết áp tăng 10 – 20 mmHg."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Một trong những triệu chứng lâm sàng của bệnh viêm cầu thận cấp giai đoạn toàn phát:",
+    "options": {
+      "A": "Huyết áp hạ.",
+      "B": "Mạch chậm",
+      "C": "Đái buốt, đái rắt.",
+      "D": "Đái ít, nước tiểu đỏ."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "question": "Một trong các biến chứng của bệnh viêm cầu thận cấp là:",
+    "options": {
+      "A": "Suy tim cấp.",
+      "B": "Viêm gan.",
+      "C": "Viêm tụy.",
+      "D": "Viêm đường tiêu hóa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Điều trị viêm cầu thận cấp không dùng loại thuốc nào sau đây:",
+    "options": {
+      "A": "Kháng sinh.",
+      "B": "Giảm đau",
+      "C": "Lợi tiểu.",
+      "D": "Hạ huyết áp."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "Biện pháp phòng bệnh viêm cầu thận cấp là:",
+    "options": {
+      "A": "Điều trị tích cực và triệt để các bệnh viêm kết mạc.",
+      "B": "Điều trị tích cực và triệt để các bệnh viêm gan.",
+      "C": "Điều trị tích cực và triệt để các bệnh viêm tai mũi họng và viêm da.",
+      "D": "Điều trị tích cực và triệt để các bệnh hen suyễn."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "Biện pháp phòng bệnh cúm là:",
+    "options": {
+      "A": "Phát hiện và cách ly sớm bệnh nhân",
+      "B": "Điều trị kháng sinh sớm",
+      "C": "Dùng thuốc hạ nhiệt, giảm đau",
+      "D": "Hạn chế uống nước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Phương pháp điều trị nào dưới đây không áp dụng trong điều trị đối với bệnh cúm:",
+    "options": {
+      "A": "Điều trị triệu chứng",
+      "B": "Cho bệnh nhân nghỉ ngơi, ăn chất dễ tiêu, ăn nhiều hoa quả",
+      "C": "Dùng thuốc hạ nhiệt, giảm đau",
+      "D": "Cho dùng kháng sinh sớm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "question": "Đặc điểm nào không phải của bệnh cúm:",
+    "options": {
+      "A": "Do một loại vi khuẩn gây nên.",
+      "B": "Đây là một bệnh truyền nhiễm lây rất nhanh, có khi thành những vụ dịch lớn",
+      "C": "Bệnh lây do tiếp xúc trực tiếp với người mang mầm bệnh.",
+      "D": "Một số trường hợp có thể biến chứng viêm phổi, viêm não"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "Đặc điểm nào không phải của bệnh cúm:",
+    "options": {
+      "A": "Do một loại virus gây nên.",
+      "B": "Bệnh lây suốt thời gian mắc bệnh và thường do tiếp xúc trực tiếp với người mang mầm bệnh.",
+      "C": "Người đã mắc bệnh thì sau này không bao giờ bị tái phát",
+      "D": "Một số trường hợp có thể biến chứng viêm phổi, viêm não"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "question": "Đặc điểm của virus cúm là:",
+    "options": {
+      "A": "Nhỏ và có tính chất thay đổi kháng nguyên qua mỗi vụ dịch",
+      "B": "Nhỏ và không có tính chất thay đổi kháng nguyên qua mỗi vụ dịch",
+      "C": "Lớn và có tính chất thay đổi kháng nguyên qua mỗi vụ dịch",
+      "D": "Lớn và không tính chất thay đổi kháng nguyên qua mỗi vụ dịch"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Triệu chứng bệnh cúm thời kỳ toàn phát:",
+    "options": {
+      "A": "Sốt cao, môi khô, lưỡi bẩn",
+      "B": "Sốt cao, rét run",
+      "C": "Sốt cao, đau mình mẩy",
+      "D": "Sốt cao, nhức đầu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Bệnh cúm có thể khỏi sau thời gian là:",
+    "options": {
+      "A": "7 – 10 ngày",
+      "B": "2 – 3 ngày",
+      "C": "12 – 14 ngày",
+      "D": "Trên 15 ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "question": "Bệnh cúm có thể gây ra biến chứng nào dưới đây:",
+    "options": {
+      "A": "Nhiễm trùng máu",
+      "B": "Xuất huyết não",
+      "C": "Tiêu chảy cấp",
+      "D": "Viêm niêm mạc dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "question": "Bệnh cúm có thể gây ra biến chứng nào dưới đây:",
+    "options": {
+      "A": "Viêm phổi",
+      "B": "Viêm đường tiết niệu",
+      "C": "Tiêu chảy cấp",
+      "D": "Viêm niêm mạc dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "question": "Bệnh cúm có thể gây ra biến chứng nào dưới đây:",
+    "options": {
+      "A": "Viêm não",
+      "B": "Xuất huyết não",
+      "C": "U não",
+      "D": "Viêm cầu thận cấp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Biểu hiện của Giang mai 1 là:",
+    "options": {
+      "A": "Dịch tiết của vết loét và dịch trong hạch có nhiều song cầu khuẩn.",
+      "B": "Các vết “ săng” thường ở da bìu quy đầu với nam ở âm đạo với nữ.",
+      "C": "Các nốt hồng ban có thể ở một số vị trí trên cơ thể mặt ngực lưng bìu bẹn",
+      "D": "Tổn thương hệ tim mạch và thần kinh trung ương."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Thời gian ủ bệnh của bệnh giang mai là:",
+    "options": {
+      "A": "Trong vòng 24 giờ.",
+      "B": "Từ 3-4 ngày đến 3 tuần.",
+      "C": "Từ 3-4 tuần đến 3 tháng",
+      "D": "Từ 3-4 tháng đến 1 năm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Triệu chứng nào không xuất hiện trong bệnh giang mai 1:",
+    "options": {
+      "A": "Thời gian từ 10-90 ngày sau khi nhiễm khuẩn giang mai",
+      "B": "Biểu hiện chủ yếu là các vết loét “ săng” ở bộ phân sinh dục",
+      "C": "Vết loét ngứa nhiều, không đau loét chợt lông chân cứng.",
+      "D": "Có hạch rắn ở vùng lân cận"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "Triệu chứng của Giang mai 2 là:",
+    "options": {
+      "A": "Dịch tiết của săng và dịch trong hạch có nhiều song cầu khuẩn.",
+      "B": "Các vết “ săng” thường ở da bìu quy đầu với nam ở âm hộ, âm đạo với nữ.",
+      "C": "Các nốt hồng ban có thể ở một số vị trí trên cơ thể mặt, ngực, lưng, bìu bẹn",
+      "D": "Tổn thương hệ tim mạch và thần kinh trung ương"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "question": "Triệu chứng của bệnh giang mai 3 là:",
+    "options": {
+      "A": "Dịch tiết của vết loét và dịch trong hạch có nhiều song cầu khuẩn.",
+      "B": "Các vết “ săng” thường ở da bìu quy đầu với nam ở âm hộ, âm đạo với nữ.",
+      "C": "Các nốt hồng ban có thể ở một số vị trí trên cơ thể mặt ngực lưng bìu bẹn",
+      "D": "Tổn thương hệ tim mạch và thần kinh trung ương"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "question": "Vết săng trong bệnh giang mai không có đặc điểm nào sau đây:",
+    "options": {
+      "A": "Không ngứa",
+      "B": "Không ngứa , không đau loét chợt lông chân cứng.",
+      "C": "Dịch tiết của vết săng có rất nhiều xoắn khuẩn.",
+      "D": "Đây là thời kỳ không lây, có thể tự khỏi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "question": "Giai đoạn giang mai 2 không có biểu hiện nào sau đây:",
+    "options": {
+      "A": "Sốt nhẹ, rụng tóc",
+      "B": "Các tổn thương trên da dạng nốt hồng ban ở mặt ngực lưng bìu bẹn.",
+      "C": "Các nốt hồng ban khỏi không để lại dấu vết.",
+      "D": "Trong nốt hồng ban có ít vi khuẩn nhưng là thời kỳ không lây"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 61,
+    "question": "Giai đoạn giang mai 3 không có triệu chứng nào sau đây:",
+    "options": {
+      "A": "Xuất hiện sau giang mai 2 từ 2-3 năm",
+      "B": "Biểu hiện đặc trưng là củ gôm giang mai.",
+      "C": "Tổn thương chủ yếu là bộ phận sinh dục.",
+      "D": "Hiếm khi thấy vi khuẩn giang trong củ và gôm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Đặc điểm không đúng của củ gôm trong bệnh giang mai:",
+    "options": {
+      "A": "Không ngứa , không đau loét chợt lông chân cứng.",
+      "B": "Củ giang mai ở trên da bằng hạt đậu hạt ngô có khi bằng quả táo",
+      "C": "Gôm giang mai ở sâu dưới da đóng thành bánh.",
+      "D": "Tiến triển qua 4 thời kỳ cứng đến mềm da đến loét đến thành sẹo thường thấy ở mặt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Thuốc không sử dụng để điều trị đối với bệnh giang mai là:",
+    "options": {
+      "A": "Điều trị sớm liên tục và đủ liều.",
+      "B": "Penicilin từ 1-2 triệu đơn vị/ngày x 15 ngày, nghỉ 1tháng ĐT tiếp một đợt.",
+      "C": "Tetracyclin hoặc erythromycin 1,5g x 20 ngày liền.",
+      "D": "Acyclovir 800mg/ lần x 2 lần x 5 ngày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 64,
+    "question": "Triệu chứng người bị nhiễm HIV là:",
+    "options": {
+      "A": "Sút cân > 10% trọng lượng cơ thể",
+      "B": "Ỉa chảy kéo dài > 1 tuần",
+      "C": "Sốt kéo dài > 2 ngày",
+      "D": "Ỉa chảy kéo dài > 2 tuần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "question": "HIV tấn công phá hoại cơ thể bằng cách:",
+    "options": {
+      "A": "Làm tê liệt hệ thống miến dịch nên cơ thể không còn sức đề kháng",
+      "B": "Xâm nhập hệ thống thần kinh trung ương, phá hủy não và tủy sống gây rối loạn nghiêm trọng vận động và nhận thức",
+      "C": "Làm hao mòn cơ thể nặng nề dẫn đến dễ mắc các bệnh nhiễm trùng cơ hội.",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "question": "Người nhiễm HIV hay bị nhiễm trùng cơ hội chủ yếu là do:",
+    "options": {
+      "A": "Giảm bạch cầu limpho B",
+      "B": "Giảm bạch cầu limpho Tcd4",
+      "C": "Giảm bạch cầu limpho Tcd8",
+      "D": "Giảm bạch cầu limpho T."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Đường lây truyền của HIV chiếm tỷ lệ cao nhất (> 90%) là:",
+    "options": {
+      "A": "Tình dục.",
+      "B": "Tiếp xúc da với da.",
+      "C": "Từ mẹ sang con.",
+      "D": "Máu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "question": "AIDS có nghĩa tiếng Việt là:",
+    "options": {
+      "A": "Hội chứng suy giảm miễn dịch.",
+      "B": "Hội chứng suy giảm miễn dịch mắc phải.",
+      "C": "Nhiễm vi rút HIV giai đoạn đầu.",
+      "D": "Bệnh lý hệ thống miễn dịch."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Virus HIV xâm nhập vào cơ thể, phá hủy chủ yếu loại tế bào:",
+    "options": {
+      "A": "Limpho T.",
+      "B": "Limpho B.",
+      "C": "Limpho cyt.",
+      "D": "Limpho Tcd4."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "question": "HIV tấn công phá hoại cơ thể bằng cách:",
+    "options": {
+      "A": "Làm tê liệt hệ thống nội tiết.",
+      "B": "Làm tê liệt hệ thống tiêu hóa.",
+      "C": "Làm tê liệt hệ thống miễn dịch.",
+      "D": "Làm tê liệt hệ thống tuần hoàn"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Một trong những đường lây nhiễm HIV là:",
+    "options": {
+      "A": "Đường hô hấp.",
+      "B": "Đường sinh dục.",
+      "C": "Đường tiêu hóa.",
+      "D": "Đường tiếp xúc."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "question": "Một trong những đường lây nhiễm HIV là:",
+    "options": {
+      "A": "Đường hô hấp.",
+      "B": "Đường máu.",
+      "C": "Đường tiêu hóa.",
+      "D": "Đường tiếp xúc."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "question": "Bệnh nhân giai đoạn AIDS có thể tử vong do:",
+    "options": {
+      "A": "Nhiễm nấm",
+      "B": "Viêm phổi, lao phổi",
+      "C": "Nhiễm trùng cơ hội",
+      "D": "Tiêu chảy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "question": "Hậu quả xảy ra đối với trẻ được sinh ra từ mẹ nhiễm HIV:",
+    "options": {
+      "A": "Chết trước 1 tuổi",
+      "B": "Chết trước 6 tuổi",
+      "C": "Chết trước 5 tuổi",
+      "D": "Chết trước 10 tuổi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Thuốc có tác dụng diệt virus HIV là:",
+    "options": {
+      "A": "Tất cả đều đúng",
+      "B": "Retrovir",
+      "C": "AZT",
+      "D": "Interferon."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "question": "Đường lây chủ yếu của bệnh lao là:",
+    "options": {
+      "A": "Hô hấp",
+      "B": "Tiêu hóa",
+      "C": "Máu",
+      "D": "Da và niêm mạc."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Thuốc nào không phải là thuốc điều trị bệnh lao:",
+    "options": {
+      "A": "Isoniazid",
+      "B": "Rifampicin",
+      "C": "Ethambuton",
+      "D": "Doxycylin."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "question": "Công thức điều trị lao được áp dụng trong điều trị lao mới ở người lớn:",
+    "options": {
+      "A": "2SHRZ/ 6HE",
+      "B": "2SHRZE/ 1HRZE/5R3H3E3 .",
+      "C": "2RHZ/4RH .",
+      "D": "2SRHZ /4RH."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "question": "Công thức điều trị ở trẻ em:",
+    "options": {
+      "A": "2 HRZ/ 4 HR",
+      "B": "2SHRZE/ 1HRZE/5R3H3E3 .",
+      "C": "2RHZ/4RH",
+      "D": "2SRHZ /4RH."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "question": "Để nhuộm soi đờm trực tiếp giúp chẩn đoán bệnh lao, người bệnh cần lấy số mẫu đờm là:",
+    "options": {
+      "A": "3 mẫu",
+      "B": "4 mẫu",
+      "C": "5 mẫu",
+      "D": "6 mẫu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "Bệnh nhân bị bệnh lao phổi thường có biểu hiện sốt nhẹ 37,5 – 38 độ C vào:",
+    "options": {
+      "A": "Buổi chiều",
+      "B": "Buổi sáng",
+      "C": "Buổi trưa",
+      "D": "Buổi tối."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Thời gian điều trị tấn công bệnh lao là:",
+    "options": {
+      "A": "2 – 3 tháng",
+      "B": "1 – 2 tháng",
+      "C": "3 – 4 tháng",
+      "D": "Trên 4 tháng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "question": "Thời gian điều trị duy trì bệnh lao là:",
+    "options": {
+      "A": "4 – 6 tháng",
+      "B": "2 – 3 tháng",
+      "C": "3 – 4 tháng",
+      "D": "Trên 6 tháng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Triệu chứng lâm sàng của bệnh lao phổi là:",
+    "options": {
+      "A": "Tăng cân rất nhanh",
+      "B": "Ăn nhiều",
+      "C": "Giai đoạn muộn có thể có khó thở, đau ngực",
+      "D": "Vàng da."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "question": "SM là chữ viết tắt của thuốc điều trị lao nào dưới đây:",
+    "options": {
+      "A": "Isoniazid",
+      "B": "Rifampicin",
+      "C": "Ethambuton",
+      "D": "Streptomycin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 86,
+    "question": "Thể cấp tính của bệnh lậu ở nam không có triệu chứng nào sau đây:",
+    "options": {
+      "A": "Ngứa tại dương vật và bộ phận sinh dục ngoài.",
+      "B": "Đầu miệng sáo sưng đỏ, có mủ vàng, mủ xanh chảy ra.",
+      "C": "Đái buốt, đái rắt, cảm giác nóng bỏng khi đi tiểu.",
+      "D": "Sốt kèm theo rét run."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Thời gian ủ bệnh của bệnh lậu cấp tính là:",
+    "options": {
+      "A": "Trong 24 giờ.",
+      "B": "Từ 2-3 ngày.",
+      "C": "Từ 2-3 tuần",
+      "D": "Từ 2-3 tháng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Thể mạn tính bệnh lậu ở nữ không có triệu chứng nào sau đây:",
+    "options": {
+      "A": "BN đái buốt, đái dắt, cảm giác đau nhức và nóng rát khi đi tiểu.",
+      "B": "Sốt cao rét run",
+      "C": "Ngứa đỏ vùng âm hộ.",
+      "D": "Chảy mủ âm đạo, niệu đạo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "Bệnh lậu không có biến chứng nào sau đây:",
+    "options": {
+      "A": "Viêm da và hủy hoại các dây thần kinh",
+      "B": "Viêm tinh hoàn, túi tinh do lậu cầu có thể dẫn đến vô sinh.",
+      "C": "Viêm tử cung, vòi trứng dẫn đến vô sinh",
+      "D": "Viêm thận, viêm bàng quang do lậu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Bệnh lậu là bệnh truyền nhiễm do:",
+    "options": {
+      "A": "Song cầu khuẩn gram (-)",
+      "B": "Song cầu khuẩn gram (+)",
+      "C": "Tụ cầu vàng",
+      "D": "Liên cầu trùng Betatan máu nhóm A"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "question": "Đường lây của bệnh lậu:",
+    "options": {
+      "A": "Máu",
+      "B": "Giao hợp với người có bệnh",
+      "C": "Ăn uống",
+      "D": "Hô hấp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Dịch chảy ra ở niệu đạo trước của nam giới bị bệnh lậu có đặc điểm:",
+    "options": {
+      "A": "Dịch màu trắng loãng",
+      "B": "Mủ màu vàng, mủ xanh",
+      "C": "Màu đỏ của máu",
+      "D": "Chất nhầy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "Dịch chảy ra ở âm đạo của nữ giới bị bệnh lậu có đặc điểm:",
+    "options": {
+      "A": "Dịch màu trắng loãng",
+      "B": "Mủ màu vàng, mủ xanh",
+      "C": "Màu đỏ của máu",
+      "D": "Chất nhầy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "question": "Biến chứng bệnh lậu ở nam giới là:",
+    "options": {
+      "A": "Viêm vòi trứng",
+      "B": "Viêm túi tinh",
+      "C": "Viêm phần phụ",
+      "D": "Viêm phổi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Biến chứng bệnh lậu ở nữ giới là:",
+    "options": {
+      "A": "Viêm vòi trứng",
+      "B": "Viêm túi tinh",
+      "C": "Viêm đa khớp",
+      "D": "Viêm phổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Mầm bệnh gây bệnh lỵ là:",
+    "options": {
+      "A": "Virus lỵ.",
+      "B": "Vi khuẩn shigella",
+      "C": "Giun đũa.",
+      "D": "Sán lá gan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Bệnh lỵ lây truyền chủ yếu qua đường:",
+    "options": {
+      "A": "Tiêu hóa",
+      "B": "Máu",
+      "C": "Giao hợp.",
+      "D": "Dùng chung đồ cá nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Hội chứng lỵ nổi bật với các triệu chứng:",
+    "options": {
+      "A": "Đau quặn, mót rặn liên tục và đi ngoài nhiều lần.",
+      "B": "Đau quặn, mót rặn liên tục.",
+      "C": "Đau quặn, mót rặn và sốt.",
+      "D": "Đau quặn và sốt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "question": "Đặc điểm nào sau đây là đặc điểm của bệnh lỵ trực khuẩn:",
+    "options": {
+      "A": "Đi ngoài ít lần, khoảng 2- 3 lần/ 24h.",
+      "B": "Bệnh nhân lỵ thường táo bón.",
+      "C": "Hay phát thành dịch",
+      "D": "Hay chuyển thành mạn tính, có nhiều biến chứng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "question": "Triệu chứng nào sau đây có trong bệnh lỵ trực khuẩn:",
+    "options": {
+      "A": "Có hội chứng nhiễm khuẩn.",
+      "B": "Ít phát thành dịch",
+      "C": "Không có hội chứng nhiễm khuẩn",
+      "D": "Hay chuyển thành mạn tính tính"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 101,
+    "question": "Triệu chứng nào sau đây có trong bệnh lỵ amip:",
+    "options": {
+      "A": "Không có hội chứng nhiễm khuẩn.",
+      "B": "Đi ngoài nhiều lần: 20- 60 lần/ 24h",
+      "C": "Hay phát thành dịch",
+      "D": "Ít biến chứng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "question": "Điểm giống nhau giữa lỵ trực khuẩn và lỵ amip:",
+    "options": {
+      "A": "Có hội chứng nhiễm khuẩn.",
+      "B": "Không phát thành dịch",
+      "C": "Đi ngoài phân tóe nước.",
+      "D": "Có hội chứng lỵ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 103,
+    "question": "Kháng sinh điều trị lỵ trực khuẩn:",
+    "options": {
+      "A": "Iodoquinol.",
+      "B": "Cotrimoxazol",
+      "C": "Metronidazol",
+      "D": "Emetin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "question": "Kháng sinh điều trị trực khuẩn cho trẻ em là:",
+    "options": {
+      "A": "Iodoquinol..",
+      "B": "Ciprofloxacin",
+      "C": "Metronidazol",
+      "D": "Emetin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Thuốc đông y điều trị lỵ amip là:",
+    "options": {
+      "A": "Becberin",
+      "B": "Mộc hoa trắng",
+      "C": "Nha đảm tử",
+      "D": "Mộc hoa trắng và nha đảm tử"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 106,
+    "question": "Một trong những hội chứng xuất hiện ở bệnh nhân sốt xuất huyết là:",
+    "options": {
+      "A": "Hội chứng hô hấp",
+      "B": "Hội chứng não, màng não",
+      "C": "Hội chứng thần kinh",
+      "D": "Hội chứng vàng da"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 107,
+    "question": "Loại vitamin được sử dụng đối với bệnh nhân sốt xuất huyết là:",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin A",
+      "C": "Vitamin D",
+      "D": "Vitamin B1"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 108,
+    "question": "Hội chứng xuất huyết không có triệu chứng nào:",
+    "options": {
+      "A": "Xuất huyết dưới da với mọi hình thái",
+      "B": "Chảy máu cam",
+      "C": "Số lượng hồng cầu và bạch cầu tăng cao",
+      "D": "Nôn ra máu , đi ngoài phân đen."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Triệu chứng nào có trong hội chứng thần kinh của bệnh sốt xuất huyết:",
+    "options": {
+      "A": "Đau cơ đau thắt lưng",
+      "B": "Liệt các dây thần kinh sọ não",
+      "C": "Liệt dây thần kinh mặt",
+      "D": "Liệt nửa người"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 110,
+    "question": "Thuốc không được sử dụng điều trị bệnh sốt xuất huyết là:",
+    "options": {
+      "A": "Ăn lỏng dễ tiêu, uống nhiều nước hoa quả",
+      "B": "Dùng vitamin C liều cao 500 – 1000mg/ngày",
+      "C": "Dùng thuốc Aspirin",
+      "D": "Dùng thuốc an thần seduxen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Phương pháp điều trị không đúng đối với sốt xuất huyết giai đoạn có sốc:",
+    "options": {
+      "A": "Khôi phục khối lượng tuần hoàn cho bệnh nhân bằng cách truyền máu, các loại huyết thanh mặn, ngọt, kiềm...",
+      "B": "Trợ tim mạch, trợ hô hấp Digoxin, thở oxy",
+      "C": "Vitamin C liều cao và các thuốc điều trị triệu chứng",
+      "D": "Dùng Aspirin liều cao để hạ nhiệt."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 112,
+    "question": "Phương pháp phòng bệnh sốt xuất huyết không đúng là:",
+    "options": {
+      "A": "Phát hiện sớm và cách ly kịp thời bệnh nhân",
+      "B": "Chống muỗi đốt bằng cách nằm màn, phun thuốc diệt muỗi",
+      "C": "Vệ sinh tốt và điều trị kịp thời các ổ nhiễm khuẩn răng miệng họng",
+      "D": "Vệ sinh ngoại cảnh phát quang bụi rậm, khơi thông cống rãnh."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "question": "Đặc điểm của thời kỳ nung bệnh trong bệnh sốt xuất huyết:",
+    "options": {
+      "A": "Các triệu chứng rầm rộ",
+      "B": "Không có biểu hiện gì",
+      "C": "Chủ yếu triệu chứng về tiêu hóa",
+      "D": "Chủ yếu triệu chứng về hô hấp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Biểu hiện của xuất huyết niêm mạc trong bệnh nhân sốt xuất huyết:",
+    "options": {
+      "A": "Chảy máu cam",
+      "B": "Nôn ra máu",
+      "C": "Đái ra máu",
+      "D": "Xuất huyết não"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "question": "Trường hợp bệnh nhân bị bệnh sốt xuất huyết ở mức độ nặng, cần điều trị bằng thuốc nào dưới đây:",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Aspirin",
+      "C": "Vitamin C liều cao",
+      "D": "Gentamicin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "question": "Thời gian ủ bệnh của bệnh viêm gan A:",
+    "options": {
+      "A": "20- 40 ngày",
+      "B": "60- 120 ngày",
+      "C": "10- 20 ngày",
+      "D": "20- 30 ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 117,
+    "question": "Thời gian ủ bệnh của bệnh viêm gan B:",
+    "options": {
+      "A": "20- 40 ngày",
+      "B": "60- 120 ngày",
+      "C": "10- 20 ngày",
+      "D": "20- 30 ngày"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "question": "Thời kỳ nào của bệnh viêm gan virus được gọi là thời kỳ vàng da:",
+    "options": {
+      "A": "Ủ bệnh",
+      "B": "Khởi phát",
+      "C": "Toàn phát",
+      "D": "Lui bệnh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "question": "Thời kỳ nào của bệnh viêm gan virus được gọi là thời kỳ tiền vàng da:",
+    "options": {
+      "A": "Ủ bệnh",
+      "B": "Khởi phát",
+      "C": "Toàn phát",
+      "D": "Lui bệnh"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "question": "Bệnh viêm gan do tuýp nào dưới đây có thể lây qua đường tiêu hóa:",
+    "options": {
+      "A": "Viêm gan B",
+      "B": "Viêm gan A",
+      "C": "Viêm gan C",
+      "D": "Viêm gan D"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Bệnh viêm gan do tuýp nào dưới đây có thể lây qua đường máu:",
+    "options": {
+      "A": "Viêm gan A và B",
+      "B": "Viêm gan B và C",
+      "C": "Viêm gan A và E",
+      "D": "Viêm gan E và C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Bệnh viêm gan do tuýp nào dưới đây có thể lây qua đường tình dục:",
+    "options": {
+      "A": "Viêm gan A",
+      "B": "Viêm gan B",
+      "C": "Viêm gan E",
+      "D": "Viêm gan virus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Đường lây của bệnh viêm gan virus B là:",
+    "options": {
+      "A": "Máu",
+      "B": "Ăn uống",
+      "C": "Hô hấp",
+      "D": "Giao tiếp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Thời gian của thời kỳ tiền vàng da trong viêm gan virus trung bình là :",
+    "options": {
+      "A": "1 tháng",
+      "B": "1 tuần",
+      "C": "3-5 ngày .",
+      "D": "Trên 10 ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "question": "Biện pháp phòng bệnh đặc hiệu nhất của bệnh viêm gan virus là:",
+    "options": {
+      "A": "Thực hiện truyền máu an toàn",
+      "B": "Tiệt trùng các dụng cụ y tế",
+      "C": "Tiêm phòng vacxin",
+      "D": "Chú ý khi tiếp xúc với dịch tiết h"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "question": "Bệnh luput ban đỏ có tỷ lệ mắc ở nữ là:",
+    "options": {
+      "A": "60%",
+      "B": "70%",
+      "C": "80%",
+      "D": "90%"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 127,
+    "question": "Biểu hiện ở da và niêm mạc của bệnh luput ban đỏ:",
+    "options": {
+      "A": "Ban hình cánh bướm ở mông",
+      "B": "Ban hình cánh bướm ở mặt",
+      "C": "Ban hình cánh bướm ở lưng",
+      "D": "Ban hình cánh bướm ở bụng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "question": "Triệu chứng toàn thân của bệnh luput bản đỏ là:",
+    "options": {
+      "A": "Ban hình cánh bướm",
+      "B": "Loét miệng",
+      "C": "Rụng tóc",
+      "D": "Mệt mỏi, gầy sút"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 129,
+    "question": "Tiêu chuẩn chẩn đoán bệnh luput ban đỏ theo tiêu chuẩn của Hội Thấp học Mỹ ACR 1982, khi có:",
+    "options": {
+      "A": "Từ 4 yếu tố trở lên",
+      "B": "Từ 6 yếu tố trở lên",
+      "C": "Từ 8 yếu tố trở lên",
+      "D": "Đủ 11 yếu tố"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 130,
+    "question": "Nhóm thuốc được dùng để điều trị bệnh luput ban đỏ:",
+    "options": {
+      "A": "Kháng sinh",
+      "B": "Lợi tiểu",
+      "C": "Glucocorticoid",
+      "D": "Trợ tim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Bệnh tay chân miệng xảy ra chủ yếu ở trẻ:",
+    "options": {
+      "A": "Dưới 10 tuổi",
+      "B": "Trên 10 tuổi",
+      "C": "Trẻ 2 tháng tuổi",
+      "D": "Trẻ thời kỳ sơ sinh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "question": "Thời gian của thời kỳ ủ bệnh của bệnh tay chân miệng:",
+    "options": {
+      "A": "Trên 7 ngày",
+      "B": "3 – 7 ngày",
+      "C": "7 – 10 ngày",
+      "D": "10 – 15 ngày"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Vết loét trong miệng ở trẻ bị bệnh tay chân miệng xuất hiện ở thời kỳ:",
+    "options": {
+      "A": "Toàn phát",
+      "B": "Ủ bệnh",
+      "C": "Khởi phát",
+      "D": "Lui bệnh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "question": "Biểu hiện biến chứng độ 1 của bệnh tay chân miệng là:",
+    "options": {
+      "A": "Loét miệng và/hoặc tổn thương da",
+      "B": "Biến chứng thần kinh hoặc tim mạch mức độ trung bình",
+      "C": "Biến chứng nặng về thần kinh , hô hấp, tim mạch",
+      "D": "Biến chứng nặng khó hồi phục"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Biểu hiện biến chứng độ 3 của bệnh tay chân miệng là:",
+    "options": {
+      "A": "Loét miệng và/hoặc tổn thương da",
+      "B": "Biến chứng thần kinh hoặc tim mạch mức độ trung bình",
+      "C": "Biến chứng nặng về thần kinh , hô hấp, tim mạch",
+      "D": "Biến chứng nặng khó hồi phục"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 136,
+    "question": "Biến chứng tại chỗ bệnh tay chân miệng là:",
+    "options": {
+      "A": "Bội nhiễm da và niêm mạc: do gãi nhiễm khuẩn",
+      "B": "Sốt, nôn , đau đầu, quấy khóc",
+      "C": "Sốt cao, triệu chứng thần kinh, thở nhanh nông, không đều , co kéo các cơ hô hấp.",
+      "D": "Mạch nhanh, HA tăng sau đó hạ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "question": "Bệnh tay chân miệng ở mức độ nào có thể điều trị tại nhà:",
+    "options": {
+      "A": "Độ 4",
+      "B": "Độ 3",
+      "C": "Độ 2",
+      "D": "Độ 1"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 138,
+    "question": "Sởi là bệnh lây qua đường:",
+    "options": {
+      "A": "Tiêu hóa",
+      "B": "Sinh dục",
+      "C": "Máu",
+      "D": "Hô hâp"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 139,
+    "question": "Thời gian ủ bệnh của sởi trung bình:",
+    "options": {
+      "A": "8 -11 ngày",
+      "B": "3 ngày",
+      "C": "5 ngày",
+      "D": "15 ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "Hội chứng viêm long đường hô hấp khi trẻ mắc sởi gồm các triệu chứng:",
+    "options": {
+      "A": "Đau đầu, hoa mắt, chóng mặt, buồn nôn",
+      "B": "Ho, khó thở, tím tái",
+      "C": "Ho, hắt hơi, chảy nước mũi, sợ ánh sáng",
+      "D": "Tiểu buốt, dắt, ho, đau họng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 141,
+    "question": "Hạt koplick trong bệnh sởi có đặc điểm:",
+    "options": {
+      "A": "Tồn tại trên 14 giờ",
+      "B": "Là những chấm trắng",
+      "C": "Xuất hiện ở trong mũi",
+      "D": "Xuất hiện trong niêm mạc má"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 142,
+    "question": "Ban trong bệnh sởi mọc có đặc điểm:",
+    "options": {
+      "A": "Từ chân trở lên đến đầu",
+      "B": "Ban hình tròn, không nổi gồ lên mặt da",
+      "C": "Ban hình tròn, nổi gồ trên mặt da",
+      "D": "Khi bay không để lại dấu vết gì trên da"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 143,
+    "question": "Biến chứng bệnh sởi nguy hiểm nhất và tỷ lệ tử vong cao:",
+    "options": {
+      "A": "Viêm phổi, viêm não – màng não",
+      "B": "Cam tẩu mã",
+      "C": "Viêm tai xương chũm",
+      "D": "Viêm phế quản phổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "question": "Cam tẩu mã là biến chứng của cơ quan nào khi trẻ mắc sởi:",
+    "options": {
+      "A": "Hô hấp",
+      "B": "Tiêu hóa",
+      "C": "Thần kinh",
+      "D": "Tiết niệu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "question": "Trẻ mắc sởi cần bổ sung vitamin:",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B1",
+      "C": "Vitamin K",
+      "D": "Vitamin E"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 146,
+    "question": "Bệnh thấp tim thường gặp ở lứa tuổi nào:",
+    "options": {
+      "A": "Trẻ em dưới 5 tuổi",
+      "B": "Từ 5 đến 15 tuổi",
+      "C": "Từ 16 đến 25 tuổi",
+      "D": "Trên 25 tuổi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "question": "Nguyên nhân gây bệnh thấp tim:",
+    "options": {
+      "A": "Liên cầu tan máu nhóm A",
+      "B": "Tụ cầu",
+      "C": "Phế cầu",
+      "D": "Vi rút"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "question": "Bệnh thấp tim hay để lại di chứng ở:",
+    "options": {
+      "A": "Màng ngoài tim",
+      "B": "Cơ tim",
+      "C": "Van tim",
+      "D": "Động mạch vành"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 149,
+    "question": "Bệnh thấp tim thường xảy ra sau khi bị viêm họng đã khỏi:",
+    "options": {
+      "A": "Từ 1 – 2 ngày",
+      "B": "Từ 1- 2 tuần",
+      "C": "Từ 1- 2 tháng",
+      "D": "Từ 1- 2 năm."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "question": "Biện pháp phòng bệnh thấp tim:",
+    "options": {
+      "A": "Giải quyết tốt các ổ vi khuẩn ở tai mũi họng, răng.",
+      "B": "Tránh các kích thích tâm lý",
+      "C": "Tránh chấn thương vào khớp",
+      "D": "Tránh các tổn thương cho tim."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "question": "Để phòng thấp tim cấp I, khi bị viêm họng do liên cầu phải điều trị triệt để bằng:",
+    "options": {
+      "A": "Penicilin đủ 5 ngày.",
+      "B": "Penicilin đủ 10 ngày.",
+      "C": "Kháng sinh đủ 5 ngày.",
+      "D": "Kháng sinh đủ 10 ngày."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "question": "Một trong những triệu chứng của suy tim là:",
+    "options": {
+      "A": "Vàng da",
+      "B": "Sốt",
+      "C": "Khó thở",
+      "D": "Huyết áp tăng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "question": "Một trong những triệu chứng của suy tim là:",
+    "options": {
+      "A": "Phù 2 chi dưới",
+      "B": "Đái rắt, đái buốt",
+      "C": "Gan teo",
+      "D": "Xuất huyết dưới da"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "Chế độ nghỉ ngơi phù hợp cho người suy tim:",
+    "options": {
+      "A": "Uống nhiều nước",
+      "B": "Khó thở thì cho nằm đầu thấp",
+      "C": "Tránh vận động",
+      "D": "Tránh gắng sức"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "question": "Chế độ ăn uống phù hợp cho người suy tim là:",
+    "options": {
+      "A": "Uống nhiều nước",
+      "B": "Hạn chế ăn hoa quả",
+      "C": "Ăn nhạt",
+      "D": "Hạn chế ăn hoa quả có kali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 156,
+    "question": "Tư thế tốt nhất khi nằm nghỉ đối với bệnh nhân suy tim có khó thở là:",
+    "options": {
+      "A": "Đầu ngửa tối đa",
+      "B": "Đầu thấp",
+      "C": "Tùy ý thích bệnh nhân",
+      "D": "Nằm nghiêng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "question": "Chẩn đoán tăng huyết áp (HA) khi:",
+    "options": {
+      "A": "HA tâm thu >140 mmHg và HA tâm trương > 90 mmHg.",
+      "B": "HA tâm thu ≥ 140 mmHg và/hoặc HA tâm trương ≥ 90 mmHg.",
+      "C": "HA tâm thu ≥ 140 mmHg hoặc HA tâm trương ≥ 90 mmHg.",
+      "D": "HA tâm thu >150 mmHg và /hoặc HA tâm trương > 100 mmHg."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Tăng huyết áp thường gây biến chứng cho các cơ quan nào sau đây:",
+    "options": {
+      "A": "Tim, phổi, não, khớp",
+      "B": "Tim, phổi, thận, mắt",
+      "C": "Tim, não, thận, khớp",
+      "D": "Tim, não, thận, mắt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 159,
+    "question": "Người bệnh tăng huyết áp cần phải điều trị:",
+    "options": {
+      "A": "Thường xuyên và lâu dài.",
+      "B": "Chỉ khi có tổn thương tim",
+      "C": "Chỉ khi có các biến chứng",
+      "D": "Chỉ khi đo huyết áp thấy tăng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "question": "Tăng huyết áp vô căn (không rõ nguyên nhân):",
+    "options": {
+      "A": "Có thể điều trị khỏi hoàn toàn.",
+      "B": "Có thể điều trị khỏi hoàn toàn sau 2 năm dùng thuốc.",
+      "C": "Có thể điều trị khỏi hoàn toàn sau 5 năm dùng thuốc.",
+      "D": "Không điều trị khỏi được, phải dùng thuốc suốt đời."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 161,
+    "question": "Cơn đau thắt ngực xảy ra là do:",
+    "options": {
+      "A": "Động mạch vành bị hẹp",
+      "B": "Động mạch vành bị tắc",
+      "C": "Tĩnh mạch vành bị hẹp",
+      "D": "Tĩnh mạch vành bị tắc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 162,
+    "question": "Nguyên nhân hay gặp nhất gây cơn đau thắt ngực là:",
+    "options": {
+      "A": "Viêm động mạch vành do giang mai.",
+      "B": "Vữa xơ động mạch vành.",
+      "C": "Dị dạng bẩm sinh động mạch vành.",
+      "D": "Thiếu máu nặng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "question": "Vị trí đau của cơn đau thắt ngực điển hình:",
+    "options": {
+      "A": "Đau phía sau xương ức hoặc vùng ngực trái.",
+      "B": "Đau vùng hạ sườn phải",
+      "C": "Đau vùng mạn sườn trái",
+      "D": "Đau vùng hạ sườn trái"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "question": "Đặc điểm của cơn đau thắt ngực:",
+    "options": {
+      "A": "Chỉ đau trong thời gian ngắn: vài giây đến vài phút",
+      "B": "Đau kéo dài > 15 phút",
+      "C": "Đau hàng giờ",
+      "D": "Đau tăng lên khi nghỉ ngơi, dùng thuốc giãn mạch vành"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "question": "Đặc điểm của cơn đau thắt ngực điển hình:",
+    "options": {
+      "A": "Đau vùng ngực trái, sau xương ức lan lên vai, mặt trong cánh tay",
+      "B": "Đau vùng hạ sườn phải lan lên vai, mặt trong cẳng tay",
+      "C": "Đau sau xương ức, không lan",
+      "D": "Đau vùng ngực trái lan xuống dưới ổ bụng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "question": "Việc cần làm đầu tiên để giảm đau cho bệnh nhân đau thắt ngực:",
+    "options": {
+      "A": "Cho bệnh nhân nghỉ ngơi, ngừng gắng sức ngay",
+      "B": "Cho bệnh nhân uống 1 cốc nước",
+      "C": "Động viên bệnh nhân",
+      "D": "Đo dấu hiệu sinh tồn cho bệnh nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "question": "Nguyên nhân gây nhồi máu cơ tim:",
+    "options": {
+      "A": "Động mạch vành bị hẹp",
+      "B": "Động mạch vành bị tắc",
+      "C": "Tĩnh mạch vành bị hẹp",
+      "D": "Tĩnh mạch vành bị tắc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Nguyên nhân hay gặp nhất gây nhồi máu cơ tim là:",
+    "options": {
+      "A": "Viêm động mạch vành do giang mai.",
+      "B": "Vữa xơ động mạch vành.",
+      "C": "Dị dạng bẩm sinh động mạch vành.",
+      "D": "Hẹp van hai lá"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "question": "Đặc điểm của cơn đau ngực ở bệnh nhân nhồi máu cơ tim trường hợp điển hình:",
+    "options": {
+      "A": "Thời gian đau kéo dài, có thể hàng giờ, đau dữ dội",
+      "B": "Đau ngực trái lan xuống dưới bụng",
+      "C": "Bệnh nhân thấy đỡ đau khi nằm nghỉ ngơi",
+      "D": "Đau trong thời gian ngắn: vài giây đến vài phút"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "Triệu chứng sốc tim hay gặp ở bệnh nhân:",
+    "options": {
+      "A": "Cơn đau thắt ngực",
+      "B": "Bệnh van tim",
+      "C": "Nhồi máu cơ tim",
+      "D": "Hẹp động mạch vành"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 171,
+    "question": "Một trong những biến chứng của nhồi máu cơ tim:",
+    "options": {
+      "A": "Bệnh thấp tim",
+      "B": "Thấp khớp cấp",
+      "C": "Suy tim cấp",
+      "D": "Thông liên thất"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 172,
+    "question": "Một trong những biến chứng của nhồi máu cơ tim:",
+    "options": {
+      "A": "Vỡ tim, đột tử",
+      "B": "Bệnh tim bẩm sinh",
+      "C": "Thông liên nhĩ",
+      "D": "Còn ống động mạch"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Bệnh nào sau đây là cấp cứu nội khoa:",
+    "options": {
+      "A": "Hẹp van hai lá",
+      "B": "Loét dạ dày tá tràng",
+      "C": "Nhồi máu cơ tim",
+      "D": "Xơ gan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Nguyên nhân hay gặp nhất gây viêm phế quản cấp là:",
+    "options": {
+      "A": "Vi khuẩn, vi rút",
+      "B": "Trực khuẩn lao",
+      "C": "Ký sinh trùng",
+      "D": "Nấm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 175,
+    "question": "Điều kiện thuận lợi hay gặp nhất gây viêm phế quản cấp là:",
+    "options": {
+      "A": "Nhiễm lạnh đột ngột",
+      "B": "Những người trên 60 tuổi",
+      "C": "Mùa hè",
+      "D": "Gắng sức"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "question": "Triệu chứng lâm sàng điển hình của viêm phế quản cấp là:",
+    "options": {
+      "A": "Sốt cao",
+      "B": "Đau ngực dữ dội",
+      "C": "Phổi có ran rít",
+      "D": "Ho và khạc đờm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "question": "Đặc điểm về tiến triển của bệnh viêm phế quản cấp:",
+    "options": {
+      "A": "Sau khi khỏi thường để lại di chứng ở phổi",
+      "B": "Sau khi khỏi thường gây COPD",
+      "C": "Bệnh tiến triển lành tính, sau khi khỏi không để lại di chứng",
+      "D": "Bệnh thường gây nhiều hậu quả nặng nề"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 178,
+    "question": "Thuốc Terpin Codein dùng trong viêm phế quản cấp có tác dụng:",
+    "options": {
+      "A": "Diệt vi khuẩn",
+      "B": "Giảm ho, long đờm",
+      "C": "Giãn phế quản",
+      "D": "Chống dị ứng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "question": "Nguyên nhân chính gây viêm phổi thuỳ là :",
+    "options": {
+      "A": "Tụ cầu",
+      "B": "Phế cầu",
+      "C": "Liên cầu",
+      "D": "Song cầu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "question": "Đặc điểm của đờm trong trường hợp viêm phổi điển hình:",
+    "options": {
+      "A": "Đờm màu xanh.",
+      "B": "Đờm trắng dính.",
+      "C": "Đờm bã đậu",
+      "D": "Đờm màu rỉ sắt quánh, dính."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 181,
+    "question": "Xét nghiệm công thức máu ở bệnh nhân viêm phổi thùy có đặc điểm:",
+    "options": {
+      "A": "Số lượng bạch cầu giảm",
+      "B": "Số lượng bạch cầu tăng",
+      "C": "Số lượng bạch cầu tăng, đa nhân trung tính tăng, tốc độ lắng máu tăng",
+      "D": "Số lượng bạch cầu tăng, tốc độ lắng máu giảm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Thuốc chính để điều trị nguyên nhân đối với bệnh viêm phổi thuỳ là:",
+    "options": {
+      "A": "Giảm đau",
+      "B": "Chống dị ứng",
+      "C": "Kháng sinh",
+      "D": "Giảm ho"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 183,
+    "question": "Biện pháp tốt nhất để phòng chống sự lây lan vi khuẩn gây viêm phổi:",
+    "options": {
+      "A": "Vệ sinh sạch sẽ buồng bệnh.",
+      "B": "Vệ sinh cá nhân hàng ngày.",
+      "C": "Tăng cường thoáng khí trong buồng bệnh.",
+      "D": "Xử lý chất thải, đồ dùng của người bệnh đúng qui định"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "question": "Vỗ rung lồng ngực cho người bệnh viêm phổi nhằm mục đích:",
+    "options": {
+      "A": "Làm cho người bệnh đỡ khó thở",
+      "B": "Làm cho người bệnh đỡ đau ngực",
+      "C": "Làm long đờm cho người bệnh",
+      "D": "Làm loãng đờm cho người bệnh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 185,
+    "question": "Một trong những yếu tố thuận lợi làm khởi phát cơn hen phế quản là:",
+    "options": {
+      "A": "Hẹp động mạch vành",
+      "B": "Dị ứng",
+      "C": "Xơ vữa động mạch",
+      "D": "Tăng huyết áp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 186,
+    "question": "Một trong những yếu tố thuận lợi làm khởi phát cơn hen phế quản là:",
+    "options": {
+      "A": "Tắc động mạch vành",
+      "B": "Gắng sức",
+      "C": "Co thắt phế quản",
+      "D": "Giãn phế quản"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "question": "Đờm của bệnh nhân hen phế quản thường có đặc điểm là:",
+    "options": {
+      "A": "Đờm trong và dính.",
+      "B": "Đờm quánh, dính và có màu rỉ sắt.",
+      "C": "Đờm nhầy mủ",
+      "D": "Đờm bã đậu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 188,
+    "question": "Đặc điểm của khó thở trong bệnh hen phế quản là:",
+    "options": {
+      "A": "Khó thở chậm, thì hít vào",
+      "B": "Khó thở nhanh, thì hít vào",
+      "C": "Khó thở chậm, thì thở ra",
+      "D": "Khó thở nhanh, thì thở ra"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 189,
+    "question": "Nhóm thuốc chính để điều trị hen phế quản là:",
+    "options": {
+      "A": "Thuốc kháng sinh",
+      "B": "Thuốc giảm ho, long đờm",
+      "C": "Thuốc giãn phế quản và corticoid",
+      "D": "Thuốc long đờm và hạ sốt"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 190,
+    "question": "Salbutamol là thuốc có tác dụng :",
+    "options": {
+      "A": "Giảm ho",
+      "B": "Long đờm",
+      "C": "Giãn cơ trơn phế quản",
+      "D": "Chống viêm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 191,
+    "question": "Trong cơn hen phế quản có hiện tượng:",
+    "options": {
+      "A": "Giãn các phế quản",
+      "B": "Co thắt phế quản",
+      "C": "Giảm bài tiết dịch ở phế quản",
+      "D": "Co thắt mạch máu ở phổi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "question": "Chăm sóc dinh dưỡng cho bệnh nhân hen phế quản cần chú ý:",
+    "options": {
+      "A": "Ăn giảm đạm",
+      "B": "Ăn nhạt",
+      "C": "Không cho bệnh nhân ăn thức ăn dễ dị ứng",
+      "D": "Không cho bệnh nhân ăn hải sản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 193,
+    "question": "Để hạn chế cơn hen xuất hiện bệnh nhân cần:",
+    "options": {
+      "A": "Tập thở sâu",
+      "B": "Không dùng quá liều thuốc giãn phế quản",
+      "C": "Điều trị triệt để viêm nhiễm đường hô hấp",
+      "D": "Ăn nhạt"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 194,
+    "question": "Yếu tố nguy cơ chính gây bệnh COPD là:",
+    "options": {
+      "A": "Hút thuốc lá, thuốc lào",
+      "B": "Bụi trong khí quyển",
+      "C": "Nhiễm vi khuẩn",
+      "D": "Nhiễm vi rút"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "question": "Đặc điểm của khó thở trong bệnh COPD là:",
+    "options": {
+      "A": "Khó thở vào",
+      "B": "Khó thở ra",
+      "C": "Khó thở từ từ ngày một tăng dần",
+      "D": "Khó thở cấp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "question": "Bệnh COPD thường gặp ở người có tiền sử:",
+    "options": {
+      "A": "Tăng mỡ máu",
+      "B": "Gút",
+      "C": "Hút thuốc",
+      "D": "Uống rượu bia"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 197,
+    "question": "Bệnh COPD thường gặp ở người có tiền sử:",
+    "options": {
+      "A": "Tiếp xúc với khói, bụi ô nhiễm",
+      "B": "Tăng huyết áp",
+      "C": "Đái tháo đường",
+      "D": "Xơ vữa động mạch"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "question": "Biện pháp hiệu quả nhất trong dự phòng bệnh COPD là:",
+    "options": {
+      "A": "Không hút thuốc, tránh khói bụi",
+      "B": "Tập thở",
+      "C": "Giữ ấm cổ ngực khi trời lạnh",
+      "D": "Điều trị tốt nhiễm khuẩn đường hô hấp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "question": "Loại vi khuẩn gây loét dạ dày tá tràng:",
+    "options": {
+      "A": "Vi khuẩn Gram ( + )",
+      "B": "Helicobacter Pylori",
+      "C": "Liên cầu",
+      "D": "Tụ cầu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "question": "Loại thuốc có thể gây loét dạ dày- tá tràng là:",
+    "options": {
+      "A": "Các loại thuốc kháng sinh",
+      "B": "Thuốc giảm đau giãn cơ: Nospa",
+      "C": "Corticoid",
+      "D": "Salbutamol"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "question": "Yếu tố góp phần gây viêm loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Rượu, thuốc lá, tăng đường máu",
+      "B": "Rượu, thuốc lá, gắng sức",
+      "C": "Stress, tăng mỡ máu",
+      "D": "Stress, rượu, thuốc lá"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 202,
+    "question": "Triệu chứng lâm sàng quan trọng nhất của loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Đau bụng vùng mạn sườn phải",
+      "B": "Đau bụng vùng thượng vị",
+      "C": "Đau bụng vùng mạn sườn trái",
+      "D": "Đau bụng vùng hạ vị"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 203,
+    "question": "Vị trí đau thường gặp trong bệnh loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Hạ sườn trái.",
+      "B": "Thượng vị.",
+      "C": "Hố chậu phải.",
+      "D": "Hạ vị."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 204,
+    "question": "Triệu chứng của loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Đau hạ sườn phải, nôn.",
+      "B": "Đau thượng vị, ợ hơi, ợ chua.",
+      "C": "Đau hạ sườn trái, nôn ói, tiêu chảy.",
+      "D": "Đau bụng, đi ngoài phân đen."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "Đặc điểm của đau bụng trong loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Đau quặn từng cơn",
+      "B": "Đau vùng hạ vị lan xuống dưới",
+      "C": "Đau có cảm giác nóng rát",
+      "D": "Đau bụng và có cảm giác mót rặn"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Đặc điểm của đau bụng trong bệnh viêm loét dạ dày tá tràng thể điển hình là:",
+    "options": {
+      "A": "Đau bụng thượng vị dữ dội thành cơn",
+      "B": "Đau vùng thượng vị âm ỉ, có cảm giác rát bỏng",
+      "C": "Đau âm ỉ kéo dài liên tục",
+      "D": "Đau vùng thượng vị như dao đâm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "question": "Đặc điểm của đau bụng trong loét dạ dày tá tràng thể điển hình:",
+    "options": {
+      "A": "Đau quặn từng cơn vùng thượng vị",
+      "B": "Đau dữ dội như dao đâm vùng thượng vị",
+      "C": "Đau vùng thượng vị âm ỉ, có tính chất chu kỳ",
+      "D": "Đau vùng thượng vị lan xuống dưới"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Biến chứng của loét dạ dày tá tràng:",
+    "options": {
+      "A": "Thủng ổ loét",
+      "B": "Viêm gan",
+      "C": "Lách to",
+      "D": "Giun chui ống mật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 209,
+    "question": "Biến chứng của loét dạ dày - tá tràng:",
+    "options": {
+      "A": "Xơ gan",
+      "B": "Hẹp môn vị",
+      "C": "Cổ trướng",
+      "D": "Chảy máu đường tiêu hoá dưới"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "question": "Biểu hiện của biến chứng chảy máu tiêu hoá ở bệnh nhân loét dạ dày:",
+    "options": {
+      "A": "Cảm giác đau thay đổi",
+      "B": "Đi ngoài phân màu đen",
+      "C": "Mệt mỏi, sút cân",
+      "D": "Da vàng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "question": "Biểu hiện của biến chứng thủng ổ loét ở bệnh nhân loét dạ dày là:",
+    "options": {
+      "A": "Đi ngoài phân màu đen",
+      "B": "Hồng cầu giảm",
+      "C": "Đau bụng dữ dội như dao đâm vùng thượng vị",
+      "D": "Nôn ra máu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "question": "Biểu hiện của biến chứng hẹp môn vị ở bệnh nhân loét dạ dày:",
+    "options": {
+      "A": "Nôn ra thức ăn của bữa trước hoặc của ngày hôm trước",
+      "B": "Nôn ra máu",
+      "C": "Khám thấy bụng cứng như gỗ",
+      "D": "Đi ngoài ra phân màu đen"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 213,
+    "question": "Bệnh nhân loét dạ dày tá tràng điều quan trọng nhất cần tự theo dõi là:",
+    "options": {
+      "A": "Nước tiểu",
+      "B": "Kết quả xét nghiệm máu",
+      "C": "Nhiệt độ",
+      "D": "Chất nôn, phân"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 214,
+    "question": "Vị trí loét dạ dày tá tràng dễ gây ung thư hoá nhất là:",
+    "options": {
+      "A": "Bờ cong nhỏ",
+      "B": "Bờ cong lớn",
+      "C": "Tâm vị",
+      "D": "Tá tràng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 215,
+    "question": "Đối với bệnh nhân loét dạ dày, để tìm biến chứng ung thư dạ dày cần phải:",
+    "options": {
+      "A": "Chụp X quang dạ dày",
+      "B": "Nội soi và sinh thiết dạ dày",
+      "C": "Xét nghiệm máu",
+      "D": "Siêu âm dạ dày"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 216,
+    "question": "Điều trị loét dạ dày cần chú ý:",
+    "options": {
+      "A": "Nên dùng nhiều loại thuốc phối hợp với chế độ ăn hợp lý",
+      "B": "Kết hợp thuốc và chế độ ăn hợp lý",
+      "C": "Kết hợp thuốc, chế độ nghỉ ngơi và chế độ ăn",
+      "D": "Chế độ vận động hợp lý"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Chế độ ăn uống phù hợp cho bệnh nhân loét dạ dày tá tràng:",
+    "options": {
+      "A": "Không sử dụng nhiều đạm",
+      "B": "Không sử dụng nhiều mỡ",
+      "C": "Không sử dụng nhiều hoa quả",
+      "D": "Không dùng chất kích thích"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 218,
+    "question": "Chế độ ăn đúng cho bệnh nhân loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Tăng đạm, hạn chế chất béo",
+      "B": "Giàu dinh dưỡng, hạn chế kali.",
+      "C": "Ăn mềm, hạn chế gia vi, cà phê, thuốc lá",
+      "D": "Thức ăn mềm, giảm đạm, giảm muối."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Dùng kháng sinh trong điều trị viêm loét dạ dày tá tràng:",
+    "options": {
+      "A": "Chỉ nên dùng 1 loại kháng sinh",
+      "B": "Dùng một đợt 10- 14 ngày nếu có bằng chứng nhiễm HelicobacterPylori.",
+      "C": "Kháng sinh phải được dùng kéo dài như những thuốc giảm tiết dịch vị khác.",
+      "D": "Bệnh nhân đang có xuất huyết phải cho uống kháng sinh ngay để nhanh chóng diệt vi khuẩn H.pylori."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Cổ trướng là hiện tượng:",
+    "options": {
+      "A": "Tràn dịch màng phổi",
+      "B": "Tràn dịch màng bụng",
+      "C": "Tràn dịch màng tim",
+      "D": "Bướu cổ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "question": "Tuần hoàn bàng hệ là:",
+    "options": {
+      "A": "Tĩnh mạch nổi trên da bụng",
+      "B": "Tĩnh mạch trực tràng bị giãn",
+      "C": "Tĩnh mạch thực quản bị giãn",
+      "D": "Tĩnh mạch chi dưới giãn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "question": "Nguyên nhân gây xơ gan thường gặp nhất là:",
+    "options": {
+      "A": "Viêm gan do rượu",
+      "B": "Tắc mật lâu ngày",
+      "C": "Suy dinh dưỡng",
+      "D": "Viêm gan virus"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 223,
+    "question": "Ở nước ta, nguyên nhân chính gây xơ gan là:",
+    "options": {
+      "A": "Vi rút viêm gan B, C",
+      "B": "Do ứ mật kéo dài",
+      "C": "Do nhiễm độc hoá chất và thuốc",
+      "D": "Do rối loạn chuyển hoá chất"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 224,
+    "question": "Dấu hiệu sớm của người bệnh xơ gan giai đoạn sớm là:",
+    "options": {
+      "A": "Mệt mỏi, chán ăn, ăn khó tiêu",
+      "B": "Cổ trướng",
+      "C": "Tuần hoàn bàng hệ",
+      "D": "Chảy máu chân răng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 225,
+    "question": "Tuần hoàn bàng hệ được phát hiện chủ yếu ở:",
+    "options": {
+      "A": "Mặt",
+      "B": "Chân",
+      "C": "Bụng",
+      "D": "Cổ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "question": "Một trong những triệu chứng của bệnh xơ gan là:",
+    "options": {
+      "A": "Phù",
+      "B": "Đái máu",
+      "C": "Tăng huyết áp",
+      "D": "Ho ra máu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "question": "Hậu quả nghiêm trọng nhất của tăng áp lực tĩnh mạch cửa ở bệnh nhân xơ gan:",
+    "options": {
+      "A": "Cổ trướng",
+      "B": "Tuần hoàn bàng hệ",
+      "C": "Phù tăng dần",
+      "D": "Giãn tĩnh mạch thực quản"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 228,
+    "question": "Hậu quả nghiêm trọng nhất của tăng áp lực tĩnh mạch cửa ở bệnh nhân xơ gan:",
+    "options": {
+      "A": "Cổ trướng",
+      "B": "Tuần hoàn bàng hệ",
+      "C": "Vàng da",
+      "D": "Vỡ tĩnh mạch thực quản"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 229,
+    "question": "Biến chứng cấp tính nguy hiểm nhất của xơ gan là:",
+    "options": {
+      "A": "Vỡ tĩnh mạch thực quản",
+      "B": "Cổ trướng",
+      "C": "Ung thư hoá",
+      "D": "Nhiễm trùng cơ hội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "question": "Biến chứng thường gặp nhất ở bệnh nhân xơ gan là:",
+    "options": {
+      "A": "Giãn, vỡ tĩnh mạch thực quản.",
+      "B": "Hôn mê gan.",
+      "C": "Ung thư gan.",
+      "D": "Lao màng bụng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Biến chứng nguy hiểm, đe doạ tính mạng bệnh nhân xơ gan là:",
+    "options": {
+      "A": "Nhiễm khuẩn",
+      "B": "Vỡ tĩnh mạch thực quản.",
+      "C": "Xuất huyết dưới da",
+      "D": "Tuần hoàn bàng hệ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 232,
+    "question": "Biểu hiện sớm của hôn mê gan là:",
+    "options": {
+      "A": "Đau xương khớp",
+      "B": "Thay đổi tính tình, mất phương hướng, rối loạn trí nhớ",
+      "C": "Bệnh nhân nôn nhiều",
+      "D": "Đi ngoài nhiều lần"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 233,
+    "question": "Khám bụng bệnh nhân xơ gan giai đoạn nặng có thể thấy:",
+    "options": {
+      "A": "Bụng cứng như gỗ",
+      "B": "Bụng to, rốn lõm sâu, không có tuần hoàn bàng hệ.",
+      "C": "Bụng to, rốn lõm sâu, có tuần hoàn bàng hệ.",
+      "D": "Bụng to, rốn lồi, có tuần hoàn bàng hệ."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 234,
+    "question": "Bệnh nhân xơ gan cổ chướng thường có cảm giác khó thở vì:",
+    "options": {
+      "A": "Do viêm phổi.",
+      "B": "Do cơ hoành bị chèn ép.",
+      "C": "Do thiếu máu.",
+      "D": "Do các cơ hô hấp bị suy yếu."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "question": "Hội chứng tăng áp lực tĩnh mạch cửa gặp trong bệnh:",
+    "options": {
+      "A": "Đái tháo đường",
+      "B": "Xuất huyết tiêu hóa",
+      "C": "Xơ gan",
+      "D": "Viêm loét dạ dày tá tràng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "question": "Chế độ ăn của bệnh nhân xơ gan:",
+    "options": {
+      "A": "Tăng đạm",
+      "B": "Giảm đạm",
+      "C": "Tăng đạm, nhưng khi có biểu hiện tiền hôn mê gan phải ăn giảm đạm",
+      "D": "Uống nhiều nước"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 237,
+    "question": "Tư thế giúp bệnh nhân xơ gan cổ trướng dễ thở hơn là:",
+    "options": {
+      "A": "Nằm đầu thấp vì máu lên não tốt hơn.",
+      "B": "Nằm nghiêng về một bên.",
+      "C": "Nằm đầu cao",
+      "D": "Gác cao chân vì nó giúp giảm phù 2 chân."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Bệnh nhân xơ gan khi có biểu hiện nặng có nguy cơ hôn mê, chế độ ăn quan trọng nhất là:",
+    "options": {
+      "A": "Ăn giảm đạm",
+      "B": "Đảm bảo lượng đường",
+      "C": "Tăng cường lipid",
+      "D": "Giảm muối"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "question": "Chế độ ăn của bệnh nhân xơ gan có biến chứng hôn mê gan là:",
+    "options": {
+      "A": "Ăn tăng đạm",
+      "B": "Ăn giảm đạm",
+      "C": "Ăn giảm đường",
+      "D": "Ăn tăng đường"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 240,
+    "question": "Để giảm phù cho bệnh nhân xơ gan cần:",
+    "options": {
+      "A": "Hạn chế ăn mỡ",
+      "B": "Hạn chế chọc dịch cổ trướng",
+      "C": "Ăn giảm đạm",
+      "D": "Ăn nhạt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 241,
+    "question": "Đề phòng hôn mê gan ở bệnh nhân xơ gan cần chú ý:",
+    "options": {
+      "A": "Theo dõi số lượng nước tiểu",
+      "B": "Theo dõi xét nghiệm máu",
+      "C": "Theo dõi tinh thần",
+      "D": "Theo dõi chất nôn, phân"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "question": "Dấu hiệu sớm nhất để phát hiện hôn mê gan là:",
+    "options": {
+      "A": "Mạch nhanh, huyết áp hạ",
+      "B": "Nhiệt độ tăng",
+      "C": "Sút cân nhanh",
+      "D": "Thay đổi ý thức, tinh thần"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 243,
+    "question": "Xuất huyết tiêu hóa là hiện tượng:",
+    "options": {
+      "A": "Máu chảy từ lòng mạch vào ổ bụng.",
+      "B": "Máu chảy từ lòng mạch vào dạ dày",
+      "C": "Máu chảy từ lòng mạch vào ống tiêu hóa.",
+      "D": "Máu chảy từ lòng mạch vào đại tràng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 244,
+    "question": "Bệnh nào sau đây là 1 cấp cứu nội khoa:",
+    "options": {
+      "A": "Viêm gan vi rút",
+      "B": "Xơ gan",
+      "C": "Xuất huyết tiêu hoá",
+      "D": "Cổ trướng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 245,
+    "question": "Một trong những nguyên nhân gây xuất huyết tiêu hóa trên:",
+    "options": {
+      "A": "Viêm gan",
+      "B": "Polip trực tràng",
+      "C": "Trĩ",
+      "D": "Loét dạ dày tá tràng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 246,
+    "question": "Một trong những guyên nhân gây xuất huyết tiêu hóa trên:",
+    "options": {
+      "A": "Tăng áp lực tĩnh mạch cửa",
+      "B": "Ung thư đại- trực tràng",
+      "C": "Viêm loét đại tràng, trực tràng",
+      "D": "Trĩ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 247,
+    "question": "Một trong những guyên nhân gây xuất huyết tiêu hóa dưới:",
+    "options": {
+      "A": "Ung thư đại- trực tràng",
+      "B": "Tăng áp lực tĩnh mạch cửa",
+      "C": "Loét dạ dày tá tràng",
+      "D": "Polip dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "question": "Một trong những guyên nhân gây xuất huyết tiêu hóa dưới:",
+    "options": {
+      "A": "Polip đại- trực tràng",
+      "B": "Tăng áp lực tĩnh mạch cửa",
+      "C": "Giãn tĩnh mạch thực quản",
+      "D": "Ung thư dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 249,
+    "question": "Nguyên nhân tại ống tiêu hoá gây chảy máu tiêu hoá là:",
+    "options": {
+      "A": "Xơ gan",
+      "B": "Ung thư gan",
+      "C": "Sỏi mật",
+      "D": "Ung thư dạ dày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 250,
+    "question": "Nguyên nhân ở ngoài ống tiêu hoá thường gặp nhất gây chảy máu tiêu hoá là:",
+    "options": {
+      "A": "Xơ gan",
+      "B": "Chảy máu đường mật",
+      "C": "Bệnh máu",
+      "D": "Loét dạ dày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 251,
+    "question": "Triệu chứng lâm sàng điển hình của chảy máu tiêu hoá cao là:",
+    "options": {
+      "A": "Nôn nhiều",
+      "B": "Vàng da và xuất huyết",
+      "C": "Nôn ra máu, đi ngoài phân đen",
+      "D": "Đi ngoài phân đen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 252,
+    "question": "Triệu chứng của xuất huyết tiêu hóa cao là:",
+    "options": {
+      "A": "Đi ngoài phân đen có hoặc không kèm theo nôn máu",
+      "B": "Đi ngoài ra máu đỏ tươi.",
+      "C": "Đi ngoài phân đen",
+      "D": "Nôn ra máu và đi ngoài phân đen"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 253,
+    "question": "Nguyên nhân thường gây chảy máu tiêu hoá nặng và dễ dẫn đến tử vong là:",
+    "options": {
+      "A": "Loét dạ dày tá tràng",
+      "B": "Ung thư dạ dày",
+      "C": "Tăng áp lực tĩnh mạch cửa",
+      "D": "Chảy máu đường mật"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 254,
+    "question": "Biểu hiện của sốc mất máu, ngoại trừ:",
+    "options": {
+      "A": "Da xanh tái, vã mồ hôi",
+      "B": "Niêm mạc môi, mắt trắng bệch",
+      "C": "Đi ngoài phân đen ít một",
+      "D": "Mạch nhanh, nhỏ, huyết áp tụt"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 255,
+    "question": "Nguyên nhân gây chảy máu đường tiêu hoá trên thường gây mức độ mất máu nặng là:",
+    "options": {
+      "A": "Loét dạ dày tá tràng",
+      "B": "Tăng áp lực tĩnh mạch cửa",
+      "C": "Polip ở dạ dày tá tràng",
+      "D": "Chảy máu đường mật"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "question": "Triệu chứng có giá trị nhất để phát hiện sớm tình trạng mất máu ở người bệnh chảy máu tiêu hoá là:",
+    "options": {
+      "A": "Nôn ra máu",
+      "B": "Sốt",
+      "C": "Mạch nhanh, huyết áp hạ",
+      "D": "Tình trạng tinh thần thay đổi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 257,
+    "question": "Chế độ nghỉ ngơi của bệnh nhân đang xuất huyết tiêu hóa:",
+    "options": {
+      "A": "Có thể vận động nhẹ nhàng",
+      "B": "Tránh gắng sức",
+      "C": "Tránh thức khuya",
+      "D": "Bất động"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 258,
+    "question": "Khi bệnh nhân chảy máu tiêu hoá mới vào viện, cần khuyên bệnh nhân:",
+    "options": {
+      "A": "Ăn thức ăn nóng",
+      "B": "Vận động nhẹ nhàng trong phòng",
+      "C": "Đại tiểu tiện tại giường",
+      "D": "Nên vận động, thay đổi tư thế thường xuyên"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 259,
+    "question": "Việc cần làm ngay đối với bệnh nhân chảy máu đường tiêu hoá khi vào viện:",
+    "options": {
+      "A": "Để bệnh nhân nằm đầu thấp",
+      "B": "Hỏi kỹ về tiền sử",
+      "C": "Lấy đầy đủ dấu hiệu sinh tồn",
+      "D": "Cho bệnh nhân thở oxy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 260,
+    "question": "Đối với bệnh nhân xuất huyết tiêu hóa, biểu hiện của chảy máu đã cầm là:",
+    "options": {
+      "A": "Mạch nhanh.",
+      "B": "Da hơi xanh, niêm mạc hơi nhợt.",
+      "C": "Bệnh nhân không nôn máu, không đi ngoài phân đen.",
+      "D": "Mạch và huyết áp ổn định, đi ngoài phân màu vàng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 261,
+    "question": "Đề phòng chảy máu tái phát trên bệnh nhân xuất huyết tiêu hóa cần:",
+    "options": {
+      "A": "Cho bệnh nhân ăn cơm bình thường khi đã đi ngoài phân vàng.",
+      "B": "Cho bệnh nhân ăn thức ăn ấm, nóng để dễ tiêu hóa.",
+      "C": "Cho bệnh nhân ăn lỏng, nguội, ít một và chia nhiều bữa trong ngày.",
+      "D": "Cho bệnh nhân ăn thức ăn có nhiều gia vị để kích thích hệ tiêu hóa của bệnh nhân."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 262,
+    "question": "Điều kiện thuận lợi của viêm đường tiết niệu:",
+    "options": {
+      "A": "Phình động mạch thận",
+      "B": "Hẹp động mạch thận",
+      "C": "Sỏi thận",
+      "D": "Hẹp tĩnh mạch thận"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 263,
+    "question": "Viêm đường tiết niệu do nhiễm khuẩn ngược dòng thường gặp ở đối tượng nào:",
+    "options": {
+      "A": "Nam giới",
+      "B": "Nữ giới",
+      "C": "Trẻ em",
+      "D": "Người già"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "Một trong những nguyên nhân có thể gây suy thận mạn tính:",
+    "options": {
+      "A": "Đái tháo đường",
+      "B": "Viêm phế quản cấp",
+      "C": "Viêm đa khớp dạng thấp",
+      "D": "Basedow"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "question": "Một trong những nguyên nhân có thể gây suy thận mạn tính:",
+    "options": {
+      "A": "Hen phế quản",
+      "B": "Thấp khớp cấp",
+      "C": "Bướu cổ",
+      "D": "Gút"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 266,
+    "question": "Một trong những nguyên nhân có thể gây suy thận mạn tính:",
+    "options": {
+      "A": "Viêm gan",
+      "B": "Thấp tim",
+      "C": "Bướu cổ",
+      "D": "Tăng huyết áp"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 267,
+    "question": "Một trong những triệu chứng lâm sàng của suy thận mạn:",
+    "options": {
+      "A": "Hạ huyết áp",
+      "B": "Thiếu máu",
+      "C": "Sốt",
+      "D": "Tăng đường máu."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 268,
+    "question": "Một trong những triệu chứng lâm sàng của suy thận mạn:",
+    "options": {
+      "A": "Thiếu máu",
+      "B": "Sốt",
+      "C": "Hạ huyết áp",
+      "D": "Tăng đường máu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 269,
+    "question": "Biểu hiện của hội chứng tăng u rê huyết ở bệnh nhân suy thận:",
+    "options": {
+      "A": "Rối loạn tim mạch: Nhịp tim nhanh, tiếng cọ màng ngoài tim ...",
+      "B": "Đau khớp",
+      "C": "Hạ huyết áp",
+      "D": "Đái buốt, đái rắt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "question": "Hội chứng tăng u rê máu thường gặp ở bệnh nhân ở bệnh nhân:",
+    "options": {
+      "A": "Basedow",
+      "B": "Suy tim",
+      "C": "Suy thận",
+      "D": "Viêm khớp dạng thấp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 271,
+    "question": "Cơ chế gây thiếu máu ở bệnh nhân suy thận mạn là do:",
+    "options": {
+      "A": "Viêm đường tiết niệu",
+      "B": "Hạ kali máu",
+      "C": "Thiếu erythropoietin",
+      "D": "Tăng urê máu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 272,
+    "question": "Chế độ ăn uống đúng của bệnh nhân suy thận mạn:",
+    "options": {
+      "A": "Uống nhiều nước khi có phù",
+      "B": "Tăng hoa quả có nhiều kali",
+      "C": "Ăn tăng đạm",
+      "D": "Ăn giảm đạm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 273,
+    "question": "Loại thuốc để điều trị thiếu máu cho bệnh nhân suy thận mạn:",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin B12",
+      "C": "Vitamin K",
+      "D": "Erythropoietin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 274,
+    "question": "Yếu tố thuận lợi của bệnh Basedow:",
+    "options": {
+      "A": "Stress",
+      "B": "Gắng sức",
+      "C": "Lạnh đột ngột",
+      "D": "Hút thuốc lá"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "question": "Triệu chứng của bệnh basedow:",
+    "options": {
+      "A": "Huyết áp hạ",
+      "B": "Nhịp thở nhanh",
+      "C": "Nhịp tim chậm",
+      "D": "Nhịp tim nhanh"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 276,
+    "question": "Triệu chứng của bệnh basedow:",
+    "options": {
+      "A": "Tiểu ít",
+      "B": "Nhịp thở nhanh",
+      "C": "Đau khớp",
+      "D": "Bướu cổ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 277,
+    "question": "Triệu chứng của bệnh basedow:",
+    "options": {
+      "A": "Run tay",
+      "B": "Vàng da",
+      "C": "Táo bón",
+      "D": "Đường máu giảm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "question": "Triệu chứng quan trọng nhất của Basedow là:",
+    "options": {
+      "A": "Khát nước",
+      "B": "Nhịp tim nhanh",
+      "C": "Bướu giáp",
+      "D": "Rụng tóc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "question": "Đặc điểm của run tay trong bệnh basedow:",
+    "options": {
+      "A": "Run khi xúc động",
+      "B": "Run chủ yếu ở các gốc chi",
+      "C": "Run theo ý muốn",
+      "D": "Run tay kèm theo co giật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "question": "Một trong các triệu chứng của cơn bão tố giáp trạng (cơn cường giáp cấp) trong bệnh basedow là:",
+    "options": {
+      "A": "Sốt cao",
+      "B": "Tụt huyết áp",
+      "C": "Mạch chậm",
+      "D": "Xuất huyết niêm mạc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "question": "Một trong các triệu chứng của cơn bão tố giáp trạng (cơn cường giáp cấp) trong bệnh basedow là:",
+    "options": {
+      "A": "Hạ thân nhiệt",
+      "B": "Khó thở",
+      "C": "Mạch chậm",
+      "D": "Táo bón"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "question": "Một trong các triệu chứng của cơn bão tố giáp trạng (cơn cường giáp cấp) trong bệnh basedow là:",
+    "options": {
+      "A": "Hạ thân nhiệt",
+      "B": "Rối loạn tâm thần, có thể hôn mê",
+      "C": "Mạch chậm",
+      "D": "Táo bón"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 283,
+    "question": "Biến chứng hay gặp của bệnh basedow:",
+    "options": {
+      "A": "Biến chứng tim mạch",
+      "B": "Biến chứng thận",
+      "C": "Mạch chậm",
+      "D": "Rối loạn tiêu hóa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "Chế độ ăn uống phù hợp đối với bệnh nhân basedow:",
+    "options": {
+      "A": "Ăn thức ăn nóng, uống nước nóng",
+      "B": "Ăn nhạt",
+      "C": "Uống ít nước",
+      "D": "Ăn đảm bảo dinh dưỡng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 285,
+    "question": "Chế độ nghỉ ngơi phù hợp đối với bệnh nhân basedow:",
+    "options": {
+      "A": "Nằm đầu cao",
+      "B": "Hạn chế vận động",
+      "C": "Nằm đầu thấp",
+      "D": "Tránh căng thẳng thần kinh"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 286,
+    "question": "Dấu hiệu sinh tồn quan trọng nhất cần theo dõi ở bệnh nhân basedow là:",
+    "options": {
+      "A": "Mạch",
+      "B": "Nhiệt độ",
+      "C": "Huyết áp",
+      "D": "Nhịp thở"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "question": "Triệu chứng của bệnh đái tháo đường trường hợp điển hình:",
+    "options": {
+      "A": "Ăn nhiều, uống nhiều, tiểu nhiều, gầy sút nhanh",
+      "B": "Bướu cổ, mạch nhanh, gầy nhiều, tiểu nhiều",
+      "C": "Run tay, hay khát, gầy nhiều, đường niệu tăng",
+      "D": "Gầy sút nhanh, mạch nhanh, uống nhiều, ăn nhiều."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "question": "Biến chứng nào sau đây là biến chứng cấp tính của bệnh đái tháo đường:",
+    "options": {
+      "A": "Hôn mê",
+      "B": "Nhiễm trùng",
+      "C": "Tổn thương mạch máu",
+      "D": "Tổn thương thần kinh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "question": "Chế độ ăn cho bệnh nhân đái tháo đường:",
+    "options": {
+      "A": "Giảm glucid và các loại thức ăn ngọt",
+      "B": "Nên ăn thức ăn chứa nhiều lipid.",
+      "C": "Ăn tăng các loại thức ăn chứa nhiều protid.",
+      "D": "Tăng cường vitamin và đường"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 290,
+    "question": "Thời gian điều trị bệnh đái tháo đường:",
+    "options": {
+      "A": "Đủ 7 -10 ngày",
+      "B": "1 tháng",
+      "C": "1 năm",
+      "D": "Lâu dài"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 291,
+    "question": "Loại thuốc để điều trị bệnh đái tháo đường typ 1:",
+    "options": {
+      "A": "Kháng giáp trạng tổng hợp",
+      "B": "Corticoid",
+      "C": "Insulin",
+      "D": "Giảm đau"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 292,
+    "question": "Bệnh nào sau đây hay gây biến chứng loét bàn chân:",
+    "options": {
+      "A": "Viêm đường tiết niệu",
+      "B": "Bướu cổ",
+      "C": "Đái tháo đường",
+      "D": "Basedow"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 293,
+    "question": "Triệu chứng của thiếu máu:",
+    "options": {
+      "A": "Vàng da, vàng mắt",
+      "B": "Huyết áp tăng",
+      "C": "Mạch chậm",
+      "D": "Da xanh, niêm mạc nhợt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 294,
+    "question": "Chế độ ăn uống của bệnh nhân thiếu máu:",
+    "options": {
+      "A": "Ăn giảm đạm",
+      "B": "Ăn uống đầy đủ đạm, vitamin",
+      "C": "Hạn chế nước uống",
+      "D": "Ăn nhạt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "question": "Loại bệnh giun sán nào hay gây thiếu máu? :",
+    "options": {
+      "A": "Giun đũa",
+      "B": "Giun tóc",
+      "C": "Giun móc",
+      "D": "Giun kim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "question": "Một trong những nguyên nhân gây thiếu máu:",
+    "options": {
+      "A": "Bệnh giun kim",
+      "B": "Viêm phế quản cấp",
+      "C": "Suy thận",
+      "D": "Viêm cầu thận cấp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 297,
+    "question": "Biến chứng hay gặp nhất khi điều trị bằng thuốc giảm đau cho bệnh nhân viêm khớp dạng thấp là:",
+    "options": {
+      "A": "Loét dạ dày tá tràng",
+      "B": "Dị ứng thuốc",
+      "C": "Kháng thuốc",
+      "D": "Suy thận"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "question": "Vị trí tổn thương khớp thường gặp nhất trong bệnh viêm khớp dạng thấp là:",
+    "options": {
+      "A": "Các khớp nhỏ ở bàn ngón tay",
+      "B": "Khớp vai",
+      "C": "Khớp háng",
+      "D": "Khớp gối"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 299,
+    "question": "Đặc điểm nào sau đây gặp trong bệnh viêm khớp dạng thấp:",
+    "options": {
+      "A": "Viêm khớp có tính chất di chuyển",
+      "B": "Khớp nóng đỏ rõ",
+      "C": "Viêm ở khớp lớn như khớp vai, khớp háng, cột sống.",
+      "D": "Có tính chất đối xứng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 300,
+    "question": "Trong bệnh viêm khớp dạng thấp vị trí khớp viêm hay gặp là:",
+    "options": {
+      "A": "Khớp háng",
+      "B": "Cột sống.",
+      "C": "Khớp vai",
+      "D": "Khớp nhỏ ở bàn tay"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 301,
+    "question": "Nguyên nhân gây bệnh gút là do:",
+    "options": {
+      "A": "Tăng acid uric niệu",
+      "B": "Giảm acid uric niệu",
+      "C": "Tăng acid uric máu",
+      "D": "Giảm acid uric máu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "question": "Hoàn cảnh xuất hiện cơn gút cấp tính :",
+    "options": {
+      "A": "Sau bữa ăn nhiều chất đạm",
+      "B": "Sau khi gắng sức",
+      "C": "Gặp lạnh",
+      "D": "Cơ địa dị ứng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 303,
+    "question": "Hoàn cảnh xuất hiện cơn gút cấp tính:",
+    "options": {
+      "A": "Sau khi uống nhiều rượu",
+      "B": "Sau nhiễm liên cầu",
+      "C": "Sau viêm họng",
+      "D": "Tự nhiên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "question": "Vị trí đau khớp thường gặp trong cơn gút cấp:",
+    "options": {
+      "A": "Khớp vai",
+      "B": "Khớp cổ tay",
+      "C": "Khớp cổ chân",
+      "D": "Khớp bàn ngón chân"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 305,
+    "question": "Chế độ ăn uống phù hợp cho bệnh nhân gút:",
+    "options": {
+      "A": "Ăn nhạt",
+      "B": "Uống ít nước",
+      "C": "Tránh các chất có nhiều purin",
+      "D": "Tăng đạm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 306,
+    "question": "Chế độ ăn uống phù hợp cho bệnh nhân gút:",
+    "options": {
+      "A": "Hạn chế hoa quả có kali",
+      "B": "Uống ít nước",
+      "C": "Uống nhiều nước",
+      "D": "Giảm chất bột đường"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 307,
+    "question": "Thuốc điều trị bệnh gút:",
+    "options": {
+      "A": "Vitamin nhóm B",
+      "B": "Kháng sinh",
+      "C": "Colchicin",
+      "D": "Giãn phế quản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 308,
+    "question": "Trẻ 9 tháng tuổi có biểu hiện ho, chảy nước mũi, nhiệt độ 38 độ C, nhịp thở 57 lần/phút, không có dấu hiệu rút lõm lồng ngực. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho trẻ là:",
+    "options": {
+      "A": "Không viêm phổi.",
+      "B": "Viêm phổi.",
+      "C": "Viêm phổi nặng.",
+      "D": "Viêm phổi rất nặng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 309,
+    "question": "Trẻ 4 tuổi có biểu hiện ho, sốt. Ngoài ra: Trẻ tỉnh, quấy khóc, sốt 38,5 độ C, rút lõm lồng ngực nhẹ, thở 45 lần/phút. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho cháu là:",
+    "options": {
+      "A": "Không viêm phổi.",
+      "B": "Viêm phổi.",
+      "C": "Viêm phổi nặng.",
+      "D": "Viêm phổi rất nặng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "Trẻ 3 tuổi biểu hiện ho, khó thở. Ngoài ra trẻ ho có đờm, nặng tiếng, thở 45 lần/phút, rút lõm lồng ngực khi bú, không sốt, không có dấu hiệu nguy hiểm toàn thân. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho trẻ là:",
+    "options": {
+      "A": "Không viêm phổi.",
+      "B": "Viêm phổi.",
+      "C": "Viêm phổi nặng.",
+      "D": "Viêm phổi rất nặng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 311,
+    "question": "Trẻ 20 tháng biểu hiện ho, khó thở. Ngoài ra: Trẻ co giật ở nhà 1 cơn, hiện tại không co giật, thở 45 lần/phút, không rút lõm lồng ngực, uống được nước. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho trẻ là:",
+    "options": {
+      "A": "Không viêm phổi.",
+      "B": "Viêm phổi.",
+      "C": "Viêm phổi nặng.",
+      "D": "Viêm phổi rất nặng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 312,
+    "question": "Một trẻ 2 tuổi, thở nhanh, rút lõm lồng ngực, sốt cao co giật. Dấu hiệu để phân loại viêm phổi cho trẻ (theo chương trình NKHHCT) là:",
+    "options": {
+      "A": "Rút lõm lồng ngực.",
+      "B": "Thở nhanh.",
+      "C": "Dấu hiệu nguy kịch.",
+      "D": "Ho"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 313,
+    "question": "Một trẻ 4 tuổi, vào viện khám vì sốt, co giật và ho. Ngoài ra trẻ còn thở nhanh, rút lõm lồng ngực, được phân loại bệnh là viêm phổi nặng. Dấu hiệu nào có giá trị để phân loại bệnh cho trẻ?:",
+    "options": {
+      "A": "Thở nhanh.",
+      "B": "Co giật.",
+      "C": "Khò khè.",
+      "D": "Rút lõm lồng ngực."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 314,
+    "question": "Một trẻ 15 tháng tuổi, bị tiêu chảy đã 5 ngày, phân không có máu. Khi đưa nước trẻ uống háo hức, nếp véo da mất nhanh. Bạn phân loại cho vấn đề tiêu chảy của trẻ ở mức nào?",
+    "options": {
+      "A": "Không mất nước",
+      "B": "Có mất nước",
+      "C": "Mất nước nặng",
+      "D": "Tiêu chảy kéo dài"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 315,
+    "question": "Trẻ 6 tuần tuổi, bị tiêu chảy đã hơn 2 tuần phân không có máu. Trẻ tỉnh, mắt không trũng, nếp véo da mất nhanh. Phân loại tiêu chảy cho trẻ là:",
+    "options": {
+      "A": "Tiêu chảy cấp có mất nước",
+      "B": "Tiêu chảy cấp không mất nước",
+      "C": "Tiêu chảy kéo dài không mất nước",
+      "D": "Tiêu chảy kéo dài có mất nước"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "Một trẻ 8 tháng tuổi tiêu chảy 5 – 6 lần/ ngày, phân tóe nước không có nhày máu. Hiện tại trẻ có biểu hiện kích thích vật vã, mắt trũng, nếp véo da mất chậm, khi cho cháu uống nước, cháu uống háo hức. Phân loại tiêu chảy cho trẻ là:",
+    "options": {
+      "A": "Có mất nước",
+      "B": "Không mất nước",
+      "C": "Mất nước nặng",
+      "D": "Lỵ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 317,
+    "question": "Một trẻ 12 tháng tuổi, tiêu chảy mất nước mức độ A. Lượng dung dịch ORS cần cho trẻ uống sau mỗi lần đi ngoài phân lỏng là:",
+    "options": {
+      "A": "10ml - 50ml",
+      "B": "50ml - 100ml",
+      "C": "100ml - 150ml",
+      "D": "150ml - 200ml"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 318,
+    "question": "Trẻ nữ 5 tuổi, đi ngoài 3-4 lần/ngày phân lỏng, trẻ đang được gia đình pha soresol để uống. Em hướng dẫn người mẹ về thời gian dùng dung dịch ORS sau khi pha là:",
+    "options": {
+      "A": "4 giờ",
+      "B": "8 giờ",
+      "C": "16 giờ",
+      "D": "24 giờ ."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 319,
+    "question": "Một trẻ 4 tuổi vào viện vì đi ngoài phân lỏng, tóe nước 4 lần/ngày. Ngày nay trẻ xuất hiện li bì, cho uống nước trẻ không uống được. Em hãy phân loại mức độ mất nước cho trẻ:",
+    "options": {
+      "A": "Mất nước mức độ C",
+      "B": "Mất nước mức độ B",
+      "C": "Mất nước mức độ A",
+      "D": "Mất nước mức độ D"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 320,
+    "question": "Trẻ nam bị bệnh viêm cầu thận cấp đang điều trị tại khoa Nhi. Khi hỏi về tiền sử, bà mẹ nói trước đây trẻ bị một số bệnh như viêm da, tiêu chảy cấp, lồng ruột, viêm kết mạc. Hãy xác định nguyên nhân gây bệnh viêm cầu thận cấp ở trẻ:",
+    "options": {
+      "A": "Viêm da",
+      "B": "Tiêu chảy cấp",
+      "C": "Lồng ruột",
+      "D": "Viêm kết mạc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 321,
+    "question": "Một trẻ 10 tuổi bị viêm cầu thận cấp vào điều trị tại khoa nhi, đã ổn và ra viện. Trước khi ra về, bà mẹ hỏi cháu cần phải xét nghiệm nước tiểu với thời gian như thế nào:",
+    "options": {
+      "A": "Định kỳ hàng tháng trong vòng một năm sau khi khỏi bệnh",
+      "B": "Định kỳ hàng ngày trong vòng một năm sau khi khỏi bệnh",
+      "C": "Định kỳ hàng tuần trong vòng một năm sau khi khỏi bệnh",
+      "D": "Định kỳ 3 tháng một lần trong vòng một năm sau khi khỏi bệnh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "question": "Một người mẹ có con bị bệnh viêm cầu thận cấp có tăng huyết áp. Với biểu hiện đó, bệnh nhân sẽ được điều trị bằng những thuốc gì:",
+    "options": {
+      "A": "Thuốc kháng sinh, lợi tiểu, hạ huyết áp",
+      "B": "Thuốc kháng sinh, lợi tiểu, hạ huyết áp, chống viêm",
+      "C": "Thuốc hạ huyết áp, chống viêm",
+      "D": "Thuốc lợi tiểu, chống viêm, cầm máu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 323,
+    "question": "Một người mẹ có con bị bệnh viêm cầu thận cấp, phù nhiều ở mặt. Họ hỏi em về chế độ ăn như thế nào để giảm phù. Em hãy lựa chọn lời khuyên nào dưới đây:",
+    "options": {
+      "A": "Ăn nhạt",
+      "B": "Ăn tăng đạm",
+      "C": "Ăn mặn bình thường",
+      "D": "Ăn tăng mỡ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 324,
+    "question": "Một bà mẹ có con 2 tuổi, trẻ có biểu hiện chậm biết đi. Mẹ của trẻ nói thường xuyên mua đồ biển cho trẻ ăn mà sao trẻ vẫn bị thiếu can xi. Khi hỏi ra thì mới biết trẻ thường xuyên ngủ dậy muộn, nên trẻ không được tắm nắng. Em cần tư vấn cho bà mẹ cho trẻ tắm nắng để :",
+    "options": {
+      "A": "Chuyển hóa tiền vitamin D dưới da thành vitamin D",
+      "B": "Chuyển hóa vitamin D dưới da thành canxi",
+      "C": "Chuyển hóa vitamin D dưới da thành tiền vitamin D",
+      "D": "Chuyển hóa tiền vitamin D và vitamin D dưới da thành canxi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 325,
+    "question": "Một người đến quầy thuốc nói rằng 2 ngày nay có biểu hiện sốt 39 độ C, đau nhức người, kèm theo có biểu hiện ho, rát họng. Ngoài ra không có triệu chứng nào khác. Em có thể cho họ dùng thuốc nào dưới đây:",
+    "options": {
+      "A": "Oresol",
+      "B": "Kháng sinh",
+      "C": "Dán salonpas",
+      "D": "Truyền dung dịch hoa quả"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 326,
+    "question": "Trong lúc em đang đứng bán thuốc, có một người nam giới bước vào ho liên tục kèm theo có sốt. Theo lời họ kể, 3 tuần nay cứ đến chiều họ lại sốt khoảng 38 độ C và kèm theo ho khạc đờm, sút gần 4 kg. Hôm nay họ bảo đến để mua kháng sinh và giảm ho về để uống. Em nghĩ đến bệnh nhân bị bệnh nào dưới đây:",
+    "options": {
+      "A": "Lao phổi",
+      "B": "Viêm họng",
+      "C": "Viêm mũi",
+      "D": "Viêm phổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 327,
+    "question": "Một trẻ 8 tháng tuổi bị bệnh 2 ngày nay. Biểu hiện sốt cao 39 độ C, hắt hơi, chảy nước mũi. Gia đình đưa trẻ đến phòng khám tư để điều trị, được bác sĩ kê đơn thuốc hạ sốt, kháng histamin. Đến ngày thứ 3 trẻ xuất hiện nổi ban vùng mặt, lưng, sờ mịn như nhung. Với các triệu chứng này, em nghĩ trẻ bị bệnh nào dưới đây:",
+    "options": {
+      "A": "Sốt xuất huyết",
+      "B": "Sốt phát ban",
+      "C": "Sởi",
+      "D": "Dị ứng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 328,
+    "question": "Một trẻ 15 tháng tuổi, xuất hiện sốt và ban màu hồng vùng ngực, lưng với đặc điểm hình tròn, lõm ở giữa, có dịch, kèm theo xuất hiện vài nốt ở trên đầu. Em cần nghĩ đến trẻ mắc bệnh nào dưới đây:",
+    "options": {
+      "A": "Sốt phát ban",
+      "B": "Sởi",
+      "C": "Thủy đậu",
+      "D": "Sốt xuất huyết"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 329,
+    "question": "Theo lời một người nam giới kể, họ đã từng quan hệ tình dục với người phụ nữ làm việc ở các quán bar. Sau 1 năm người nam giới xuất hiện triệu chứng sút cân, kèm theo ho dai dẳng, xuất hiện hạch ở vùng cổ và bẹn. Người nam giới hỏi em rằng họ mắc bệnh gì. Vận dụng kiến thức đã học, em có thể nghĩ đến họ mắc bệnh nào:",
+    "options": {
+      "A": "Viêm gan B",
+      "B": "Giang mai",
+      "C": "HIV",
+      "D": "Lậu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 330,
+    "question": "Theo lời một người bệnh kể rằng, tháng trước họ đi du lịch ở trong 1 khu rừng của Lâm Đồng, khi nằm ngủ không mắc màn. Ngày nay họ thấy xuất hiện sốt cao 39 – 40 độ C, đau nhức người, trên da có vài nốt có màu đỏ, có khả năng họ mắc sốt xuất huyết. Thuốc hạ sốt nào có thể dùng cho người bệnh:",
+    "options": {
+      "A": "Paracetamon",
+      "B": "Ibuprofen",
+      "C": "Tất cả các thuốc hạ sốt thuộc nhóm Non-steroid",
+      "D": "Có thể dùng một trong 2 thuốc hạ sốt thuốc nhóm steroid và non-steroid"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 331,
+    "question": "Một người hàng xóm của em có biểu hiện đau quặn bụng và đi ngoài phân ít một, ít nước, phân có máu lẫn nhày mũi. Thuốc kháng sinh nào có thể dùng cho người bệnh:",
+    "options": {
+      "A": "Metronidazol",
+      "B": "Ampicillin",
+      "C": "Ciprofloxacin",
+      "D": "Augmentin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 332,
+    "question": "Một người nam giới xuất hiện một vết loét ở bộ phận sinh dục, không ngứa, không đau. Tại vết loét có ít dịch. Em nghĩ người nam giới mắc bệnh nào dưới đây:",
+    "options": {
+      "A": "Lậu",
+      "B": "Giang mai",
+      "C": "HIV",
+      "D": "Viêm đường tiết niệu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 333,
+    "question": "Một người phụ nữ có biểu hiện ra nhiều khí hư lẫn mủ chảy ra ở âm đạo, kèm theo sốt cao và rét run, đi tiểu có cảm giác nóng rát. Em nghĩ họ mắc bệnh nào dưới đây:",
+    "options": {
+      "A": "Lậu",
+      "B": "Giang mai",
+      "C": "HIV",
+      "D": "Viêm đường tiết niệu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 334,
+    "question": "Một bà mẹ có con 5 tuổi, thấy xuất hiện sốt 2 ngày nay, nhiệt độ ngày càng tăng lên. Sau đó thấy xuất hiện ban cánh bướm vùng mặt, loét miệng. Trẻ đau miệng nên ăn uống kém. Em nghĩ trẻ bị bệnh nào dưới đây:",
+    "options": {
+      "A": "Dị ứng",
+      "B": "Viêm loét miệng lợi",
+      "C": "Luput",
+      "D": "Tay chân miệng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 335,
+    "question": "Cháu Nguyễn Minh Tân 12 tuổi. 2 tuần trước cháu bị đau rát họng, người có sốt, tự cặp nhiệt độ 37,8oC, được người nhà tự mua thuốc hạ sốt uống thấy đỡ. Mấy hôm nay cháu bị sưng đau khớp gối bên trái, không sốt. Mẹ cháu Tân đến quầy thuốc của bạn hỏi mua thuốc cho cháu. Là 1 người dược sĩ bán tại quầy thuốc, em sẽ xử trí như thế nào?:",
+    "options": {
+      "A": "Bán cho bệnh nhân 1 loại thuốc giảm đau",
+      "B": "Bán cho bệnh nhân 1 loại thuốc kháng sinh",
+      "C": "Bán cho bệnh nhân thuốc paracetamol",
+      "D": "Khuyên bệnh nhân nên đến bệnh viện để khám"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 336,
+    "question": "Cháu Nguyễn Minh Tân 12 tuổi. Khoảng 2 tuần trước cháu bị đau rát họng, người có sốt, tự cặp nhiệt độ 37,8oC, được người nhà tự mua thuốc hạ sốt uống thấy đỡ. Mấy hôm nay cháu bị sưng đau khớp gối bên trái, không sốt. Mẹ cháu Tân đến quầy thuốc của em hỏi mua thuốc cho cháu. Theo em, bệnh nhân này có nhiều khả năng bị bệnh gì?:",
+    "options": {
+      "A": "Bệnh thấp tim",
+      "B": "Bệnh gút",
+      "C": "Bệnh viêm khớp dạng thấp",
+      "D": "Bệnh thoái hoá khớp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 337,
+    "question": "Cháu Vinh 10 tuổi, đợt này đang bị đau rát họng, sốt nhẹ. Bệnh nhân đi khám được làm các xét nghiêm: máu, điện tim, ngoáy họng, được chẩn đoán: Viêm họng do liên cầu và cho thuốc Penicilline V uống trong 10 ngày. Mục đích của việc dùng Penicilline V trong trường hợp này là gì?:",
+    "options": {
+      "A": "Phòng thấp cấp I",
+      "B": "Phòng thấp cấp II",
+      "C": "Điều trị thấp tim",
+      "D": "Điều trị hở van tim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 338,
+    "question": "Bệnh nhân nữ 17 tuổi, bị đau khớp gối trái, đi viện khám được chẩn đoán thấp tim từ 2 năm trước. Hiện tại bệnh nhân hết đau khớp, ăn ngủ, sinh hoạt bình thường, bệnh nhân được tiêm Benzathin Penicillin mỗi 28 ngày/1 lần. Mục đích của việc dùng Benzathin Penicillin trong trường hợp này là gì?:",
+    "options": {
+      "A": "Phòng thấp cấp I",
+      "B": "Phòng thấp cấp II",
+      "C": "Điều trị suy tim",
+      "D": "Điều trị hở van tim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 339,
+    "question": "Bệnh nhân nữ 67 tuổi, bị tăng huyết áp đã 10 năm, gần đây thấy hay có cảm giác khó thở, phù 2 chân. Theo em, nhiều khả năng bệnh nhân này đã có biến chứng gì?:",
+    "options": {
+      "A": "Tai biến mạch não",
+      "B": "Tăng huyết áp",
+      "C": "Suy tim",
+      "D": "Nhồi máu cơ tim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 340,
+    "question": "Bệnh nhân nữ 68 tuổi, được chẩn đoán suy tim đã 7 năm. Đợt này bệnh nhân thấy khó thở nhiều, bụng chướng to, phù 2 chân. Bệnh nhân vào viện thăm khám và làm các xét nghiệm thấy có dịch ở màng bụng và dịch màng phổi. Bệnh nhân này có triệu chứng của:",
+    "options": {
+      "A": "Tuần hoàn bàng hệ",
+      "B": "Cổ trướng",
+      "C": "Tràn dịch đa màng",
+      "D": "Giãn tĩnh mạch thực quản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 341,
+    "question": "Bệnh nhân nữ 68 tuổi, được chẩn đoán suy tim và được đang được dùng thuốc trợ tim Digoxin theo đơn. Mấy ngày nay bệnh nhân có biểu hiện buồn nôn, chán ăn, mạch chỉ khoảng 50- 60 lần/phút. Những biểu hiện của bệnh nhân này nhiều khả năng là do:",
+    "options": {
+      "A": "Xơ vữa động mạch",
+      "B": "Cơn đau thắt ngực",
+      "C": "Ngộ độc thuốc trợ tim",
+      "D": "Nhồi máu cơ tim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 342,
+    "question": "Bệnh nhân nam 60 tuổi, chỉ số huyết áp đo được là 170/100 mmHg. Chỉ số huyết áp của bệnh nhân này là :",
+    "options": {
+      "A": "Bình thường",
+      "B": "Tăng",
+      "C": "Giảm",
+      "D": "Có nguy cơ giảm."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 343,
+    "question": "Bệnh nhân nam 56 tuổi, có tiền sử tăng huyết áp, vào viện có biểu hiện đau đầu, mệt mỏi, mặt đỏ bừng, huyết áp 190/100 mmHg, được chẩn đoán: tăng huyết áp. Theo em, chẩn đoán tăng huyết áp ở bệnh nhân này dựa vào triệu chứng nào sau đây:",
+    "options": {
+      "A": "Mệt mỏi",
+      "B": "Đau đầu",
+      "C": "Chỉ số huyết áp",
+      "D": "Mặt đỏ bừng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 344,
+    "question": "Bệnh nhân nam 65 tuổi, có tiền sử tăng huyết áp. Hôm nay người nhà thấy bệnh nhân bị méo miệng, nói ngọng, yếu 1 nửa người bên trái. Theo em, bệnh nhân này có nhiều khả năng bị bệnh gì?:",
+    "options": {
+      "A": "Cơn đau thắt ngực",
+      "B": "Nhồi máu cơ tim",
+      "C": "Tai biến mạch não",
+      "D": "Suy thận"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 345,
+    "question": "Bệnh nhân nam 56 tuổi, bị tăng huyết áp đã 10 năm, sáng nay khi đang leo cầu thang thì thấy đau vùng ngực trái. Ngay sau đó bệnh nhân nằm nghỉ thì thấy đỡ đau. Theo em, bệnh nhân này đau ngực là do nguyên nhân gì? :",
+    "options": {
+      "A": "Tăng huyết áp",
+      "B": "Nhồi máu cơ tim",
+      "C": "Cơn đau thắt ngực",
+      "D": "Giãn động mạch vành"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 346,
+    "question": "Bệnh nhân nam 66 tuổi, bị tăng huyết áp đã 10 năm, đã nhiều lần điều trị tại bệnh viện, trong đó có 2 lần bị đau ngực được chẩn đoán là cơn đau thắt ngực và tăng mỡ máu. Thời gian gần đây bệnh nhân dùng thuốc huyết áp không đều, vẫn uống rượu, hút thuốc nhiều. Bệnh nhân này nếu vẫn tiếp tục không tuân thủ điều trị theo hướng dẫn của thầy thuốc thì có nguy cơ gì?:",
+    "options": {
+      "A": "Viêm cơ tim",
+      "B": "Hẹp hở van tim",
+      "C": "Nhồi máu cơ tim",
+      "D": "Giãn động mạch vành"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 347,
+    "question": "Bệnh nhân nam 66 tuổi, có tiền sử tiểu đường 10 năm, bị đau vùng ngực trái đã nửa ngày, hiện tại đau tăng hơn, đau lan lên vai và cánh tay trái, mạch 120 lần/phút, huyết áp 90/60 mHg, người vã mồ hôi. Theo em, bệnh nhân này nhiều khả năng bị tiểu đường kèm theo bệnh nào sau đây? :",
+    "options": {
+      "A": "Tăng huyết áp",
+      "B": "Cơn đau thắt ngực",
+      "C": "Nhồi máu cơ tim",
+      "D": "Nhiễm trùng hệ tim mạch"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 348,
+    "question": "Bệnh nhân nam 58 tuổi, bị hen phế quản đã nhiều năm, hút thuốc lá nhiều năm. Gần đây bệnh nhân có biểu hiện hay ho và khạc đờm nhày màu trắng vào buổi sáng, khó thở. Hiện tại bệnh nhân vẫn hút thuốc nhiều. Theo em, nhiều khả năng bệnh nhân này đã có biểu hiện của bệnh gì? :",
+    "options": {
+      "A": "Lao phổi",
+      "B": "Viêm phế quản",
+      "C": "Bệnh phổi tắc nghẽn mạn tính",
+      "D": "Cơn hen phế quản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 349,
+    "question": "Bệnh nhân nam 18 tuổi, đang học lớp 12, gần đây thấy hay bị đau bụng âm ỉ vùng trên rốn, cảm giác nóng rát, nhất là lúc đói, không nôn, không sốt, đi ngoài bình thường. Bệnh nhân hay phải thức khuya để học bài, ngủ ít. Theo em, bệnh nhân này nhiều khả năng bị bệnh gì?:",
+    "options": {
+      "A": "Viêm loét dạ dày-tá tràng",
+      "B": "Viêm gan",
+      "C": "Sỏi mật",
+      "D": "Xuất huyết tiêu hoá"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 350,
+    "question": "Bệnh nhân nữ 17 tuổi, đang học lớp 11, gần đây thấy hay bị đau bụng âm ỉ vùng trên rốn, cảm giác nóng rát. Bệnh nhân ăn kém, ngủ ít, hay phải thức khuya để học bài. Đợt này bệnh nhân đang chuẩn bị thi học kỳ nên chưa thể bố trí để đi khám được. Theo em, trước mắt nếu chưa đi viện để khám được thì bệnh nhân này nên làm gì?:",
+    "options": {
+      "A": "Sinh hoạt điều độ, ăn đồ mềm, hạn chế chua cay",
+      "B": "Ăn thức ăn mềm, tránh gắng sức",
+      "C": "Tránh thức khuya, ngủ đúng giờ",
+      "D": "Nên đi khám ngay"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 351,
+    "question": "Bệnh nhân nam có tiền sử loét dạ dày tá tràng, đợt này bị đau bụng vùng thượng vị 1 tuần nay, hôm nay thấy nôn ra máu và đi ngoài phân có màu đen, người thấy choáng váng, hoa mắt chóng mặt, da xanh tái. Theo em, bệnh nhân này nhiều khả năng có biến chứng gì?:",
+    "options": {
+      "A": "Chảy máu tiêu hoá.",
+      "B": "Thủng ổ loét.",
+      "C": "Ung thư hóa ổ loét.",
+      "D": "Hẹp môn vị."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 352,
+    "question": "Bệnh nhân nam 55 tuổi, có tiền sử điều trị loét dạ dày tá tràng, đột ngột đau bụng dữ dội vùng thượng vị, khám thấy bụng cứng như gỗ. Theo em, bệnh nhân này nhiều khả năng có biến chứng gì?:",
+    "options": {
+      "A": "Chảy máu ổ loét.",
+      "B": "Thủng ổ loét.",
+      "C": "Ung thư hóa ổ loét.",
+      "D": "Hẹp môn vị."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 353,
+    "question": "Bệnh nhân nam có tiền sử loét dạ dày tá tràng, đợt này bị nôn nhiều, nôn ra thức ăn của ngày hôm trước, người gầy sút. Theo em, bệnh nhân này nhiều khả năng đã có biến chứng gì?:",
+    "options": {
+      "A": "Chảy máu ổ loét.",
+      "B": "Thủng ổ loét.",
+      "C": "Ung thư ổ loét.",
+      "D": "Hẹp môn vị."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 354,
+    "question": "Bệnh nhân nam có tiền sử loét dạ dày tá tràng, đợt này bị đau nhiều vùng thượng vị, người gầy sút. Theo em, xét nghiệm quan trọng nhất nên làm cho bệnh nhân này là gì?:",
+    "options": {
+      "A": "Chụp X quang tim phổi",
+      "B": "Siêu âm ổ bụng",
+      "C": "Chụp X quang dạ dày",
+      "D": "Nội soi dạ dày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 355,
+    "question": "Bệnh nhân nam 57 tuổi, đã nghiện rượu nhiều năm. Gần đây bệnh nhân mặc quần thấy chật, bụng to dần, phù 2 chân, không nôn, đại tiểu tiện bình thường. Theo em, biểu hiện này của bệnh nhân là triệu chứng gì?:",
+    "options": {
+      "A": "Cổ trướng",
+      "B": "Tuần hoàn bàng hệ",
+      "C": "Xuất huyết tiêu hoá",
+      "D": "Thiếu máu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 356,
+    "question": "Bệnh nhân nam 63 tuổi, có tiền sử nghiện rượu nhiều năm, được chẩn đoán xơ gan đã 8 năm, nhiều lần điều trị xơ gan tại bệnh viện. Hôm nay bệnh nhân bị nôn ra máu, đi ngoài phân màu đen, hoa mắt chóng mặt, da xanh. Theo em, bệnh nhân này nhiều khả năng bị biến chứng gì?:",
+    "options": {
+      "A": "Xuất huyết tiêu hóa",
+      "B": "Hôn mê gan",
+      "C": "Nhiễm khuẩn",
+      "D": "Suy kiệt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 357,
+    "question": "Bệnh nhân nữ 59 tuổi, được chẩn đoán xơ gan đã 7 năm. Đợt này bệnh nhân đang điều trị xơ gan tại bệnh viện. Hôm nay người nhà bệnh nhân thấy bệnh nhân nói nhảm, thay đổi tính tình, lú lẫn. Theo em, bệnh nhân này nhiều khả năng đã có bi biến chứng gì?:",
+    "options": {
+      "A": "Xuất huyết tiêu hóa",
+      "B": "Hôn mê gan",
+      "C": "Nhiễm khuẩn",
+      "D": "Ung thư hoá"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 358,
+    "question": "Bệnh nhân thấy đau nhiều vùng hạ sườn phải, vào viện được bác sĩ khám thấy gan to, siêu âm gan có hình ảnh khối u gan. Muốn biết khối u của bệnh nhân này là u lành tính hay u ác tính cần phải làm gì?:",
+    "options": {
+      "A": "Chụp X quang ổ bụng",
+      "B": "Siêu âm ổ bụng",
+      "C": "Xét nghiệm nước tiểu",
+      "D": "Sinh thiết khối u gan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 359,
+    "question": "Bệnh nhân nam 63 tuổi, có tiền sử nghiện rượu nhiều năm, đợt này có biểu hiện vàng da, cổ trướng, phù 2 chân. Theo em, nhiều khả năng bệnh nhân này bị bệnh gì?:",
+    "options": {
+      "A": "Suy thận",
+      "B": "Suy tim",
+      "C": "Xơ gan",
+      "D": "Đái tháo đường"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 360,
+    "question": "Bệnh nhân nam 56 tuổi, phát hiện nhiễm viêm gan vi rút B 5 năm trước, đợt này có biểu hiện vàng da, cổ trướng, nội soi thực quản có giãn tĩnh mạch thực quản. Theo em, nhiều khả năng bệnh nhân này bị bệnh gì?:",
+    "options": {
+      "A": "Loét dạ dày tá tràng",
+      "B": "Suy tim",
+      "C": "Viêm thực quản",
+      "D": "Xơ gan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 361,
+    "question": "Bệnh nhân nam 53 tuổi, được chẩn đoán xơ gan, có biểu hiện cổ trướng, vàng da, được nội soi thực quản thấy giãn tĩnh mạch thực quản giãn rất to (giãn độ 3). Bệnh nhân này có nguy cơ gì? :",
+    "options": {
+      "A": "Tuần hoàn bàng hệ",
+      "B": "Viêm thực quản",
+      "C": "Xuất huyết tiêu hoá",
+      "D": "Trào ngược dạ dày – thực quản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 362,
+    "question": "Bệnh nhân nam 24 tuổi, vào phòng khám trong tình trạng tỉnh nhưng mệt, da xanh, niêm mạc nhợt. Bệnh nhân nôn ra máu tươi, mạch nhanh, nhỏ, khó bắt; huyết áp 90/60 mmHg. Theo em, nhiều khả năng bệnh nhân này bị bệnh gì?:",
+    "options": {
+      "A": "Xơ gan",
+      "B": "Xuất huyết tiêu hoá",
+      "C": "Loét dạ dày",
+      "D": "Polip đại tràng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 363,
+    "question": "Bệnh nhân nữ 45 tuổi, vào viện vì nôn ra máu và đi ngoài phân đen, da xanh niêm mạc nhợt, không khó thở. Việc cần làm ngay đối với bệnh nhân này khi vào viện là:",
+    "options": {
+      "A": "Để bệnh nhân nằm đầu thấp, nghiêng 1 bên",
+      "B": "Hỏi kỹ về tiền sử",
+      "C": "Lấy đầy đủ dấu hiệu sinh tồn",
+      "D": "Cho bệnh nhân thở oxy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 364,
+    "question": "Bệnh nhân nữ 45 tuổi, vào viện vì nôn ra máu và đi ngoài phân đen, da xanh niêm mạc nhợt, được chẩn đoán bị xuất huyết tiêu hoá. Chăm sóc phù hợp cho bệnh nhân này là gì?:",
+    "options": {
+      "A": "Cho ăn cơm nát",
+      "B": "Nằm đầu cao",
+      "C": "Cho bệnh nhân thở oxy",
+      "D": "Dặn bệnh nhân nằm yên tại giường"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 365,
+    "question": "Bệnh nhân nam 43 tuổi, khoảng mấy tháng nay thỉnh thoảng thấy đi ngoài có máu đỏ tươi. Bệnh nhân vẫn ăn uống, sinh hoạt bình thường, không đau bụng. Theo em, một trong những bệnh có thể gây ra biểu hiện nói trên của bệnh nhân này là gì?:",
+    "options": {
+      "A": "Trĩ",
+      "B": "Viêm loét dạ dày-tá tràng",
+      "C": "Viêm gan",
+      "D": "Viêm đường mật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 366,
+    "question": "Bệnh nhân nam 43 tuổi, khoảng mấy tháng nay thỉnh thoảng thấy đi ngoài có máu đỏ tươi. Bệnh nhân vẫn ăn uống, sinh hoạt bình thường, không đau bụng. Theo em, một trong những bệnh có thể gây ra biểu hiện nói trên của bệnh nhân này là gì?:",
+    "options": {
+      "A": "Ung thư đại- trực tràng",
+      "B": "Viêm loét dạ dày-tá tràng",
+      "C": "Viêm gan",
+      "D": "Ung thư đường mật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 367,
+    "question": "Bệnh nhân nam 43 tuổi, khoảng mấy tháng nay thỉnh thoảng thấy đi ngoài phân có máu đỏ tươi. Bệnh nhân vẫn ăn uống được, thỉnh thoảng có cảm giác đau bụng nhẹ. Theo em, một trong những bệnh có thể gây ra biểu hiện nói trên của bệnh nhân này là gì?:",
+    "options": {
+      "A": "Viêm loét dạ dày-tá tràng",
+      "B": "Viêm loét đại tràng, trực tràng",
+      "C": "Viêm gan",
+      "D": "Viêm đường mật"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 368,
+    "question": "Bệnh nhân nữ 23 tuổi, khoảng 1 tuần nay bệnh nhân thấy thỉnh thoảng đau bụng, đi ngoài phân có máu lẫn nhầy. Bệnh nhân vẫn ăn uống bình thường. Theo em, một trong những bệnh có thể gây ra biểu hiện nói trên của bệnh nhân này là gì?:",
+    "options": {
+      "A": "Ung thư dạ dày",
+      "B": "Xơ gan",
+      "C": "Polip đại tràng",
+      "D": "Viêm đại tràng do lỵ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 369,
+    "question": "Bệnh nhân nam 56 tuổi, gần đây vẫn ăn uống bình thường, không nôn, không đau bụng nhưng thỉnh thoảng thấy đi ngoài phân có máu đỏ tươi. Xét nghiệm cần thiết nhất đối với bệnh nhân này là gì?:",
+    "options": {
+      "A": "Siêu âm ổ bụng",
+      "B": "Chụp X quang dạ dày",
+      "C": "Nội soi dạ dày",
+      "D": "Nội soi đại tràng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 370,
+    "question": "Bệnh nhân nữ 25 tuổi, 2 ngày nay thấy biểu hiện: khi đi tiểu có cảm giác đau buốt, đi tiểu nhiều lần hơn bình thường nhưng mỗi lần đi tiểu được rất ít; không sốt. Theo em, bệnh nhân này có nhiều khả năng bị bệnh gì?:",
+    "options": {
+      "A": "Lao tiết niệu",
+      "B": "Sỏi tiết niệu",
+      "C": "Viêm đường tiết niệu",
+      "D": "Dị dạng bẩm sinh ở niệu quản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 371,
+    "question": "Bệnh nhân nam 45 tuổi, đi tiểu buốt, nước tiểu đục, vào viện khám được làm xét nghiệm và được chẩn đoán viêm đường tiết niệu. Lời khuyên phù hợp cho bệnh nhân này là gì?:",
+    "options": {
+      "A": "Dùng thêm lợi tiểu đông y như: râu ngô, bông mã đề",
+      "B": "Uống ít nước",
+      "C": "Nên ăn nhạt",
+      "D": "Hạn chế ăn hoa quả có Kali"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 372,
+    "question": "Bệnh nhân nam 67 tuổi, bị tăng huyết áp đã 10 năm, gần đây dùng thuốc hạ huyết áp không đều và ít đi khám định kỳ. Bệnh nhân này có nguy cơ bị biến chứng nào sau đây? :",
+    "options": {
+      "A": "Viêm khớp dạng thấp",
+      "B": "Thấp tim",
+      "C": "Suy thận",
+      "D": "Viêm gan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 373,
+    "question": "Bệnh nhân nam 57 tuổi, bị bệnh gút đã 7 năm, vẫn thường xuyên uống rượu. Bệnh nhân này có nguy cơ bị biến chứng nào sau đây? :",
+    "options": {
+      "A": "Hạ huyết áp",
+      "B": "Thấp khớp cấp",
+      "C": "Basedow",
+      "D": "Suy thận"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 374,
+    "question": "Bệnh nhân nữ 37 tuổi, bị basedow nhưng không tuân thủ điều trị, đợt này có biểu hiện: sốt 40oC, mạch 135 CK/phút, khó thở. Theo em, bệnh nhân này có nhiều khả năng có biến chứng gì?:",
+    "options": {
+      "A": "Suy tim",
+      "B": "Loạn nhịp tim",
+      "C": "Suy thận",
+      "D": "Cơn cường giáp cấp"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 375,
+    "question": "Bệnh nhân nữ 37 tuổi bị basedow nhưng không tuân thủ điều trị, đợt này có biểu hiện khó thở, phù 2 chân. Theo em, có khả năng bệnh nhân này đã có biến chứng gì?:",
+    "options": {
+      "A": "Nhiễm khuẩn phổi",
+      "B": "Cơn cường giáp cấp",
+      "C": "Suy tim",
+      "D": "Lao phổi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 376,
+    "question": "Bệnh nhân nữ 55 tuổi, gần đây có biểu hiện hay khát nước, uống nước nhiều, đi tiểu nhiều, cảm giác mệt mỏi. Theo em, nhiều khả năng bệnh nhân này bị bệnh gì?:",
+    "options": {
+      "A": "Basedow",
+      "B": "Viêm đường tiết niệu",
+      "C": "Đái tháo đường",
+      "D": "Sỏi tiết niệu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 377,
+    "question": "Chị An 28 tuổi, đợt này thấy mệt, có biểu hiện hay bị hoa mắt chóng mặt, da xanh. Chị đến hiệu thuốc hỏi mua thuốc để uống. Là người dược sĩ bán tại quầy thuốc, bạn nên làm gì?:",
+    "options": {
+      "A": "Bán cho chị An thuốc sắt",
+      "B": "Bán cho chị An vitamin C",
+      "C": "Khuyên chị An nên đi bệnh viện để khám",
+      "D": "Bán cho chị An thuốc tẩy giun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 378,
+    "question": "Chị An 28 tuổi, đợt này thấy mệt, ăn uống kém, hay bị hoa mắt chóng mặt, da xanh, không sốt. Theo em, chị An nhiều khả năng bị bệnh gì?:",
+    "options": {
+      "A": "Viêm gan",
+      "B": "Viêm đường tiết niệu",
+      "C": "Thiếu máu",
+      "D": "Loét dạ dày -tá tràng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 379,
+    "question": "Bệnh nhân nữ 56 tuổi bị viêm khớp dạng thấp, sau khi dùng thuốc giảm đau có biểu hiện: đau bụng âm ỉ vùng thượng vị, không nôn, không sốt, đi ngoài bình thường. Bệnh nhân này có nhiều khả năng bị tác dụng không mong muốn nào của thuốc?:",
+    "options": {
+      "A": "Chảy máu tiêu hóa",
+      "B": "Xơ gan",
+      "C": "Viêm loét dạ dày",
+      "D": "Xuất huyết tiêu hóa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 380,
+    "question": "Bệnh nhân nữ 56 tuổi bị viêm khớp dạng thấp, sau khi dùng thuốc giảm đau có biểu hiện: nôn ra máu, đi ngoài phân đen, hoa mắt chóng mặt. Bệnh nhân này có nhiều khả năng bị tác dụng không mong muốn nào của thuốc?:",
+    "options": {
+      "A": "Chảy máu tiêu hóa",
+      "B": "Viêm loét dạ dày, tá tràng",
+      "C": "Viêm gan",
+      "D": "Suy thận"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 381,
+    "question": "Bệnh nhân nữ 63 tuổi bị viêm khớp dạng thấp, được bác sĩ cho dùng thuốc giảm đau. để phát hiện sớm tác dụng phụ của thuốc giảm đau, bệnh nhân cần chú ý theo dõi:",
+    "options": {
+      "A": "Nước tiểu",
+      "B": "Nhịp thở",
+      "C": "Nhiệt độ",
+      "D": "Chất nôn, phân"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 382,
+    "question": "Bệnh nhân nữ 63 tuổi bị viêm khớp dạng thấp, được bác sĩ cho dùng thuốc giảm đau. Khi dùng các thuốc giảm đau này bệnh nhân có biểu hiện nôn ra máu, đi ngoài phân đen. Bệnh nhân này cần làm gì?:",
+    "options": {
+      "A": "Tiếp tục uống thuốc và theo dõi chất nôn, phân",
+      "B": "Ngừng thuốc ngay",
+      "C": "Ngừng thuốc ngay và báo bác sĩ",
+      "D": "Nằm đầu cao, ăn thức ăn mềm, lỏng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 383,
+    "question": "Bệnh nhân nữ 58 tuổi bị viêm khớp dạng thấp đang điều trị bằng thuốc giảm đau. Khi có biểu hiện nào sau đây thì bệnh nhân cần ngừng thuốc ngay và báo cáo thầy thuốc:",
+    "options": {
+      "A": "Đi ngoài phân có màu đen",
+      "B": "Nhức đầu",
+      "C": "Mỏi mắt",
+      "D": "Mệt mỏi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 384,
+    "question": "Bệnh nhân nam 50 tuổi, thường xuyên uống rượu, đêm qua thấy sưng đau nhiều khớp ngón chân cái bên phải, đi lại khó khăn. Theo em nhiều khả năng bệnh nhân bị bệnh gì?:",
+    "options": {
+      "A": "Viêm khớp dạng thấp",
+      "B": "Thấp khớp cấp",
+      "C": "Gút",
+      "D": "Thoái hoá khớp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 385,
+    "question": "Bệnh nhân nam 50 tuổi, đã được chẩn đoán bị bệnh gút 7 năm nay đã điều trị gút nhiều lần tại bệnh viện, hiện tại vẫn thường xuyên uống rượu. Bệnh nhân này có nguy cơ bị biến chứng gì?:",
+    "options": {
+      "A": "Viêm khớp dạng thấp",
+      "B": "Thận đa nang",
+      "C": "Suy thận",
+      "D": "Thấp tim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 386,
+    "question": "Viêm âm đạo do nấm men Candida Albical là:",
+    "options": {
+      "A": "Nhiễm khuẩn nội sinh",
+      "B": "Nhiễm khuẩn ngoại sinh",
+      "C": "Nhiễm khuẩn y sinh",
+      "D": "Bệnh tự miễn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 387,
+    "question": "Viêm âm đạo do tạp khuẩn (Gardnerella vaginalis; Cầu khuẩn gram dương…)",
+    "options": {
+      "A": "Nhiễm khuẩn nội sinh",
+      "B": "Nhiễm khuẩn ngoại sinh",
+      "C": "Nhiễm khuẩn y sinh",
+      "D": "Bệnh tự miễn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 388,
+    "question": "Viêm tiết niệu sinh dục do Neisseria gonorrhoeae (lậu cầu)",
+    "options": {
+      "A": "Nhiễm khuẩn nội sinh",
+      "B": "Nhiễm khuẩn ngoại sinh",
+      "C": "Nhiễm khuẩn y sinh",
+      "D": "Bệnh tự miễn"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 389,
+    "question": "Hậu quả của nhiễm khuẩn sinh sản",
+    "options": {
+      "A": "U xơ tử cung",
+      "B": "U nang buồng trứng",
+      "C": "Lạc nội mạc tử cung",
+      "D": "Vô sinh do viêm tắc vòi trứng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 390,
+    "question": "Hậu quả của nhiễm khuẩn sinh sản",
+    "options": {
+      "A": "U xơ tử cung",
+      "B": "U nang buồng trứng",
+      "C": "Lạc nội mạc tử cung",
+      "D": "Chửa ngoài tử cung"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 391,
+    "question": "Nguyên nhân của trên 70% của ung thư cổ tử cung là:",
+    "options": {
+      "A": "Treponema pallidum (Giang mai)",
+      "B": "Neisseria gonorrhoeae (lậu cầu)",
+      "C": "Human Papillomavirus (HPV)",
+      "D": "Herpes sinh dục"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "question": "Loét sinh dục do:",
+    "options": {
+      "A": "Lậu cầu, giang mai, HPV",
+      "B": "Giang mai, Herpes sinh dục, Hạ cam",
+      "C": "Lậu cầu, Nấm men, Vi khuẩn kị khí",
+      "D": "Giang mai, vi khuẩn kị khí, HPV"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 393,
+    "question": "Đặc điểm khí hư sinh lý:",
+    "options": {
+      "A": "Màu trắng sữa, hôi, số lượng nhiều",
+      "B": "Trong suốt, không hôi, không ngứa",
+      "C": "Khí hư đặc, vón cục như bã đậu, ngứa",
+      "D": "Như mủ vàng xanh, số lượng nhiều"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 394,
+    "question": "Khí hư sinh lý có thể ra nhiều vào thời điểm:",
+    "options": {
+      "A": "Giữa chu kỳ kinh hoặc trước kinh nguyệt",
+      "B": "Thời kỳ an toàn sau sạch kinh",
+      "C": "Khi uống thuốc tránh thai",
+      "D": "Mãn kinh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 395,
+    "question": "Nguyên nhân dịch tiết âm đạo nhiều không phải do nhiễm khuẩn:",
+    "options": {
+      "A": "Dùng thuốc tiêm tránh thai",
+      "B": "Sử dụng thuốc uống tránh thai",
+      "C": "Đặt dụng cụ tử cung",
+      "D": "Mãn kinh"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 396,
+    "question": "Nguyên nhân gây dịch tiết âm đạo bệnh lý là viêm âm đạo CTC do:",
+    "options": {
+      "A": "Giang mai, lậu, HPV",
+      "B": "Tạp khuẩn, HPV, Herpes",
+      "C": "Nấm men, lậu, Trichomonas",
+      "D": "Chlamydia, Hạ cam, giang mai"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 397,
+    "question": "Xét nghiệm chẩn đoán nguyên nhân gây dịch tiết âm đạo là:",
+    "options": {
+      "A": "Phương pháp PCR",
+      "B": "Nhuộm gram soi dịch âm đạo, CTC",
+      "C": "Xét nghiệm miễn dịch tìm kháng thể",
+      "D": "Xét nghiệm miễn dịch tìm kháng nguyên"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 398,
+    "question": "Nguyên nhân gây bệnh sùi mào gà sinh dục là:",
+    "options": {
+      "A": "HPV tup 6,11",
+      "B": "HPV tup 16,18",
+      "C": "HPV tup 57, 58",
+      "D": "HPV tup 50, 51"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 399,
+    "question": "Nguyên nhân biến đổi tế bào cổ tử cung (72% của ung thư CTC) là:",
+    "options": {
+      "A": "HPV tup 6,11",
+      "B": "HPV tup 16,18",
+      "C": "HPV tup 57, 58",
+      "D": "HPV tup 50, 51"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 400,
+    "question": "Đặc điểm khí hư ở người bệnh viêm tiết niệu sinh dục do lậu:",
+    "options": {
+      "A": "Loãng",
+      "B": "Có nhiều bọt",
+      "C": "Đặc xanh như mủ",
+      "D": "Như bã đậu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 401,
+    "question": "Đặc điểm khí hư ở người bệnh viêm âm đạo do nấm:",
+    "options": {
+      "A": "Loãng",
+      "B": "Có nhiều bọt",
+      "C": "Đặc xanh như mủ",
+      "D": "Như bã đậu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 402,
+    "question": "Đặc điểm khí hư của người viêm âm đạo do trùng roi:",
+    "options": {
+      "A": "Đặc, trắng đục",
+      "B": "Loãng bọt",
+      "C": "Đặc xanh như mủ",
+      "D": "Như bã đậu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 403,
+    "question": "Đặc điểm khí hư ở người bệnh viêm âm đạo do nấm:",
+    "options": {
+      "A": "Mùi hôi",
+      "B": "Kèm theo ngứa",
+      "C": "Mùi tanh cá",
+      "D": "Mùi thối như nước cống"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 404,
+    "question": "Các bệnh nào lây truyền qua đường tình dục:",
+    "options": {
+      "A": "Viêm gan siêu vi B, viêm gan A, Giang mai, Lậu",
+      "B": "Viêm âm đạo do nấm Candida, Giang mai, Lậu,",
+      "C": "Viêm gan C, Herpes Simplex, HPV",
+      "D": "Giang mai, Lậu, HIV, Viêm gan siêu vi B"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 405,
+    "question": "Phụ nữ có nguy cơ cao mắc bệnh lây truyền qua đường tình dục, cần làm gì",
+    "options": {
+      "A": "Vệ sinh sinh dục trước và sau giao hợp",
+      "B": "Sử dụng bao cao su khi giao hợp",
+      "C": "Sử dụng thuốc diệt tinh trùng",
+      "D": "Khám phụ khoa định kỳ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 406,
+    "question": "Bệnh có khí hư lỏng, nhiều bọt, màu vàng xanh, mùi hôi:",
+    "options": {
+      "A": "Viêm âm đạo do vi khuẩn kỵ khí.",
+      "B": "Viêm âm đạo vi khuẩn do lậu.",
+      "C": "Viêm âm đạo do trùng roi.",
+      "D": "Viêm âm đạo do Clamydia Trachomatis."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 407,
+    "question": "Thời gian mang thai trung bình của người là:",
+    "options": {
+      "A": "Từ 36 đến hết 39 tuần",
+      "B": "Từ 37 đến hết 40 tuần",
+      "C": "Từ 38 đến hết 41 tuần",
+      "D": "Từ 39 đến hết 42 tuần"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 408,
+    "question": "Mốc thời gian bắt đầu tính tuổi thai là:",
+    "options": {
+      "A": "Ngày giao hợp có thụ thai",
+      "B": "Ngày phóng noãn",
+      "C": "Ngày đầu của kỳ kinh cuối cùng",
+      "D": "Ngày kết thúc của kỳ kinh cuối cùng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 409,
+    "question": "Dấu hiệu cơ năng để chẩn đoán thai nghén trong 3 tháng đầu của thai kỳ là",
+    "options": {
+      "A": "Thai máy, thai đạp",
+      "B": "Tắt kinh, nghén",
+      "C": "Tử cung to lên rõ ràng",
+      "D": "Cổ tử cung có màu tím"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 410,
+    "question": "Dấu hiệu có giá trị nhất trong chẩn đoán thai sớm (3 tháng đầu):",
+    "options": {
+      "A": "Chậm kinh",
+      "B": "Nghén",
+      "C": "β HCg > 5mμol/ml",
+      "D": "Siêu âm tử cung phần phụ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 411,
+    "question": "Khuyến cáo bổ sung Fe và acid Folic cho phụ nữ mang thai:",
+    "options": {
+      "A": "Từ khi phát hiện mang thai đến khi sinh đẻ",
+      "B": "Từ 3 tháng giữa thai kỳ đến sau sinh 1 tháng",
+      "C": "Từ khi phát hiện mang thai đến sau sinh 1 tháng",
+      "D": "Uống 3 tháng cuối thai kỳ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "question": "Khuyến cáo bổ sung Canxi cho phụ nữ mang thai:",
+    "options": {
+      "A": "500 mg / ngày",
+      "B": "600 mg/ ngày",
+      "C": "800 mg/ ngày",
+      "D": "1000 mg/ ngày"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 413,
+    "question": "Tiêm phòng vacxin chống uốn ván cho phụ nữ mang thai lần 1:",
+    "options": {
+      "A": "Tiêm 2 mũi cách nhau 1 tháng, mũi sau trước ngày dự sinh 1 tháng",
+      "B": "Tiêm 2 mũi cách nhau tối thiểu 1 tháng, mũi sau trước ngày dự sinh 1 tháng",
+      "C": "Tiêm 2 mũi cách nhau tối đa 1 tháng, mũi sau trước ngày dự sinh 1 tháng",
+      "D": "Tiêm 2 mũi, mũi 1 phải tiêm sớm từ 3 tháng đầu thời kỳ thai nghén"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 414,
+    "question": "Dọa sảy thai là dấu hiệu báo trước của:",
+    "options": {
+      "A": "Sảy thai",
+      "B": "Đẻ non",
+      "C": "Đẻ thường",
+      "D": "Rau bong"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 415,
+    "question": "Bệnh lý gây chảy máu 3 tháng đầu thai kỳ",
+    "options": {
+      "A": "Sẩy thai, chửa trứng, thai ngoài tử cung",
+      "B": "Sẩy thai, vỡ tử cung, rau tiền đạo",
+      "C": "Chửa trứng, rau bong non, nhiễm độc thai nghén",
+      "D": "Thai ngoài tử cung, thai chết lưu, nhau bong non"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 416,
+    "question": "Bệnh lý gây chảy máu 3 tháng cuối của thai kỳ",
+    "options": {
+      "A": "Sảy thai",
+      "B": "Rau bong non",
+      "C": "Chửa ngoài tử cung",
+      "D": "Thai chết lưu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 417,
+    "question": "Dấu hiệu có thai sớm:",
+    "options": {
+      "A": "Bụng to dần lên",
+      "B": "Thay đổi khẩu vị",
+      "C": "Chậm kinh, thử Quisk dương tính",
+      "D": "Chậm kinh, nôn khan."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 418,
+    "question": "Chửa ngoài tử cung là trường hợp thai không làm tổ trong buồng tử cung. 90% trường hợp chửa ngoài tử cung là trứng làm tổ ở:",
+    "options": {
+      "A": "Ống cổ tử cung",
+      "B": "Buồng trứng",
+      "C": "Vòi tử cung (vòi trứng)",
+      "D": "Ổ bụng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 419,
+    "question": "Sảy thai là trường hợp thai bị tống ra khỏi buống tử cung trước khi thai có thể sống được. Theo chuẩn quốc gia 2016, tuổi sảy thai quy định là:",
+    "options": {
+      "A": "Dưới 28 tuần",
+      "B": "Dưới 26 tuần",
+      "C": "Dưới 24 tuần",
+      "D": "Dưới 22 tuần"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 420,
+    "question": "Theo chuẩn quốc gia năm 2016, đẻ non là tình trạng đẻ thai:",
+    "options": {
+      "A": "Dưới 22 tuần",
+      "B": "22-37 tuần",
+      "C": "38- hết 41 tuần",
+      "D": "Từ 42 tuần trở lên"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 421,
+    "question": "Theo chuẩn quốc gia năm 2016, đẻ đủ tháng là tình trạng đẻ thai:",
+    "options": {
+      "A": "Dưới 22 tuần",
+      "B": "22-37 tuần",
+      "C": "38- hết 41 tuần",
+      "D": "Từ 42 tuần trở lên"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 422,
+    "question": "Điền vào chỗ trống: ”Thai chết lưu là thai chết và lưu lại trong buồng tử cung trên ...... ngày”",
+    "options": {
+      "A": "2 ngày",
+      "B": "5 ngày",
+      "C": "7 ngày",
+      "D": "10 ngày"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 423,
+    "question": "Điền vào chỗ trống: ”Rau tiền đạo là rau bám đoạn dưới tử cung lan xuống hoặc che lấp ............”",
+    "options": {
+      "A": "Mặt trước tử cung",
+      "B": "Mặt sau tử cung",
+      "C": "Lỗ trong cổ tử cung",
+      "D": "Đáy tử cung"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 424,
+    "question": "Điền vào chỗ trống đáp án đúng nhất: ”Vỡ tử cung là một tai biến sản khoa rất nguy hiểm dẫn đến ................ nếu không được chẩn đoán và xử trí kịp thời»",
+    "options": {
+      "A": "Mẹ bị mất máu cấp",
+      "B": "Mẹ bị tử vong",
+      "C": "Tử vong mẹ và thai",
+      "D": "Mẹ không giữ được tử cung"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 425,
+    "question": "Điền vào chỗ trống: ”Thai phụ có tiền sử mổ đẻ cũ hoặc tiền sử mổ tử cung cũ có nguy cơ ......... vào tháng cuối của thai kỳ, đặc biệt khi chuyển dạ",
+    "options": {
+      "A": "Đẻ non",
+      "B": "Rau bong non",
+      "C": "Vỡ tử cung",
+      "D": "Rau tiền đạo"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 426,
+    "question": "Tình huống nào dưới đây bệnh nhân có chỉ định mổ cấp cứu không trì hoãn:",
+    "options": {
+      "A": "Chửa ngoài tử cung vỡ",
+      "B": "Viêm phần phụ",
+      "C": "Chửa ngoài tử cung thể chưa vỡ",
+      "D": "Chửa ngoài tử cung thể huyết tụ thành nang"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 427,
+    "question": "Tình huống nào dưới đây bệnh nhân có thể có chỉ định mổ nội soi:",
+    "options": {
+      "A": "Chửa ngoài tử cung vỡ",
+      "B": "Áp xe Dougla",
+      "C": "Chửa ngoài tử cung thể chưa vỡ",
+      "D": "Chửa ngoài tử cung thể huyết tụ thành nang"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 428,
+    "question": "Anh A, sau quan hệ tình dục không an toàn với bạn tình 3 ngày xuất hiện các triệu chứng tiểu buốt, tiểu mủ. Anh A có thể mắc bệnh gì:",
+    "options": {
+      "A": "Viêm niệu đạo do Chlamydia",
+      "B": "Viêm niệu đạo do lậu cầu",
+      "C": "Viêm bao qui đầu, miệng sáo do vi khuẩn",
+      "D": "Việm niệu đạo do Trichomonas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 429,
+    "question": "Mấy tuần gần đây, Chị B thấy xuất hiện xung quanh âm môn nhiều nốt sùi nhỏ, hồng tươi như mồng gà. Chị B có thể mắc bệnh gì:",
+    "options": {
+      "A": "Giang mai",
+      "B": "Hạ cam",
+      "C": "Nhiễm HPV",
+      "D": "Herpes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 430,
+    "question": "Mưa dầm hơn tuần nay làm không khí ẩm thấp, quần áo giặt xong phơi không thể khô làm cho chị A cảm thấy khó chịu và ngứa ngáy vùng âm hộ. Kèm theo chị thấy ra nhiều khí hư vón đặc như bã đậu, quan hệ tình dục đau rát. Chị A có thể bị bệnh gì:",
+    "options": {
+      "A": "Viêm âm hộ, âm đạo do vi khuẩn",
+      "B": "Viêm âm hộ, âm đạo do Chlamydia",
+      "C": "Viêm âm hộ, âm đạo do Trichomonas",
+      "D": "Viêm âm hộ, âm đạo do nấm men"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 431,
+    "question": "Mấy hôm nay chị N ra khí hư rất hôi, không ngứa, quan hệ đau rát. Chị N có thể bị:",
+    "options": {
+      "A": "Viêm âm đạo, CTC do nấm",
+      "B": "Viêm âm đạo, CTC vi khuẩn kị khí",
+      "C": "Viêm âm đạo, CTC lậu cầu",
+      "D": "Viêm âm đạo, CTC Chlamydia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 432,
+    "question": "Mấy ngày nay chị M xuất hiện một đám mụn nước nhỏ ở âm hộ, gần môi lớn bên trái. Các mụn này khi vỡ tạo vết loét nông và chảy nước gây lây lan rộng ra và rất khó chịu. Chị M có thể bị nhiễm bệnh gì:",
+    "options": {
+      "A": "Giang mai",
+      "B": "Hạ cam",
+      "C": "Herpes",
+      "D": "Zona thần kinh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 433,
+    "question": "Chị Hương 28 tuổi, hai con. Chị than phiền ra nhiều khí hư. Chị đặt dụng cụ tử cung đã vài tháng nay. Kinh nguyệt đều, chu kỳ 30 ngày, ra kinh 5-7 ngày, số lượng vừa. Tháng này sạch kinh 1 tuần, ra nhiều khí hư, không hôi, không ngứa. Khám: Âm hộ bình thường; Âm đạo có khí dịch nhày trong; Cổ tử cung lộ tuyến quanh lỗ; Tử cung kích thước bình thường; Hai phần phụ bình thường. Nhuộm soi dịch âm đạo: Trực khuẩn Gram dương: (+), ít tế bào âm đạo. Giải thích lý do tại sao chị Hương ra nhiều dịch tiết âm đạo:",
+    "options": {
+      "A": "Viêm âm đạo;",
+      "B": "Lộ tuyến cổ tử cung;",
+      "C": "Tăng tiết dịch do đặt dụng cụ tử cung;",
+      "D": "Tăng tiết dịch sinh lý;"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 434,
+    "question": "Chị Lan 29 tuổi, than phiền rằng mình rất hay bị viêm âm hộ âm đạo do nấm Candida Albican, nhất là vào mùa ẩm thấp. Chị lo lắng rằng đây có phải bệnh lây truyền tình dục không? Hãy giải thích cho chị Lan về bệnh viêm âm hộ âm đạo do nấm men Candida Albican:",
+    "options": {
+      "A": "Là bệnh lây truyền qua đường tình dục;",
+      "B": "Là bệnh lây truyền qua dụng cụ y tế;",
+      "C": "Là bệnh nội sinh;",
+      "D": "Là bệnh tự miễn;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 435,
+    "question": "Chị Lan 29 tuổi, than phiền rằng mình rất hay bị viêm âm hộ âm đạo do nấm Candida Albican, nhất là vào mùa ẩm thấp. Chị lo lắng không biết giữ vệ sinh như thế nào cho đúng. Trong khi tư vấn, em đã phát hiện ra chị Lan đã chăm sóc bộ phận sinh dục chưa đúng, đó là:",
+    "options": {
+      "A": "Phơi quần áo, đặc biệt quần lót ở chỗ thoáng nắng;",
+      "B": "Tránh mặc quần áo quá chật, bí hơi, ẩm;",
+      "C": "Thường xuyên rửa bộ phận sinh dục bằng cách thụt rửa sâu bên trong;",
+      "D": "Trời nóng ẩm (trời nồm) nên sấy khô quần lót trước khi mặc;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 436,
+    "question": "Chị Mai 32 tuổi, Para 2022, đến khám vì lý do tiểu buốt và ra nhiều khí hư. Chị Mai có quan hệ tình dục gần nhất cách đây 1 tuần với chồng, là lái xe đường dài. Hiện tại, cách đây 1 ngày bệnh nhân xuất hiện đái buốt, đái rắt kèm theo ra rất nhiều khí hư vàng xanh như mủ. Khám: Âm hộ nề đỏ; Âm đạo đỏ, có nhiều khí hư đặc như mủ màu vàng xanh; CTC nề đỏ; Tử cung kích thước bình thường; Hai phần phụ mềm, ấn không đau. Chị Mai có dấu hiệu của bệnh:",
+    "options": {
+      "A": "Viêm âm hộ âm đạo, viêm tiết niệu do tạp khuẩn;.",
+      "B": "Viêm âm hộ âm đạo, viêm tiết niệu do nấm men Candida Albican;",
+      "C": "Viêm âm hộ âm đạo, viêm tiết niệu trùng roi Trichomonas;",
+      "D": "Viêm âm hộ âm đạo, viêm tiết niệu do Lậu cầu;"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 437,
+    "question": "Chị Mai 32 tuổi, Para 2022, đến khám vì lý do tiểu buốt và ra nhiều khí hư. Chị Mai có quan hệ tình dục gần nhất cách đây 1 tuần với chồng, là lái xe đường dài. Hiện tại, cách đây 1 ngày bệnh nhân xuất hiện đái buốt, đái rắt kèm theo ra rất nhiều khí hư vàng xanh như mủ. Khám: Âm hộ nề đỏ; Âm đạo đỏ, có nhiều khí hư đặc như mủ màu vàng xanh; cổ tử cung nề đỏ; Tử cung kích thước bình thường; Hai phần phụ mềm, ấn không đau. Sơ bộ chẩn đoạn là viêm tiết niệu sinh dục. Làm thế nào để xác định nguyên nhân gây bệnh cho chị Mai:",
+    "options": {
+      "A": "Cấy máu tìm vi khuẩn;",
+      "B": "Lấy máu làm phản ứng miễn dịch;",
+      "C": "Lấy máu làm xét nghiệm huyết học xem giá trị bạch cầu có tăng không.",
+      "D": "Nhuộm soi Gram dịch âm đạo hoặc niệu đạo;"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 438,
+    "question": "Chị Mai 32 tuổi, Para 2022, đến khám vì lý do tiểu buốt và ra nhiều khí hư. Chị Mai có quan hệ tình dục gần nhất cách đây 1 tuần với chồng, là lái xe đường dài. Hiện tại, cách đây 1 ngày bệnh nhân xuất hiện đái buốt, đái rắt kèm theo ra rất nhiều khí hư vàng xanh như mủ. Khám: Âm hộ nề đỏ; Âm đạo đỏ, có nhiều khí hư đặc như mủ màu vàng xanh; cổ tử cung nề đỏ; Tử cung kích thước bình thường; Hai phần phụ mềm, ấn không đau. Chẩn đoán: Viêm tiết niệu sinh dục do lậu cầu. Sau khi hướng dẫn sử dụng thuốc ngoại trú. Em hãy tư vấn biện pháp phòng bệnh cho chị Mai:",
+    "options": {
+      "A": "Hướng dẫn vệ sinh giao hợp đúng cách;",
+      "B": "Hướng dẫn an toàn tình dục cho chị Mai;",
+      "C": "Tư vấn an toàn tình dục cho cả hai vợ chồng;",
+      "D": "Kiêng quan hệ vợ chồng trong thời gian điều trị;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 439,
+    "question": "Chị Mai 32 tuổi, Para 2022, đến khám vì lý do tiểu buốt và ra nhiều khí hư. Sau khi khá, xét nghiệm chị được chẩn đoán: Viêm tiết niệu sinh dục do lậu cầu. Chị được kê đơn: 1. Ceftriaxon 1g x Một ống tiêm tĩnh mạch chậm một liều duy nhất. 2. Doxycycline 100mg x 14 viên. Ngày uống hai viên (sáng: 1 viên; chiều 1 viên) 3. Mictasol Blue x 20 viên. Ngày uống 4 viên ( sáng 2 viên; chiều 2 viên) Em hãy giải thích tác dụng của thuốc Ceftriaxon trong đơn:",
+    "options": {
+      "A": "Là kháng sinh nhóm Cephalosphorine thế hệ 3 tác dụng diệt Chlamydia",
+      "B": "Tác dụng hỗ trợ điều trị Lậu, sát khuẩn đường niệu;",
+      "C": "Tác dụng hỗ trợ điều trị Lậu, diệt tạp khuẩn;",
+      "D": "Là kháng sinh nhóm Cephalosphorine thế hệ 3 tác dụng điều trị chính lên lậu cầu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 440,
+    "question": "Chị Mai 32 tuổi, Para 2022, đến khám vì lý do tiểu buốt và ra nhiều khí hư. Sau khi khá, xét nghiệm chị được chẩn đoán: Viêm tiết niệu sinh dục do lậu cầu. Chị được kê đơn: 1. Ceftriaxon 1g x Một ống tiêm tĩnh mạch chậm một liều duy nhất. 2. Doxycycline 100mg x 14 viên. Ngày uống hai viên (sáng: 1 viên; chiều 1 viên) 3. Mictasol Blue x 20 viên. Ngày uống 4 viên ( sáng 2 viên; chiều 2 viên) Em hãy giải thích tác dụng của Doxycycline trong đơn:",
+    "options": {
+      "A": "Tác dụng hỗ trợ điều trị Lậu, sát khuẩn đường niệu;",
+      "B": "Tác dụng hỗ trợ điều trị Lậu, diệt tạp khuẩn;",
+      "C": "Kìm khuẩn Chlamydia (Một loại vi sinh vật hay nhiễm cùng lậu cầu);",
+      "D": "Kìm vi khuẩn Neisseria gonorrhoeae (Lầu cầu);"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 441,
+    "question": "Chị Mai thấy có dấu hiệu buồn nôn, khó chịu. Chị đã mua que thử thai về thử thấy có 2 vạch màu đỏ. Em hãy lựa chọn cho chị Mai ngày nào để có thể dự kiến được ngày sinh cho chị",
+    "options": {
+      "A": "2/3/2020: bắt đầu thấy kinh.",
+      "B": "5/3/2020: sạch kinh.",
+      "C": "20/3/2020: ra 1-2 giọt máu âm đạo",
+      "D": "2/4/2020: Không thấy ra kinh."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 442,
+    "question": "Chị Mai có ngày đầu của kỳ kinh cuối cùng là 25/03/2019, em hãy dự kiến ngày sinh cho chị Mai",
+    "options": {
+      "A": "02/11/2019.",
+      "B": "02/12/2019.",
+      "C": "02/01/2020.",
+      "D": "02/02/2020."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 443,
+    "question": "Chị Mai có ngày đầu của kỳ kinh cuối cùng là 14/1/2019 đến 15/4/2019 đi khám thai, lúc khám tuổi của thai nhi là",
+    "options": {
+      "A": "11 tuần.",
+      "B": "12 tuần.",
+      "C": "13 tuần.",
+      "D": "14 tuần."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 444,
+    "question": "Chị Mai 28 tuổi. Tháng trước chị bắt đầu ra kinh ngày 1/7/2022. Hôm nay là ngày 8/8/2022 chị vẫn chưa thấy ra kinh. Chị có thử Quisk test (+), siêu âm tử cung phần phụ không thấy túi thai trong buồng tử cung. Theo em khả năng nào ít xảy ra nhất đối với chị Mai:",
+    "options": {
+      "A": "Không có thai",
+      "B": "Thai nhỏ chưa quan sát được bằng siêu âm",
+      "C": "Thai ngoài tử cung",
+      "D": "Thai ngừng phát triển"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "question": "Chị H, 30 tuổi, có thai 8 tháng. Gần tuần nay chị đau mỏi vùng thắt lưng. Chị đã đi khám thai tại bệnh viện, bác sĩ khuyên chị về nhà luyện tập nhẹ nhàng, nhưng chị vẫn không đỡ. Em hãy lựa chọn cho chị loại thuốc giảm đau thích hợp:",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Aspirin",
+      "C": "Isobrufen",
+      "D": "Codein"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 446,
+    "question": "Chị Hương 28 tuổi, có thai 8 tuần. Gần đây, chị nôn nghén nghiều, làm chị ăn uống kém, mệt mỏi. Chị đã nghe theo lời khuyên của bác sĩ ăn nhiều bữa, tránh ăn quá no, tránh ăn cay nóng, nhưng cải thiện không được nhiều. Em hãy tư vấn biện pháp bổ sung làm cải thiện tình trạng nghén:",
+    "options": {
+      "A": "Giảm khẩu phần ăn",
+      "B": "Uống nước đường",
+      "C": "Uống sữa",
+      "D": "Uống nước trà gừng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 447,
+    "question": "Chị Mai có thai 7 tháng thường xuyên bị ợ nóng, trào ngược dạ dày. Em hãy lựa chọn phương pháp đơn giản và hiệu quả cho chị Mai để giảm triệu chứng khó chụi do trào ngược dạ dày.",
+    "options": {
+      "A": "Dùng thuốc ức chế bơm proton H+",
+      "B": "Thuốc băng niêm mạc dạ dày",
+      "C": "Cho uống dd Bicacbonat",
+      "D": "Cho nhấp nước ấm, tránh nước có gas"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 448,
+    "question": "Chị Vân Anh, 28 tuổi, tiền sử kinh nguyệt đều. Tháng này chậm kinh 10 ngày, đau bung, ra máu âm đạo ít một. HCG (+), Siêu âm: không thấy túi thai trong buồng tử cung. Bệnh nhân đến viện trong tình trạng, đau bụng nhiều vùng hạ vị, mạch nhanh 100lần/ phút; HA 90/50mmHg, trán lấm tấm mồ hôi, chân tay lạnh, niêm mạc nhợt. Khám bụng chướng nhẹ, có phản ứng thành bụng hạ vị. Bệnh nhân có dấu hiệu của bệnh:",
+    "options": {
+      "A": "Viêm ruột thừa",
+      "B": "Viêm phần phụ phải",
+      "C": "Dọa sẩy thai",
+      "D": "Chửa ngoài tử cung"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 449,
+    "question": "Chị Mai 32 tuổi, Para 1011, có thai 8 tuần. Mấy hôm nay chị thấy đau bụng âm ỉ từng cơn vùng bụng dưới, không ra máu âm đạo. Chị đi khám ở phòng khám siêu âm, kết luận thai 7 tuần 3 ngày hiện tại chưa thấy bất thường. Em hãy cho biết tình trạng hiện tại của chị Mai:",
+    "options": {
+      "A": "Thai 8 tuần hiện tại bình thường",
+      "B": "Thai 8 tuần dọa sảy",
+      "C": "Thai 8 tuần đang sảy",
+      "D": "Thai 8 tuần đã sảy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 450,
+    "question": "Chị Mai 32 tuổi, Para 1011, có thai 8 tuần. Mấy hôm nay chị thấy đau bụng âm ỉ từng cơn vùng bụng dưới, không ra máu âm đạo. Chị đi khám và được chẩn đoán là thai 8 tuần dọa sảy. Em hãy lựa phương pháp điều trị, chăm sóc hợp lý cho bệnh nhân Mai:",
+    "options": {
+      "A": "Nghỉ ngơi tuyệt đối trên giường; thuốc giảm co; Chế độ ăn giàu chất dinh dưỡng, tránh táo bón",
+      "B": "Nghỉ ngơi tuyệt đối trên giường; Chế độ ăn giàu chất dinh dưỡng, tránh táo bón; Kiêng quan hệ tình dục.",
+      "C": "Nghỉ ngơi hợp lý; Thuốc giảm co; Chế độ ăn giàu chất dinh dưỡng, tránh táo bón.",
+      "D": "Nghỉ ngơi hợp lý; Chế độ ăn giàu chất dinh dưỡng, tránh táo bón; Xoa bụng dưới để giảm đau."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 451,
+    "question": "Chị Hương 28 tuổi, có thai 7 tuần. Bệnh nhân đau bụng đã hơn 1 tuần, đau âm ỉ, người mệt mỏi. Mấy hôm nay, bệnh nhân thấy ra máu âm đạo, số lượng giống máu kinh ngày thứ 4, màu hồng lẫn máu nâu. Siêu âm: hình ảnh thai 7 tuần, có tụ máu sau màng nuôi kích thước 6x11mm. Em lựa chọn chẩn đoán đúng cho BN Hương:",
+    "options": {
+      "A": "Thai 7 tuần hiện tại bình thường",
+      "B": "Thai 7 tuần dọa sảy",
+      "C": "Thai 7 tuần đang sảy",
+      "D": "Thai 7 tuần đã sảy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 452,
+    "question": "Chị Hương 28 tuổi, Para 1021, có thai 7 tuần. Bệnh nhân đau bụng đã hơn 1 tuần, đau âm ỉ, người mệt mỏi. Mấy hôm nay, bệnh nhân thấy ra máu âm đạo, số lượng giống máu kinh ngày thứ 4, màu hồng lẫn máu nâu. Siêu âm: hình ảnh thai 7 tuần, có tụ máu sau màng nuôi kích thước 6x11mm. Bệnh nhân được khám và chẩn đoán là dọa sảy thai 7 tuần. Em hãy lưu ý bệnh nhân tránh:",
+    "options": {
+      "A": "Nghỉ ngơi, tốt nhất vào viện nằm điều trị.",
+      "B": "Chế độ ăn giầu chất dinh dưỡng, nhiều rau, hoa quả.",
+      "C": "Xoa tay vào bụng để làm giảm cơn co tử cung.",
+      "D": "Kiêng quan hệ tình dục."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 453,
+    "question": "Chị Hương 28 tuổi, Para 1021, có thai 7 tuần. Bệnh nhân đau bụng đã hơn 1 tuần, đau âm ỉ, người mệt mỏi. Mấy hôm nay, bệnh nhân thấy ra máu âm đạo, số lượng giống máu kinh ngày thứ 4, màu hồng lẫn máu nâu. Siêu âm: hình ảnh thai 7 tuần, có tụ máu sau màng nuôi kích thước 6x11mm. Bệnh nhân được khám và chẩn đoán là dọa sảy thai 7 tuần. Nguyên tắc điều trị của BN là:",
+    "options": {
+      "A": "Giảm đau, cầm máu, kháng sinh;",
+      "B": "Giảm đau, cầm máu, giảm co;",
+      "C": "Giảm co, cầm máu, kháng sinh;",
+      "D": "Giảm đau, cầm máu, nội tiết"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 454,
+    "question": "Chị H có thai 35 tuần, tháng trước khám thai định kỳ được biết thai phát triển bình thường. Năm ngày nay không thấy thai đạp và vú tiết sữa non. Tại bệnh viện huyện thai phụ được siêu âm và chẩn đoán xác định thai đã chết. Chị H được chỉ định theo dõi đẻ tự nhiên. Sau 4 tuần chẩn đoán là thai chết trong tử cung, thai phụ vẫn chưa có biểu hiện chuyển dạ đẻ thì nguy cơ nguy hiểm nhất của thai phụ này này là:",
+    "options": {
+      "A": "Nhiễm khuẩn",
+      "B": "Băng huyết",
+      "C": "Rối loạn cơn co tử cung khi chuyển dạ",
+      "D": "Sót rau"
+    },
+    "answer": "C"
+  }
+]

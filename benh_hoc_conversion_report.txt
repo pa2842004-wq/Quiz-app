@@ -1,0 +1,8 @@
+BÁO CÁO CHUYỂN WORD → MARKDOWN - BỆNH HỌC
+======================================================================
+
+Số câu nhận diện được: 454
+Số câu dự kiến: 454
+Số cảnh báo: 0
+
+Không phát hiện cảnh báo về cấu trúc.
