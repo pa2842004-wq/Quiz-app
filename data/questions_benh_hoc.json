@@ -283,7 +283,7 @@
       "C": "Dưới 1,5 tháng tuổi",
       "D": "Trên 2 tháng tuổi"
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 27,
@@ -1416,7 +1416,7 @@
       "C": "Từ 8 yếu tố trở lên",
       "D": "Đủ 11 yếu tố"
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 130,
@@ -1713,7 +1713,7 @@
       "C": "Tùy ý thích bệnh nhân",
       "D": "Nằm nghiêng"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 157,
@@ -1933,7 +1933,7 @@
       "C": "Phổi có ran rít",
       "D": "Ho và khạc đờm"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 177,
@@ -2318,7 +2318,7 @@
       "C": "Đau bụng dữ dội như dao đâm vùng thượng vị",
       "D": "Nôn ra máu"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 212,
@@ -2351,7 +2351,7 @@
       "C": "Tâm vị",
       "D": "Tá tràng"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 215,
@@ -2703,7 +2703,7 @@
       "C": "Viêm loét đại tràng, trực tràng",
       "D": "Trĩ"
     },
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 247,
@@ -3000,7 +3000,7 @@
       "C": "Vitamin K",
       "D": "Erythropoietin"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 274,
@@ -3341,7 +3341,7 @@
       "C": "Khớp cổ chân",
       "D": "Khớp bàn ngón chân"
     },
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 305,

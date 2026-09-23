@@ -2,7 +2,7 @@
 
 :root {
   /* Cute Pink Color Palette 🌸 */
-  --bg-color: #fff5f8;
+  --bg-color: #d8c9e8;
   --panel-bg: rgba(255, 255, 255, 0.85);
   --panel-soft: rgba(255, 255, 255, 0.6);
   --ink: #5d2a4a;
@@ -112,51 +112,456 @@ body {
   line-height: 1.6;
 }
 
-/* ── Ambient Background 🌷 ──────────────────────────────────────────────────── */
+/* =========================================================
+   NỀN GALAXY TÍM - HỒNG PASTEL
+   ========================================================= */
+
 .background-shapes {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   z-index: -1;
   overflow: hidden;
-  background: linear-gradient(135deg, #fff5f8 0%, #ffe0ed 60%, #fff0f6 100%);
+
+  background:
+    /* Ánh hồng mềm bên trái */
+    radial-gradient(
+      ellipse 75% 55% at 0% 42%,
+      rgba(245, 190, 222, 0.48) 0%,
+      rgba(226, 179, 219, 0.28) 35%,
+      rgba(190, 157, 207, 0.10) 60%,
+      transparent 78%
+    ),
+
+    /* Ánh hồng tím phía trên */
+    radial-gradient(
+      ellipse 80% 48% at 72% 0%,
+      rgba(235, 193, 225, 0.40) 0%,
+      rgba(205, 169, 216, 0.22) 40%,
+      transparent 75%
+    ),
+
+    /* Dải tinh vân chạy ngang giữa */
+    radial-gradient(
+      ellipse 100% 38% at 50% 48%,
+      rgba(205, 169, 218, 0.32) 0%,
+      rgba(226, 183, 218, 0.20) 38%,
+      rgba(185, 151, 202, 0.12) 60%,
+      transparent 82%
+    ),
+
+    /* Hồng nhẹ phía dưới */
+    radial-gradient(
+      ellipse 80% 48% at 85% 88%,
+      rgba(240, 190, 220, 0.40) 0%,
+      rgba(210, 170, 214, 0.22) 40%,
+      transparent 76%
+    ),
+
+    /* Nền tím chính */
+    linear-gradient(
+      135deg,
+      #c9b8df 0%,
+      #d8c2e2 25%,
+      #e8cde1 50%,
+      #d9c4df 75%,
+      #c2b2d9 100%
+    );
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
+
+
+/* =========================================================
+   NHIỀU SAO GALAXY - KÍCH THƯỚC & ĐỘ SÁNG KHÁC NHAU
+   ========================================================= */
+
+.background-shapes::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+
+  background:
+
+    /* ===== SAO SIÊU NHỎ ===== */
+
+    radial-gradient(circle 0.7px at 3% 7%,
+      rgba(255,255,255,.65) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 8% 19%,
+      rgba(255,235,249,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.6px at 14% 5%,
+      rgba(255,255,255,.8) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 19% 31%,
+      rgba(255,220,244,.5) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.6px at 25% 14%,
+      rgba(255,255,255,.7) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 32% 6%,
+      rgba(255,230,247,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.7px at 37% 26%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.6px at 44% 11%,
+      rgba(255,235,250,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 52% 21%,
+      rgba(255,255,255,.7) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.6px at 59% 5%,
+      rgba(255,225,245,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 66% 17%,
+      rgba(255,255,255,.65) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.7px at 73% 8%,
+      rgba(255,230,248,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.6px at 81% 24%,
+      rgba(255,255,255,.8) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.8px at 88% 12%,
+      rgba(255,225,246,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 0.7px at 96% 28%,
+      rgba(255,255,255,.7) 0 100%, transparent 100%),
+
+
+    /* ===== SAO NHỎ ===== */
+
+    radial-gradient(circle 1.2px at 5% 42%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.4px at 11% 58%,
+      rgba(255,225,246,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.1px at 17% 47%,
+      rgba(255,255,255,.85) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.5px at 23% 67%,
+      rgba(255,230,248,.65) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.2px at 29% 51%,
+      rgba(255,255,255,.7) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.4px at 35% 72%,
+      rgba(255,225,246,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.1px at 41% 43%,
+      rgba(255,255,255,.8) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.5px at 48% 62%,
+      rgba(255,230,248,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.2px at 54% 49%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.4px at 60% 76%,
+      rgba(255,225,246,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.1px at 67% 57%,
+      rgba(255,255,255,.85) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.5px at 74% 71%,
+      rgba(255,230,248,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.2px at 80% 46%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.4px at 87% 64%,
+      rgba(255,225,246,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.1px at 94% 52%,
+      rgba(255,255,255,.8) 0 100%, transparent 100%),
+
+
+    /* ===== SAO VỪA ===== */
+
+    radial-gradient(circle 2px at 9% 78%,
+      rgba(255,255,255,.8) 0 100%, transparent 100%),
+
+    radial-gradient(circle 2.2px at 21% 88%,
+      rgba(255,225,247,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.8px at 33% 83%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 2.3px at 45% 94%,
+      rgba(255,230,248,.55) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.8px at 57% 87%,
+      rgba(255,255,255,.85) 0 100%, transparent 100%),
+
+    radial-gradient(circle 2.2px at 69% 93%,
+      rgba(255,225,246,.6) 0 100%, transparent 100%),
+
+    radial-gradient(circle 1.9px at 78% 84%,
+      rgba(255,255,255,.75) 0 100%, transparent 100%),
+
+    radial-gradient(circle 2.3px at 91% 92%,
+      rgba(255,230,248,.55) 0 100%, transparent 100%),
+
+
+    /* ===== MỘT VÀI SAO LỚN ===== */
+
+    radial-gradient(circle 3px at 13% 36%,
+      rgba(255,255,255,.9) 0 25%,
+      rgba(255,225,247,.45) 45%,
+      transparent 100%),
+
+    radial-gradient(circle 2.8px at 39% 35%,
+      rgba(255,255,255,.85) 0 25%,
+      rgba(255,225,247,.4) 45%,
+      transparent 100%),
+
+    radial-gradient(circle 3.2px at 63% 39%,
+      rgba(255,255,255,.9) 0 22%,
+      rgba(255,225,247,.4) 45%,
+      transparent 100%),
+
+    radial-gradient(circle 2.7px at 84% 31%,
+      rgba(255,255,255,.85) 0 25%,
+      rgba(255,225,247,.4) 48%,
+      transparent 100%),
+
+    radial-gradient(circle 3.4px at 27% 61%,
+      rgba(255,255,255,.8) 0 22%,
+      rgba(255,225,247,.35) 48%,
+      transparent 100%),
+
+    radial-gradient(circle 3px at 72% 65%,
+      rgba(255,255,255,.9) 0 22%,
+      rgba(255,225,247,.4) 48%,
+      transparent 100%);
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+/* =========================================================
+   SAO CHUYỂN ĐỘNG TỪ PHẢI SANG TRÁI
+   ========================================================= */
+
+.background-shapes::after {
+  content: "";
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 200%;
+  height: 100%;
+
+  pointer-events: none;
+
+  background-image:
+
+    /* ===== SAO RẤT NHỎ ===== */
+
+    radial-gradient(
+      circle 0.7px at 4% 12%,
+      rgba(255,255,255,.65) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.9px at 11% 28%,
+      rgba(255,235,250,.75) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.6px at 18% 8%,
+      rgba(255,255,255,.55) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.8px at 26% 36%,
+      rgba(255,225,247,.7) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.7px at 34% 18%,
+      rgba(255,255,255,.8) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.9px at 43% 30%,
+      rgba(255,230,248,.6) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.6px at 52% 10%,
+      rgba(255,255,255,.7) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.8px at 61% 24%,
+      rgba(255,225,247,.65) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.7px at 70% 7%,
+      rgba(255,255,255,.8) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.9px at 79% 32%,
+      rgba(255,230,248,.6) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.7px at 89% 17%,
+      rgba(255,255,255,.7) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 0.8px at 97% 40%,
+      rgba(255,225,247,.65) 0 100%,
+      transparent 100%
+    ),
+
+
+    /* ===== SAO NHỎ ===== */
+
+    radial-gradient(
+      circle 1.4px at 7% 55%,
+      rgba(255,255,255,.75) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.7px at 16% 72%,
+      rgba(255,225,247,.65) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.3px at 25% 61%,
+      rgba(255,255,255,.85) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.8px at 36% 82%,
+      rgba(255,230,248,.6) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.4px at 47% 57%,
+      rgba(255,255,255,.75) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.7px at 58% 76%,
+      rgba(255,225,247,.65) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.3px at 69% 54%,
+      rgba(255,255,255,.8) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.8px at 81% 85%,
+      rgba(255,230,248,.6) 0 100%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 1.4px at 92% 64%,
+      rgba(255,255,255,.8) 0 100%,
+      transparent 100%
+    ),
+
+
+    /* ===== SAO LỚN ===== */
+
+    radial-gradient(
+      circle 3px at 13% 43%,
+      rgba(255,255,255,.95) 0 28%,
+      rgba(255,220,247,.45) 48%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 4px at 31% 67%,
+      rgba(255,255,255,.9) 0 25%,
+      rgba(255,220,247,.4) 48%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 3.2px at 55% 43%,
+      rgba(255,255,255,.95) 0 25%,
+      rgba(255,220,247,.45) 50%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 4.2px at 76% 59%,
+      rgba(255,255,255,.9) 0 23%,
+      rgba(255,220,247,.4) 50%,
+      transparent 100%
+    ),
+
+    radial-gradient(
+      circle 3px at 94% 38%,
+      rgba(255,255,255,.95) 0 25%,
+      rgba(255,220,247,.4) 50%,
+      transparent 100%
+    );
+
+  background-repeat: repeat-x;
+
+  /*
+     Mỗi cụm sao chiếm một nửa chiều rộng.
+     Khi chạy -50%, cụm kế tiếp sẽ nối vào.
+  */
+  background-size: 50% 100%;
+
+  animation: starsMoveRightToLeft 24s linear infinite;
+}
+
+
+/* =========================================================
+   CHUYỂN ĐỘNG SAO: PHẢI → TRÁI
+   ========================================================= */
+
+@keyframes starsMoveRightToLeft {
+
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+
+}s
 
 .shape {
-  position: absolute;
-  filter: blur(80px);
-  opacity: 0.55;
-  border-radius: 50%;
-  animation: float 20s infinite alternate ease-in-out;
-}
-
-.shape-1 {
-  width: 500px;
-  height: 500px;
-  background: rgba(255, 111, 163, .35);
-  top: -100px;
-  left: -100px;
-  animation-delay: 0s;
-}
-
-.shape-2 {
-  width: 600px;
-  height: 600px;
-  background: rgba(158, 216, 198, .35); /* mint */
-  bottom: -200px;
-  right: -100px;
-  animation-delay: -5s;
-}
-
-.shape-3 {
-  width: 400px;
-  height: 400px;
-  background: rgba(200, 168, 233, .32); /* lavender */
-  top: 30%;
-  left: 40%;
-  animation-delay: -10s;
+  display: none;
 }
 
 @keyframes float {
