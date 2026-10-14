@@ -146,15 +146,15 @@ Câu 24. Trẻ từ 2 tháng đến dưới 5 tuổi được phân loại là v
 
 Câu 25. Theo chương trình nhiễm khuẩn hô hấp cấp, trẻ 8 tháng tuổi được phân loại là viêm phổi nặng khi:
 ~ Ho nhiều.
-= Tím tái.
+~ Tím tái.
 ~ Thở nhanh.
-~ Rút lõm lồng ngực.
+= Rút lõm lồng ngực.
 
 Câu 26. Theo chương trình nhiễm khuẩn hô hấp cấp, dấu hiệu rút lõm lồng ngực nặng có giá trị để phân loại bệnh đối với trẻ:
-~ Dưới 2 tháng tuổi
+= Dưới 2 tháng tuổi
 ~ Dưới 1 tháng tuổi
 ~ Dưới 1,5 tháng tuổi
-= Trên 2 tháng tuổi
+~ Trên 2 tháng tuổi
 
 Câu 27. Một trẻ 6 tháng tuổi, cân nặng 6,2 kg có biểu hiện ho, không nôn, không co giật, tần số thở 55 lần/phút, không rút lõm lồng ngực. Theo chương trình nhiễm khuẩn hô hấp cấp, phân loại bệnh cho trẻ là:
 ~ Viêm phổi rất nặng
@@ -289,9 +289,9 @@ Câu 48. Đặc điểm của virus cúm là:
 ~ Lớn và không tính chất thay đổi kháng nguyên qua mỗi vụ dịch
 
 Câu 49. Triệu chứng bệnh cúm thời kỳ toàn phát:
-= Sốt cao, môi khô, lưỡi bẩn
+~ Sốt cao, môi khô, lưỡi bẩn
 ~ Sốt cao, rét run
-~ Sốt cao, đau mình mẩy
+= Sốt cao, đau mình mẩy
 ~ Sốt cao, nhức đầu
 
 Câu 50. Bệnh cúm có thể khỏi sau thời gian là:
@@ -769,10 +769,10 @@ Câu 128. Triệu chứng toàn thân của bệnh luput bản đỏ là:
 = Mệt mỏi, gầy sút
 
 Câu 129. Tiêu chuẩn chẩn đoán bệnh luput ban đỏ theo tiêu chuẩn của Hội Thấp học Mỹ ACR 1982, khi có:
-~ Từ 4 yếu tố trở lên
+= Từ 4 yếu tố trở lên
 ~ Từ 6 yếu tố trở lên
 ~ Từ 8 yếu tố trở lên
-= Đủ 11 yếu tố
+~ Đủ 11 yếu tố
 
 Câu 130. Nhóm thuốc được dùng để điều trị bệnh luput ban đỏ:
 ~ Kháng sinh
@@ -931,9 +931,9 @@ Câu 155. Chế độ ăn uống phù hợp cho người suy tim là:
 ~ Hạn chế ăn hoa quả có kali
 
 Câu 156. Tư thế tốt nhất khi nằm nghỉ đối với bệnh nhân suy tim có khó thở là:
-= Đầu ngửa tối đa
+~  Đầu ngửa tối đa
 ~ Đầu thấp
-~ Tùy ý thích bệnh nhân
+= Tùy ý thích bệnh nhân
 ~ Nằm nghiêng
 
 Câu 157. Chẩn đoán tăng huyết áp (HA) khi:
@@ -1051,10 +1051,10 @@ Câu 175. Điều kiện thuận lợi hay gặp nhất gây viêm phế quản 
 ~ Gắng sức
 
 Câu 176. Triệu chứng lâm sàng điển hình của viêm phế quản cấp là:
-= Sốt cao
+~ Sốt cao
 ~ Đau ngực dữ dội
 ~ Phổi có ran rít
-~ Ho và khạc đờm
+= Ho và khạc đờm
 
 Câu 177. Đặc điểm về tiến triển của bệnh viêm phế quản cấp:
 ~ Sau khi khỏi thường để lại di chứng ở phổi
@@ -1261,9 +1261,9 @@ Câu 210. Biểu hiện của biến chứng chảy máu tiêu hoá ở bệnh n
 ~ Da vàng
 
 Câu 211. Biểu hiện của biến chứng thủng ổ loét ở bệnh nhân loét dạ dày là:
-= Đi ngoài phân màu đen
+~ Đi ngoài phân màu đen
 ~ Hồng cầu giảm
-~ Đau bụng dữ dội như dao đâm vùng thượng vị
+= Đau bụng dữ dội như dao đâm vùng thượng vị
 ~ Nôn ra máu
 
 Câu 212. Biểu hiện của biến chứng hẹp môn vị ở bệnh nhân loét dạ dày:
@@ -1279,8 +1279,8 @@ Câu 213. Bệnh nhân loét dạ dày tá tràng điều quan trọng nhất c�
 = Chất nôn, phân
 
 Câu 214. Vị trí loét dạ dày tá tràng dễ gây ung thư hoá nhất là:
-~ Bờ cong nhỏ
-= Bờ cong lớn
+= Bờ cong nhỏ
+~ Bờ cong lớn
 ~ Tâm vị
 ~ Tá tràng
 
@@ -1471,9 +1471,9 @@ Câu 245. Một trong những nguyên nhân gây xuất huyết tiêu hóa trên
 = Loét dạ dày tá tràng
 
 Câu 246. Một trong những guyên nhân gây xuất huyết tiêu hóa trên:
-~ Tăng áp lực tĩnh mạch cửa
+= Tăng áp lực tĩnh mạch cửa
 ~ Ung thư đại- trực tràng
-= Viêm loét đại tràng, trực tràng
+~ Viêm loét đại tràng, trực tràng
 ~ Trĩ
 
 Câu 247. Một trong những guyên nhân gây xuất huyết tiêu hóa dưới:
@@ -1634,9 +1634,9 @@ Câu 272. Chế độ ăn uống đúng của bệnh nhân suy thận mạn:
 
 Câu 273. Loại thuốc để điều trị thiếu máu cho bệnh nhân suy thận mạn:
 ~ Vitamin C
-= Vitamin B12
+~ Vitamin B12
 ~ Vitamin K
-~ Erythropoietin
+= Erythropoietin
 
 Câu 274. Yếu tố thuận lợi của bệnh Basedow:
 = Stress
@@ -1821,8 +1821,8 @@ Câu 303. Hoàn cảnh xuất hiện cơn gút cấp tính:
 Câu 304. Vị trí đau khớp thường gặp trong cơn gút cấp:
 ~ Khớp vai
 ~ Khớp cổ tay
-= Khớp cổ chân
-~ Khớp bàn ngón chân
+~ Khớp cổ chân
+= Khớp bàn ngón chân
 
 Câu 305. Chế độ ăn uống phù hợp cho bệnh nhân gút:
 ~ Ăn nhạt
@@ -1879,8 +1879,8 @@ Câu 313. Một trẻ 4 tuổi, vào viện khám vì sốt, co giật và ho. N
 ~ Rút lõm lồng ngực.
 
 Câu 314. Một trẻ 15 tháng tuổi, bị tiêu chảy đã 5 ngày, phân không có máu. Khi đưa nước trẻ uống háo hức, nếp véo da mất nhanh. Bạn phân loại cho vấn đề tiêu chảy của trẻ ở mức nào?
-= Không mất nước
-~ Có mất nước
+~ Không mất nước
+= Có mất nước
 ~ Mất nước nặng
 ~ Tiêu chảy kéo dài
 
@@ -1945,8 +1945,8 @@ Câu 324. Một bà mẹ có con 2 tuổi, trẻ có biểu hiện chậm biết
 ~ Chuyển hóa tiền vitamin D và vitamin D dưới da thành canxi
 
 Câu 325. Một người đến quầy thuốc nói rằng 2 ngày nay có biểu hiện sốt 39 độ C, đau nhức người, kèm theo có biểu hiện ho, rát họng. Ngoài ra không có triệu chứng nào khác. Em có thể cho họ dùng thuốc nào dưới đây:
-~ Oresol
-= Kháng sinh
+= Oresol
+~ Kháng sinh
 ~ Dán salonpas
 ~ Truyền dung dịch hoa quả
 
@@ -2036,8 +2036,8 @@ Câu 339. Bệnh nhân nữ 67 tuổi, bị tăng huyết áp đã 10 năm, gầ
 
 Câu 340. Bệnh nhân nữ 68 tuổi, được chẩn đoán suy tim đã 7 năm. Đợt này bệnh nhân thấy khó thở nhiều, bụng chướng to, phù 2 chân. Bệnh nhân vào viện thăm khám và làm các xét nghiệm thấy có dịch ở màng bụng và dịch màng phổi. Bệnh nhân này có triệu chứng của:
 ~ Tuần hoàn bàng hệ
-~ Cổ trướng
-= Tràn dịch đa màng
+= Cổ trướng
+~ Tràn dịch đa màng
 ~ Giãn tĩnh mạch thực quản
 
 Câu 341. Bệnh nhân nữ 68 tuổi, được chẩn đoán suy tim và được đang được dùng thuốc trợ tim Digoxin theo đơn. Mấy ngày nay bệnh nhân có biểu hiện buồn nôn, chán ăn, mạch chỉ khoảng 50- 60 lần/phút. Những biểu hiện của bệnh nhân này nhiều khả năng là do:

@@ -435,7 +435,7 @@ async function handleClick(event) {
     return;
   }
   if (action === "toggle-bookmark") {
-    toggleBookmark(Number(button.dataset.questionId));
+    toggleBookmark(resolveQuestionId(button.dataset.questionId));
     renderQuiz(state.persisted.session);
     return;
   }
@@ -444,7 +444,7 @@ async function handleClick(event) {
   if (!session || session.submitted) return;
 
   if (action === "select-answer") {
-    handleAnswerSelection(session, Number(button.dataset.questionId), button.dataset.choice);
+    handleAnswerSelection(session, resolveQuestionId(button.dataset.questionId), button.dataset.choice);
     return;
   }
   if (action === "go-prev") {
@@ -565,6 +565,13 @@ function handleAnswerSelection(session, questionId, displayChoice) {
     else shakeCard();
   }
   renderQuiz(state.persisted.session);
+}
+
+function resolveQuestionId(datasetId) {
+  if (state.questionsById.has(datasetId)) return datasetId;
+
+  const numericId = Number(datasetId);
+  return state.questionsById.has(numericId) ? numericId : datasetId;
 }
 
 function startRangeSession(

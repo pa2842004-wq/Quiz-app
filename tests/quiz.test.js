@@ -105,6 +105,22 @@ test("selectAnswer records a choice by question id", () => {
   assert.deepEqual(session.answers, {});
 });
 
+test("selectAnswer and scoreSession support string question ids", () => {
+  const stringIdQuestions = [
+    {
+      id: "hd-001",
+      question: "Cau hoi",
+      options: { A: "A1", B: "B1", C: "C1", D: "D1" },
+      answer: "A"
+    }
+  ];
+  const session = createSession(stringIdQuestions);
+  const updated = selectAnswer(session, "hd-001", "A");
+
+  assert.deepEqual(updated.answers, { "hd-001": "A" });
+  assert.equal(scoreSession(updated, stringIdQuestions).correctCount, 1);
+});
+
 test("selectAnswer stores immediate feedback and locks the question after the first choice", () => {
   const session = createSession(questions, {
     immediateFeedback: true

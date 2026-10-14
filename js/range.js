@@ -66,11 +66,19 @@ export function buildRangePresets(maxQuestionId, step = 50) {
   return presets;
 }
 
+
 export function getQuestionIdsForRange(questions, rangeStart, rangeEnd) {
+  const start = Number(rangeStart);
+  const end = Number(rangeEnd);
+
   return questions
-    .filter((question) => question.id >= rangeStart && question.id <= rangeEnd)
+    .filter((question) => {
+      const number = Number(question.source_number ?? question.card_number);
+      return Number.isFinite(number) && number >= start && number <= end;
+    })
     .map((question) => question.id);
 }
+
 
 export function formatRangeLabel(rangeStart, rangeEnd) {
   return `câu ${rangeStart}-${rangeEnd}`;

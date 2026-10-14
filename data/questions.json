@@ -1,3704 +1,3642 @@
 [
   {
-    "question": "Các nguyên tố nhóm IA đều là:",
+    "id": "hd-001",
+    "source_number": 1,
+    "card_number": 1,
+    "question": "Công thức của Halothan là:",
     "options": {
-      "A": "Kim loại kiềm",
-      "B": "Phi kim",
-      "C": "Kiềm thổ",
-      "D": "Khí hiếm"
+      "A": "CHBrCl-CF3",
+      "B": "CH2C1-CF3",
+      "C": "CH2BrCl-CF3",
+      "D": "CHClBr-CF3"
     },
-    "answer": "A",
-    "id": 1
+    "answer": "A"
   },
   {
-    "question": "Kali clorid được sử dụng làm thuốc:",
+    "id": "hd-002",
+    "source_number": 2,
+    "card_number": 2,
+    "question": "176 0 C  là nhiệt độ nóng chảy của dược chất sau:",
     "options": {
-      "A": "Chống loạn thần",
-      "B": "Điều trị giảm kali máu",
-      "C": "Điều trị tăng kali máu",
-      "D": "Giúp cơ thể giải độc kim loại nặng"
+      "A": "Diazepam",
+      "B": "Phenobarbital",
+      "C": "Procain",
+      "D": "Lidocain}"
     },
-    "answer": "B",
-    "id": 2
+    "answer": "B"
   },
   {
-    "question": "Kim loại kiềm có tính khử mạnh nhất trong các kim loại bởi vì:",
+    "id": "hd-003",
+    "source_number": 3,
+    "card_number": 3,
+    "question": "Trị số MCA của thuốc mê càng nhỏ thì:",
     "options": {
-      "A": "Trong 1 chu kỳ, kim loại kiềm có bán kính lớn nhất",
-      "B": "Kim loại kiềm có Z nhỏ nhất so với các nguyên tố trong 1 chu kỳ",
-      "C": "Chỉ cần mất 1 điện tử là kim loại kiềm đạt đến cấu hình của khí trơ",
-      "D": "Kim loại kiềm là kim loại nhẹ nhất"
+      "A": "Thuốc bay hơi càng nhanh",
+      "B": "Hiệu lực thuốc càng thấp",
+      "C": "Hiệu lực thuốc càng cao",
+      "D": "Hiệu lực thuốc không phụ thuộc vào MCA"
     },
-    "answer": "C",
-    "id": 3
+    "answer": "C"
   },
   {
-    "question": "Muốn bảo quản kim loại kiềm, người ta thường ngâm chúng trong:",
+    "id": "hd-004",
+    "source_number": 4,
+    "card_number": 4,
+    "question": "Thuốc gây mê đường hô hấp gồm:",
     "options": {
-      "A": "Nước",
-      "B": "Muối ăn",
-      "C": "Dầu hỏa",
-      "D": "Vaselin"
+      "A": "Các chất lỏng dễ bay hơi và khí hoá lỏng",
+      "B": "Các chất lỏng khó bay hơi và khí hóa lỏng",
+      "C": "Khí hóa lỏng",
+      "D": "Các chất lỏng dễ bay hơi"
     },
-    "answer": "C",
-    "id": 4
+    "answer": "A"
   },
   {
-    "question": "Nhiệt độ nóng chảy của NaOH là:",
+    "id": "hd-005",
+    "source_number": 5,
+    "card_number": 5,
+    "question": "Tác dụng không mong muốn của Halothan:",
     "options": {
-      "A": "210,5 oC",
-      "B": "250,5 oC",
-      "C": "310,5 oC",
-      "D": "315 oC"
+      "A": "Liều cao gây co bàng quang, có thể gây chảy máu",
+      "B": "Liều cao gây giãn đồng tử, có thể gây chảy máu",
+      "C": "Liều cao gây giãn tử cung, có thể gây chảy máu",
+      "D": "Liều cao gây giãn đồng tử"
     },
-    "answer": "C",
-    "id": 5
+    "answer": "C"
   },
   {
-    "question": "Nhiệt độ nóng chảy của KOH là:",
+    "id": "hd-006",
+    "source_number": 6,
+    "card_number": 6,
+    "question": "Thuốc có sản phẩm chuyển hoá không hoạt tính:",
     "options": {
-      "A": "340,5 oC",
-      "B": "350,5 oC",
-      "C": "360,5 oC",
-      "D": "375,5 oC"
+      "A": "Lorazepam, Oxazepam, Triazolam",
+      "B": "Clodiazepoxid, Diazepam, Temazepam",
+      "C": "Triazolam, Clodiazepoxid, Oxazepam",
+      "D": "Diazepam, Temazepam, Oxazepam"
     },
-    "answer": "C",
-    "id": 6
+    "answer": "A"
   },
   {
-    "question": "Những hợp chất nào sau đây của Mg được sử dụng làm thuốc kháng acid trong điều trị viêm loét dạ dày – tá tràng:",
+    "id": "hd-007",
+    "source_number": 7,
+    "card_number": 7,
+    "question": "Lidocain nóng chảy ở khoảng:",
     "options": {
-      "A": "Magie oxit, magie hydroxyd",
-      "B": "Magie sulfat, magie hydroxyd",
-      "C": "Magie hydroxyd,  magie carbonat",
-      "D": "Magie sulfat, magie carbonat"
+      "A": "76 0 C",
+      "B": "96 0 C",
+      "C": "86 0 C",
+      "D": "80 0 C}"
     },
-    "answer": "A",
-    "id": 7
+    "answer": "A"
   },
   {
-    "question": "Kim loại nào sau đây thuộc nhóm IA:",
+    "id": "hd-008",
+    "source_number": 8,
+    "card_number": 8,
+    "question": "Phenobarbital khó tan trong:",
     "options": {
-      "A": "Natri",
-      "B": "Bari",
-      "C": "Sắt",
-      "D": "Đồng"
+      "A": "Dung dịch NaOH",
+      "B": "Nước",
+      "C": "Dung môi hữu cơ",
+      "D": "Ethanol"
     },
-    "answer": "A",
-    "id": 8
+    "answer": "B"
   },
   {
-    "question": "Kim loại nào sau đây thuộc nhóm IIA:",
+    "id": "hd-009",
+    "source_number": 9,
+    "card_number": 9,
+    "question": "Các thuốc gây tê đều có nhóm amin nên :",
     "options": {
-      "A": "Natri",
-      "B": "Bari",
-      "C": "Sắt",
-      "D": "Đồng"
+      "A": "Có tính khử",
+      "B": "Có tính oxy hoá",
+      "C": "Có tính acid",
+      "D": "Có tính base}"
     },
-    "answer": "B",
-    "id": 9
+    "answer": "D"
   },
   {
-    "question": "Một trong  các hợp chất của Kali có vai trò ứng dụng trong ngành dược:",
+    "id": "hd-010",
+    "source_number": 10,
+    "card_number": 10,
+    "question": "Nhiệt độ nóng chảy của Diazepam là:",
     "options": {
-      "A": "Kali clorid",
-      "B": "kali hydroxyd",
-      "C": "Kali phenolat",
-      "D": "Kali sulfat"
+      "A": "131-1350 C",
+      "B": "95 -1350 C",
+      "C": "100-1050 C",
+      "D": "100 -1350 C"
     },
-    "answer": "A",
-    "id": 10
+    "answer": "A"
   },
   {
-    "question": "Nguyên tố kim loại nhóm IIA còn có tên gọi khác là gì:",
+    "id": "hd-011",
+    "source_number": 11,
+    "card_number": 11,
+    "question": "(131 – 1350 C ) là nhiệt độ nóng chảy của dược chất nào :",
     "options": {
-      "A": "kiềm",
-      "B": "kiềm thổ",
-      "C": "halogen",
-      "D": "phóng xạ"
+      "A": "Butobarbital",
+      "B": "Diazepam",
+      "C": "Phenobarbital",
+      "D": "Talbutal"
     },
-    "answer": "B",
-    "id": 11
+    "answer": "B"
   },
   {
-    "question": "Hợp chất nào của Magie được dùng làm thuốc nhuận tràng:",
+    "id": "hd-012",
+    "source_number": 12,
+    "card_number": 12,
+    "question": "Dược chất nào dưới đây là khí hóa lỏng:",
     "options": {
-      "A": "Magie sulfat",
-      "B": "magie hydroxyd",
-      "C": "magie clorid",
-      "D": "magie nitrat"
+      "A": "Ether",
+      "B": "Cloroform",
+      "C": "Isofluran",
+      "D": "Nitrogen monoxid"
     },
-    "answer": "A",
-    "id": 12
+    "answer": "D"
   },
   {
-    "question": "Các nguyên tố nào sau đây thuộc kim loại nhóm VIIIB:",
+    "id": "hd-013",
+    "source_number": 13,
+    "card_number": 13,
+    "question": "Các chất sau có tác dụng gây tê bề mặt, ngoại trừ:",
     "options": {
-      "A": "Natri",
-      "B": "Kali",
-      "C": "bari",
-      "D": "Sắt",
-      "E": "BaCl"
+      "A": "Benzocain",
+      "B": "Dyclonin hydroclorid",
+      "C": "Procain hydroclorid",
+      "D": "Pramonxin"
     },
-    "answer": "D",
-    "id": 13
+    "answer": "C"
   },
   {
-    "question": "Các nguyên tố nào sau đây thuộc kim loại nhóm IIB:",
+    "id": "hd-014",
+    "source_number": 14,
+    "card_number": 14,
+    "question": "Dạng muối mononatri của Phenobarbital được dùng làm:",
     "options": {
-      "A": "Đồng",
-      "B": "Sắt",
-      "C": "Kẽm",
-      "D": "Natri"
+      "A": "Thuốc mê",
+      "B": "Thuốc an thần, gây ngủ",
+      "C": "Thuốc tiền mê",
+      "D": "Pramonxin"
     },
-    "answer": "C",
-    "id": 14
+    "answer": "C"
   },
   {
-    "question": "Sắt thuộc nhóm nào trong bảng hệ thống tuần hoàn hóa học:",
+    "id": "hd-015",
+    "source_number": 15,
+    "card_number": 15,
+    "question": "Các thuốc gẳy mê đường hô hấp là:",
     "options": {
-      "A": "IA",
-      "B": "IIA",
-      "C": "VIII B",
-      "D": "IV B"
+      "A": "Ether, Halothan, Enỉluran, Nitrogen monoxide",
+      "B": "Enfluran, Nitrogen monoxid, Benzocain",
+      "C": "Halothan, Cloprocain, Primacain, Tetracain",
+      "D": "Halothan, Cloprocain"
     },
-    "answer": "C",
-    "id": 15
+    "answer": "A"
   },
   {
-    "question": "Kẽm  thuộc nhóm nào trong bảng hệ thống tuần hoàn hóa học:",
+    "id": "hd-016",
+    "source_number": 16,
+    "card_number": 16,
+    "question": "Định lượng hàm lượng ion Na+ trong Thiopental Natri bằng dung dịch HCL 0.lM, chỉ thị là:",
     "options": {
-      "A": "IA",
-      "B": "IIA",
-      "C": "III B",
-      "D": "II B"
+      "A": "Phenolphtalein",
+      "B": "Đo điện thế",
+      "C": "Quỳ tím",
+      "D": "Đỏ Methyl"
     },
-    "answer": "D",
-    "id": 16
+    "answer": "D"
   },
   {
-    "question": "Phi kim nào sau đây thuộc nhóm halogen:",
+    "id": "hd-017",
+    "source_number": 17,
+    "card_number": 17,
+    "question": "Định tính ion Na+  trong Thiopental Natri bằng đốt trên dây Pt cho ngọn lửa:",
     "options": {
-      "A": "Flo",
-      "B": "Nitơ",
-      "C": "Lưu huỳnh",
-      "D": "Oxy"
+      "A": "Không màu",
+      "B": "Màu xanh tím",
+      "C": "Màu đò",
+      "D": "Màu vàng"
     },
-    "answer": "A",
-    "id": 17
+    "answer": "D"
   },
   {
-    "question": "Ứng dụng của hydro được sử dụng để tổng hợp hợp chất:",
+    "id": "hd-018",
+    "source_number": 18,
+    "card_number": 18,
+    "question": "Định lượng Lidocain bằng dung dịch HClO4 0.1M trong dung môi acid acetickhan, với chỉ thị",
     "options": {
-      "A": "amoniac",
-      "B": "aminoacid",
-      "C": "acid amin",
-      "D": "natri hydroxyd"
+      "A": "Phenolphtalein",
+      "B": "Quỳ tím",
+      "C": "Methyldacam",
+      "D": "Đo điện thế"
     },
-    "answer": "A",
-    "id": 18
+    "answer": "D"
   },
   {
-    "question": "Trong ngành dược, hydro pexoxyd được sử dụng làm thuốc:",
+    "id": "hd-019",
+    "source_number": 19,
+    "card_number": 19,
+    "question": "Phản ứng thể hiện tính base của dung dịch Procain hydroclorid:",
     "options": {
-      "A": "sát trùng, tẩy rửa",
-      "B": "điều trị tăng huyết áp",
-      "C": "điều trị giun sán",
-      "D": "điều trị ho hen"
+      "A": "Kết tủa với AgNO3",
+      "B": "Cho kết tủa với các chất thử chung của alcaloid",
+      "C": "Làm mất màu tím của kali permanganat",
+      "D": "Tất cả các đáp án đều đúng"
     },
-    "answer": "A",
-    "id": 19
+    "answer": "B"
   },
   {
-    "question": "Tính chất điển hình của nhóm halogen là",
+    "id": "hd-020",
+    "source_number": 20,
+    "card_number": 20,
+    "question": "Lidocain hầu như không tan trong:",
     "options": {
-      "A": "tính oxy hóa mạnh",
-      "B": "tính khử mạnh",
-      "C": "tính acid mạnh",
-      "D": "tính base mạnh"
+      "A": "Ether",
+      "B": "Ethanol",
+      "C": "Nước",
+      "D": "Cloroform"
     },
-    "answer": "A",
-    "id": 20
+    "answer": "A"
   },
   {
-    "question": "Vai trò thiết yếu  Ca2+  trong quá trình sinh lý là:",
+    "id": "hd-021",
+    "source_number": 21,
+    "card_number": 21,
+    "question": "Dung dịch Procain hydroclorid trong nước làm mất màu tím của KMnO4 thể hiện:",
     "options": {
-      "A": "Tham gia vào quá trình chống đông máu, điều hòa dẫn truyền thần kinh",
-      "B": "Tham gia vào quá trình điều hòa chuyển hóa trong cơ thể",
-      "C": "Tham gia vào quá trình đông máu, điều hòa dẫn truyền thần kinh và chuyển hóa trong cơ thể",
-      "D": "Tham gia  quá trình thúc đẩy hoạt động của nhiều enzym"
+      "A": "Tính kiềm",
+      "B": "Tính khử",
+      "C": "Tính oxy hóa",
+      "D": "Tính oxy hóa-khử"
     },
-    "answer": "C",
-    "id": 21
+    "answer": "B"
   },
   {
-    "question": "Cơ thể người có khoảng:",
+    "id": "hd-022",
+    "source_number": 22,
+    "card_number": 22,
+    "question": "Dung dịch Procain hydroclorid phản ứng với dung dịch iod cho kết tủa:",
     "options": {
-      "A": "3,5g sắt",
-      "B": "4,5g sắt",
-      "C": "5,5g sắt",
-      "D": "6,5g sắt"
+      "A": "Màu đỏ nâu",
+      "B": "Màu vàng",
+      "C": "Màu đỏ gạch",
+      "D": "Màu nâu"
     },
-    "answer": "B",
-    "id": 22
+    "answer": "D"
   },
   {
-    "question": "Chất nào là thành phần cấu tạo của vitamin B12 xúc tác cho quá trình hình thành hồng cầu:",
+    "id": "hd-023",
+    "source_number": 23,
+    "card_number": 23,
+    "question": "Procain hydroclorid tạo muối diazoni vói HNO2 sau đỏ ngưng tụ với β-naphtol/NaOH tạo:",
     "options": {
-      "A": "Kẽm",
-      "B": "Sắt",
-      "C": "Coban",
-      "D": "Đồng"
+      "A": "Phẩm màu nitơ (màu đỏ)",
+      "B": "Kết tinh trắng",
+      "C": "Kết tủa đỏ gạch",
+      "D": "Kết tủa màu vàng}"
     },
-    "answer": "C",
-    "id": 23
+    "answer": "A"
   },
   {
-    "question": "Cơ thể chứa khoảng:",
-    "options": {
-      "A": "1,5-2g  kẽm",
-      "B": "2-2,5g kẽm",
-      "C": "3-3,5g kẽm",
-      "D": "4-4,5g kẽm"
-    },
-    "answer": "B",
-    "id": 24
-  },
-  {
-    "question": "Các nguyên tố nhóm VIIA đều là :",
-    "options": {
-      "A": "Kim loại",
-      "B": "Phi kim",
-      "C": "Khí hiếm",
-      "D": "Cả kim loại và phi kim"
-    },
-    "answer": "B",
-    "id": 25
-  },
-  {
-    "question": "Oxy là nguyên tố phi kim nhóm",
-    "options": {
-      "A": "VA",
-      "B": "VIA",
-      "C": "VIIA"
-    },
-    "answer": "B",
-    "id": 26
-  },
-  {
-    "question": "Tính chất của hydro peroxyd:",
-    "options": {
-      "A": "Tính oxy mạnh, tính khử mạnh",
-      "B": "Tính oxy mạnh, tính khử yếu",
-      "C": "Rất bền vững",
-      "D": "Tính oxy hóa yếu, tính khử mạnh",
-      "E": "Tính khử mạnh"
-    },
-    "answer": "B",
-    "id": 27
-  },
-  {
-    "question": "Chất ức chế hoạt động của các vi khuẩn làm hại men răng là:",
-    "options": {
-      "A": "Brom",
-      "B": "Flo",
-      "C": "Clo",
-      "D": "Iod"
-    },
-    "answer": "B",
-    "id": 28
-  },
-  {
-    "question": "Ứng dụng của clo trong y – dược:",
-    "options": {
-      "A": "Dung dịch NaClO dùng diệt khuẩn, virus, oxy hóa các chất hữu cơ trong tẩy uế",
-      "B": "Clormin B  thường được sử dụng để thụt rửa trong phụ khoa vì có tính sát khuẩn mạnh",
-      "C": "Cloramin T  làm thuốc kích thích lợi tiểu",
-      "D": "Amoni clorid có tính sát khuẩn mạnh vì vậy được sử dụng làm dung dịch tẩy uế các ổ dịch bệnh"
-    },
-    "answer": "A",
-    "id": 29
-  },
-  {
-    "question": "Cyclopropan là hợp chất vòng, có mấy cạnh",
+    "id": "hd-024",
+    "source_number": 24,
+    "card_number": 24,
+    "question": "Acid barbituric có tác dụng sinh học không đáng kể chỉ các dẫn chất thế ở vị trí... có tác dụng ức chế thần kinh trung ương :",
     "options": {
       "A": "3",
       "B": "4",
-      "C": "5",
-      "D": "6"
+      "C": "6",
+      "D": "5"
     },
-    "answer": "A",
-    "id": 30
+    "answer": "D"
   },
   {
-    "question": "Cyclobutan là hợp chất vòng, có mấy cạnh:",
+    "id": "hd-025",
+    "source_number": 25,
+    "card_number": 25,
+    "question": "Theo đường đưa thuốc, thuốc gây mê được chia thành:",
+    "options": {
+      "A": "1 nhóm",
+      "B": "4 nhóm",
+      "C": "3 nhóm",
+      "D": "2 nhóm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-026",
+    "source_number": 26,
+    "card_number": 26,
+    "question": "Diazepam cho huỳnh quang màu ... khi hòa tan vào H2SO4 đậm đặc:",
+    "options": {
+      "A": "Nâu đỏ",
+      "B": "Đỏ máu",
+      "C": "Tím",
+      "D": "Xanh lục"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-027",
+    "source_number": 27,
+    "card_number": 27,
+    "question": "Bromazepam tác dụng với phèn sắt amoni cho màu:",
+    "options": {
+      "A": "Xanh lục",
+      "B": "Hồng",
+      "C": "Vàng",
+      "D": "Tím"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-028",
+    "source_number": 28,
+    "card_number": 28,
+    "question": "Dung dịch diazepam trong H2S04 0,5% / methanol cho mấy cực đại hấp thụ:",
     "options": {
       "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
+      "B": "5",
+      "C": "2",
+      "D": "4"
     },
-    "answer": "B",
-    "id": 31
+    "answer": "A"
   },
   {
-    "question": "Cyclohexan  là hợp chất vòng, có mấy cạnh:",
+    "id": "hd-029",
+    "source_number": 29,
+    "card_number": 29,
+    "question": "Phenobarbital phản ứng với hỗn hợp formol H2S04 đặc cho màu:",
     "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
+      "A": "Vàng",
+      "B": "Xanh",
+      "C": "Không màu",
+      "D": "Đỏ"
     },
-    "answer": "D",
-    "id": 32
+    "answer": "D"
   },
   {
-    "question": "Cycloalkan nào sau đây ở dạng thể khí:",
+    "id": "hd-030",
+    "source_number": 30,
+    "card_number": 30,
+    "question": "Nitrazepam cho cực đại hấp thụ ở bước sóng:",
     "options": {
-      "A": "Cyclopropan",
-      "B": "Cyclopentan",
-      "C": "Cylcohexan",
-      "D": "Cycloheptan"
+      "A": "288nm",
+      "B": "180nm",
+      "C": "330nm",
+      "D": "280nm}"
     },
-    "answer": "A",
-    "id": 33
+    "answer": "D"
   },
   {
-    "question": "Cycloalkan nào sau đây ở dạng thể khí",
+    "id": "hd-031",
+    "source_number": 31,
+    "card_number": 31,
+    "question": "Dung dịch diazepam trong H2S04 0,5% / methanol cho các cực đại hấp thụ ở các bước sóng:",
     "options": {
-      "A": "Cyclobutan",
-      "B": "Cyclopentan",
-      "C": "Cylcohexan",
-      "D": "Cycloheptan"
+      "A": "422; 285; 366 nm",
+      "B": "242; 285; 266 nm",
+      "C": "242; 285; 366 nm",
+      "D": "242;285; 266nm"
     },
-    "answer": "A",
-    "id": 34
+    "answer": "C"
   },
   {
-    "question": "Phản ứng đặc trưng của cyclan là:",
+    "id": "hd-032",
+    "source_number": 32,
+    "card_number": 32,
+    "question": "Thuốc có sản phẩm chuyến hoá còn hoạt tính :",
     "options": {
-      "A": "phản ứng thế",
-      "B": "phản ứng oxy hóa khử",
-      "C": "phản ứng tách loại",
-      "D": "phản ứng khử hóa"
+      "A": "Diazepam, Loraxepam, Oxazepam",
+      "B": "Triazolam, Clodiazepoxid, Oxaepam",
+      "C": "Clorazepat, Clodiazepoxid, Oxazepam",
+      "D": "Clorazepat, Clodiazepoxid, Diazepam"
     },
-    "answer": "A",
-    "id": 35
+    "answer": "D"
   },
   {
-    "question": "Hydroiodid chỉ có thể mở vòng cyclan nào:",
+    "id": "hd-033",
+    "source_number": 33,
+    "card_number": 33,
+    "question": "Nitro hóa Phenobarbital bằng HNO3 cho:",
     "options": {
-      "A": "Cyclopropan",
-      "B": "Cyclopentan",
-      "C": "Cylcohexan",
-      "D": "Cycloheptan"
+      "A": "Dẫn xuất nitro màu vàng",
+      "B": "Phẩm màu đỏ",
+      "C": "Dẫn xuất nitro màu đỏ",
+      "D": "Dẫn xuất amin màu vàng"
     },
-    "answer": "A",
-    "id": 36
+    "answer": "A"
   },
   {
-    "question": "Menthol là dẫn chất của cycloalkan:",
+    "id": "hd-034",
+    "source_number": 34,
+    "card_number": 34,
+    "question": "Phenobarbital cho phản ứng Nitro hoá bằng HNO3, thu được dẫn xuất Nitro màu:",
     "options": {
-      "A": "Cyclopropan",
-      "B": "Cyclopentan",
-      "C": "Cylcohexan",
-      "D": "Cycloheptan"
+      "A": "Nâu đỏ",
+      "B": "Tim thẫm",
+      "C": "Xanh lục",
+      "D": "Vàng}"
     },
-    "answer": "C",
-    "id": 37
+    "answer": "D"
   },
   {
-    "question": "Phản ứng đặc trưng của clyclo ankan là:",
+    "id": "hd-035",
+    "source_number": 35,
+    "card_number": 35,
+    "question": "Lidocain nóng chảy ở nhiệt độ khoảng:",
     "options": {
-      "A": "Phản ứng oxy hóa",
-      "B": "Phản ứng đóng vòng",
-      "C": "Phản ứng thế",
-      "D": "Phản ứng tách loại"
+      "A": "70 0 C",
+      "B": "100 0 C",
+      "C": "76 0 C",
+      "D": "96 0C"
     },
-    "answer": "C",
-    "id": 38
+    "answer": "C"
   },
   {
-    "question": "Phản ứng tách loại của cyclohexan tạo sản phẩm chính là:",
+    "id": "hd-036",
+    "source_number": 36,
+    "card_number": 36,
+    "question": "Halothan là:",
     "options": {
-      "A": "Benzen",
-      "B": "Hexan",
-      "C": "Hexen",
-      "D": "Cyclohexen"
+      "A": "Chất lỏng nhẹ, không màu, không mùi, vị nóng",
+      "B": "Chất lỏng nặng, không màu, mùi đặc trưng, vị nóng",
+      "C": "Chất lỏng nặng, không màu, không mùi, không vị",
+      "D": "Chất lỏng nặng, màu vàng, mùi đặc trung, vị nóng"
     },
-    "answer": "A",
-    "id": 39
+    "answer": "B"
   },
   {
-    "question": "Cycloankan nào sau đây được sử dụng làm thuốc gây mê:",
+    "id": "hd-037",
+    "source_number": 37,
+    "card_number": 37,
+    "question": "Thiopental natri là thuốc:",
     "options": {
-      "A": "Cyclopropen",
-      "B": "Cyclopropan",
-      "C": "Cyclobutan",
-      "D": "Cyclohexan"
+      "A": "Gây mê đường hô hấp, tác dụng ngắn nhung thời gian tác dụng dài",
+      "B": "Gây mê đường hô hấp, tác dụng nhanh nhưng thời gian tác dụng ngắn",
+      "C": "Gây mê đường tiêm, tác dụng nhanh nhưng thời gian tác dụng ngắn",
+      "D": "Gây mê đường tiêm, tác dụng ngắn nhưng thời gian tác dụng dài"
     },
-    "answer": "B",
-    "id": 40
+    "answer": "C"
   },
   {
-    "question": "Các nhóm methyl được gắn vào vị trí carbon trong khung cấu tạo của steroid:",
+    "id": "hd-038",
+    "source_number": 38,
+    "card_number": 38,
+    "question": "Phenobarbital phản ứng với hỗn hợp formol/ H2SO4 đặc cho:",
     "options": {
-      "A": "C10 và C14",
-      "B": "C10 và C13",
-      "C": "C5 và C18",
-      "D": "C18 và C19"
+      "A": "Màu đỏ gạch",
+      "B": "Màu vàng nhạt",
+      "C": "Màu đỏ",
+      "D": "Màu xanh}"
     },
-    "answer": "B",
-    "id": 41
+    "answer": "C"
   },
   {
-    "question": "Nhóm – OH ở vị trí 11α phản ứng ester hóa nhanh hơn nhóm – OH ở vị trí 11β bởi vì:",
+    "id": "hd-039",
+    "source_number": 39,
+    "card_number": 39,
+    "question": "Các thuôc gây mê đường hô hấp sau đều không gây cháy, ngoại trừ:",
     "options": {
-      "A": "Nhóm - OH ở vị trí 11β cồng kềnh khó phản ứng",
-      "B": "Nhóm – OH ở vị trí 11β bị cản trở không gian do 2 nhóm methyl gốc (gắn với C10, C13)",
-      "C": "Nhóm – OH ở vị trí 11β bị cản trở không gian do 2 nhóm ethyl gốc (gắn với C10, C13)",
-      "D": "Nhóm – OH ở vị trí 11β bị cản trở không gian do 2 nhóm methyl gốc (gắn với C12, C15)"
+      "A": "Ether",
+      "B": "Cloroform",
+      "C": "Enfluran",
+      "D": "Halothan"
     },
-    "answer": "B",
-    "id": 42
+    "answer": "A"
   },
   {
-    "question": "Một trong những steroid có ứng dụng trong ngành dược:",
+    "id": "hd-040",
+    "source_number": 40,
+    "card_number": 40,
+    "question": "Diazepam dễ tan trong:",
     "options": {
-      "A": "Acid mật",
-      "B": "acid amin",
-      "C": "Glucose",
-      "D": "Fructose"
-    },
-    "answer": "A",
-    "id": 43
-  },
-  {
-    "question": "Một trong những hormon có cấu trúc steroid:",
-    "options": {
-      "A": "Hormon sinh dục",
-      "B": "Hormon tuyến giáp",
-      "C": "Hormon tăng trưởng",
-      "D": "Hormon tuyến yên"
-    },
-    "answer": "A",
-    "id": 44
-  },
-  {
-    "question": "Một trong những hormon có cấu trúc steroid:",
-    "options": {
-      "A": "Hormon tuyến vỏ thượng thận",
-      "B": "Hormon tuyến giáp",
-      "C": "Hormon tăng trưởng",
-      "D": "Hormon tuyến yên"
-    },
-    "answer": "A",
-    "id": 45
-  },
-  {
-    "question": "Một trong những phản ứng hóa học của steroid là:",
-    "options": {
-      "A": "oxy hóa",
-      "B": "trùng hợp",
-      "C": "ester hóa",
-      "D": "trùng ngưng"
-    },
-    "answer": "C",
-    "id": 46
-  },
-  {
-    "question": "Một trong những phản ứng hóa học của steroid là:",
-    "options": {
-      "A": "oxy hóa",
-      "B": "mở vòng",
-      "C": "khử hóa",
-      "D": "đóng vòng"
-    },
-    "answer": "C",
-    "id": 47
-  },
-  {
-    "question": "Một trong những phản ứng hóa học của steroid là:",
-    "options": {
-      "A": "oxy hóa",
-      "B": "đốt cháy",
-      "C": "tách loại",
-      "D": "đóng vòng"
-    },
-    "answer": "C",
-    "id": 48
-  },
-  {
-    "question": "Cortison là steroid thuộc nhóm nào:",
-    "options": {
-      "A": "Horom sinh dục nam",
-      "B": "Hormon sinh dục nữ",
-      "C": "Hormon vỏ thượng thận",
-      "D": "Hormon tuyến giáp"
-    },
-    "answer": "C",
-    "id": 49
-  },
-  {
-    "question": "Một trong những tính chất vật lý của dihydroxyacid:",
-    "options": {
-      "A": "dạng rắn",
-      "B": "dạng lỏng",
-      "C": "dạng khí",
-      "D": "dạng kết tinh"
-    },
-    "answer": "D",
-    "id": 50
-  },
-  {
-    "question": "Hydroxyacid có tính acid mạnh hơn so với hợp chất nào sau đây:",
-    "options": {
-      "A": "acid carboxylic",
-      "B": "cyclalkan",
-      "C": "amino acid",
-      "D": "steroid"
-    },
-    "answer": "A",
-    "id": 51
-  },
-  {
-    "question": "Digitoxigenin là một steroid có ứng dụng trong ngành dược:",
-    "options": {
-      "A": "Thuốc chống sốt rét",
-      "B": "Thuốc trợ tim",
-      "C": "Thuốc giảm đau",
-      "D": "Thuốc điều trị ung thư"
-    },
-    "answer": "B",
-    "id": 52
-  },
-  {
-    "question": "Estradiol là steroid thuộc nhóm nào:",
-    "options": {
-      "A": "Horom sinh dục nam",
-      "B": "Hormon sinh dục nữ",
-      "C": "Hormon vỏ thượng thận",
-      "D": "Hormon tuyến giáp"
-    },
-    "answer": "B",
-    "id": 53
-  },
-  {
-    "question": "Testosteron là steroid thuộc nhóm nào:",
-    "options": {
-      "A": "Horom sinh dục nam",
-      "B": "Hormon sinh dục nữ",
-      "C": "Hormon vỏ thượng thận",
-      "D": "Hormon tuyến giáp"
-    },
-    "answer": "A",
-    "id": 54
-  },
-  {
-    "question": "Acid lactic là một acid hữu cơ thuộc nhóm:",
-    "options": {
-      "A": "Aldehyd acid",
-      "B": "Ceton acid",
-      "C": "Hydroxy acid",
-      "D": "Phenol acid"
-    },
-    "answer": "C",
-    "id": 55
-  },
-  {
-    "question": "Acid lactic lần đầu tiên được tìm thấy ở:",
-    "options": {
-      "A": "Chanh",
-      "B": "Sữa",
-      "C": "Sữa chua",
-      "D": "Cam"
-    },
-    "answer": "C",
-    "id": 56
-  },
-  {
-    "question": "Phản ứng loại nước của α-hydroxy acid cho sản phẩm:",
-    "options": {
-      "A": "Acid lactic",
-      "B": "Lactid",
-      "C": "Lacton",
-      "D": "γ – Lacton"
-    },
-    "answer": "B",
-    "id": 57
-  },
-  {
-    "question": "Chất nào sau đây trong công thức chứa vòng lacton:",
-    "options": {
-      "A": "Vitamin B",
-      "B": "Vitamin C",
-      "C": "Vitamin K",
-      "D": "Vitamin A"
-    },
-    "answer": "B",
-    "id": 58
-  },
-  {
-    "question": "Tên gọi khác của acid salicylic là:",
-    "options": {
-      "A": "Acid o – hydroxy benzoic",
-      "B": "Acid p – hydroxy benzoic",
-      "C": "Acid m – hydroxy benzoic",
-      "D": "Acid hydroxy benzoic"
-    },
-    "answer": "A",
-    "id": 59
-  },
-  {
-    "question": "Aspirin là sản phẩm của phản ứng ester hóa của acid salicylic với:",
-    "options": {
-      "A": "Acid acetic",
-      "B": "Anhydrid acetic",
-      "C": "Acid lactic",
+      "A": "Dung môi hữu cơ",
+      "B": "Nước",
+      "C": "Cloroform",
       "D": "Methanol"
     },
-    "answer": "B",
-    "id": 60
+    "answer": "A"
   },
   {
-    "question": "Chất nào sau đây thường được sử dụng làm chất bảo quản trong một số loại thuốc:",
+    "id": "hd-041",
+    "source_number": 41,
+    "card_number": 41,
+    "question": "Dung dịch Diazcpam trong H2SO4 đậm đặc với ánh sáng UV 365 nm, cho:",
     "options": {
-      "A": "Alkyl p- hydroxy benzoat",
-      "B": "Alkyl m- hydroxy benzoat",
-      "C": "Alkyl p- hydroxy benzoat",
-      "D": "Acid salicylic",
-      "E": "Tính chất của nhóm OH và nhóm amin thơm"
+      "A": "Huỳnh quang màu vàng lục",
+      "B": "Huỳnh quang màu xanh",
+      "C": "Huỳnh quang màu xanh lục-vàng",
+      "D": "Huỳnh quang màu xanh lục"
     },
-    "answer": "A",
-    "id": 61
+    "answer": "C"
   },
   {
-    "question": "Sản phẩm của phản ứng N-acyl orthoaminophenol với anhydrid acetic là:",
+    "id": "hd-042",
+    "source_number": 42,
+    "card_number": 42,
+    "question": "Định lượng Morphin hydroclorid bằng dung dịch HClO4 0,1N trong môi trường CH3COOH khan với chỉ thị:",
     "options": {
-      "A": "Methyl salicylat",
-      "B": "Methanol",
-      "C": "p – amino phenolat",
-      "D": "Methyl benzoxazol"
+      "A": "Tím tinh thể",
+      "B": "Phenolphtalein",
+      "C": "Đỏ da cam",
+      "D": "Đo điện thế"
     },
-    "answer": "D",
-    "id": 62
+    "answer": "A"
   },
   {
-    "question": "Công thức cấu tạo chứa nhân p- quinon là:",
+    "id": "hd-043",
+    "source_number": 43,
+    "card_number": 43,
+    "question": "Acid acetyl salicylic phản ứng với thuổc thử sắt (III) clorid tạo:",
     "options": {
-      "A": "Vitamin A",
-      "B": "Vitamin C",
-      "C": "Vitamin K",
-      "D": "Vitamin E"
+      "A": "Màu nâu",
+      "B": "Màu đỏ nâu",
+      "C": "Không cho màu",
+      "D": "Màu tím"
     },
-    "answer": "C",
-    "id": 63
+    "answer": "C"
   },
   {
-    "question": "Paracetamol là hợp chất hữu cơ thuộc nhóm dẫn chất:",
+    "id": "hd-044",
+    "source_number": 44,
+    "card_number": 44,
+    "question": "Điều chế Aspirin bằng cách este hóa nhóm OH của acid salicylic bằng anhydrid acetic với xúc tác là:",
     "options": {
-      "A": "Amino acid",
-      "B": "Amino phenol",
-      "C": "Amino alcol",
-      "D": "Amin"
+      "A": "Acid acetic",
+      "B": "Acid nitric",
+      "C": "Acid sulfuric",
+      "D": "Acid hydroclorid"
     },
-    "answer": "B",
-    "id": 64
+    "answer": "C"
   },
   {
-    "question": "Ứng dụng của phản ứng thủy phân ure:",
+    "id": "hd-045",
+    "source_number": 45,
+    "card_number": 45,
+    "question": "Định lượng Ibuprofen bằng dung dịch NaOH với chỉ thị:",
     "options": {
-      "A": "Định lượng ure trong nước tiểu",
-      "B": "Định lượng ure trong máu",
-      "C": "Định tính ure trong nước tiểu",
-      "D": "Định tính ure trong máu"
+      "A": "Đo điện thế",
+      "B": "Phenolphtalein",
+      "C": "Hồ tinh bột",
+      "D": "Tím tinh thể"
     },
-    "answer": "B",
-    "id": 65
+    "answer": "B"
   },
   {
-    "question": "Diphenyl ure được sử dụng trong ngành dược làm thuốc:",
+    "id": "hd-046",
+    "source_number": 46,
+    "card_number": 46,
+    "question": "Định lượng Paracetamol bằng phương pháp đo phổ tử ngoại trong môi trường:",
     "options": {
-      "A": "Điều trị lao, hủi",
-      "B": "Điều trị ký sinh trùng sốt rét",
-      "C": "Điều trị tiểu đường",
-      "D": "Kháng ung thư"
+      "A": "Kiềm",
+      "B": "Methanol hoặc kiềm",
+      "C": "Methanol",
+      "D": "Acid"
     },
-    "answer": "A",
-    "id": 66
+    "answer": "B"
   },
   {
-    "question": "Thioure là dẫn chất của ure nguyên liệu bào chế",
+    "id": "hd-047",
+    "source_number": 47,
+    "card_number": 47,
+    "question": "Dung dịch morphin hydroclorid với thuốc thử Dragendroff cho:",
     "options": {
-      "A": "Sufathiazol",
-      "B": "Sufaguanidin",
-      "C": "Acid sunfua",
-      "D": "Acid sulfuric"
+      "A": "tủa đỏ và dung dịch màu đỏ",
+      "B": "màu đỏ tía sau chuyển thành tím",
+      "C": "màu tím chuyển sang xanh",
+      "D": "tủa màu da cam"
     },
-    "answer": "A",
-    "id": 67
+    "answer": "D"
   },
   {
-    "question": "Aminoacid là hợp chất hữu cơ mà trong phân tử của chúng có chứa hai nhóm định chức chính là:",
+    "id": "hd-048",
+    "source_number": 48,
+    "card_number": 48,
+    "question": "Định luợng Diclofenac bằng acid percloric trong dung môi CH3COOH  khan, với chỉ thị:",
     "options": {
-      "A": "Nhóm phenol và hydroxyl",
-      "B": "Nhóm amino và carboxyl",
-      "C": "Nhóm amino và carbonic",
-      "D": "Nhóm amin và carboxyl"
+      "A": "Đo thế",
+      "B": "Quỳ tím",
+      "C": "Hồ tinh bột",
+      "D": "Tím tinh thể"
     },
-    "answer": "B",
-    "id": 68
+    "answer": "A"
   },
   {
-    "question": "Các α- aminoacid là thành phần cơ bản tạo nên:",
+    "id": "hd-049",
+    "source_number": 49,
+    "card_number": 49,
+    "question": "Chế phẩm Diclofenac không tan trong:",
     "options": {
-      "A": "Lipid",
-      "B": "Cholesterol",
-      "C": "Protein",
-      "D": "Carbohydrat"
+      "A": "Ethanol",
+      "B": "Ethanol",
+      "C": "Ether",
+      "D": "Nước"
     },
-    "answer": "C",
-    "id": 69
+    "answer": "C"
   },
   {
-    "question": "Các aminoacid nào sau đây có tính base:",
+    "id": "hd-050",
+    "source_number": 50,
+    "card_number": 50,
+    "question": "Morphin tan trong kiềm mạnh và cho màu... với dung dịch sắt III clorid:",
     "options": {
-      "A": "Glycin",
-      "B": "Alanin",
-      "C": "Leucin",
-      "D": "Lysin"
-    },
-    "answer": "D",
-    "id": 70
-  },
-  {
-    "question": "Khi cho α-aminoacid tác dụng với muối đồng sunfat sẽ tạo muối phức kết tinh tinh thể màu:",
-    "options": {
-      "A": "Đỏ gạch",
-      "B": "Xanh lam",
-      "C": "Xanh tím",
-      "D": "Trắng"
-    },
-    "answer": "C",
-    "id": 71
-  },
-  {
-    "question": "Phản ứng loại nước của α-aminoacid cho sản phẩm chính là dẫn chất của:",
-    "options": {
-      "A": "Piperazin",
-      "B": "Dicetopiperazin",
-      "C": "p- quinon",
-      "D": "Lactam"
-    },
-    "answer": "B",
-    "id": 72
-  },
-  {
-    "question": "Các aminoacid có chứa nhân imidazol khi tác dụng với acid diazobenzen sulfonic tạo thành hợp chất có màu:",
-    "options": {
-      "A": "Đỏ gạch",
-      "B": "Xanh tím",
-      "C": "Đỏ anh đào",
-      "D": "Đỏ nâu"
-    },
-    "answer": "C",
-    "id": 73
-  },
-  {
-    "question": "Dị tố trong dị vòng của Thiophen là:",
-    "options": {
-      "A": "Oxi",
-      "B": "Phospho",
-      "C": "Lưu huỳnh",
-      "D": "Nitơ"
-    },
-    "answer": "C",
-    "id": 74
-  },
-  {
-    "question": "Một trong những tác dụng của Vitamin C:",
-    "options": {
-      "A": "Chảy máu",
-      "B": "Chống oxy hóa",
-      "C": "Giảm tính đàn hồi của thành mạch",
-      "D": "Giảm đau"
-    },
-    "answer": "B",
-    "id": 75
-  },
-  {
-    "question": "Furan phản ứng với acid nitric cho sản phẩm chính là:",
-    "options": {
-      "A": "2 – acetyl furan",
-      "B": "2 – nitro furan",
-      "C": "2 – bromo furan",
-      "D": "tetra hydro furan"
-    },
-    "answer": "B",
-    "id": 76
-  },
-  {
-    "question": "Thiophen là hợp chất dị vòng 5 cạnh 1 dị tố và khi bị hydro hóa bởi hỗn hợp natri trong môi trường ethanol thì tạo thành:",
-    "options": {
-      "A": "Furan",
-      "B": "Pyrol",
-      "C": "2 – acetyl thiophen",
-      "D": "Thiophan"
-    },
-    "answer": "D",
-    "id": 77
-  },
-  {
-    "question": "Dẫn chất 2, 5 – diiodo thiophen của thiophen được ứng dụng trong ngành dược làm thuốc:",
-    "options": {
-      "A": "Sát khuẩn",
-      "B": "Diệt nấm",
-      "C": "Sát khuẩn, tẩy mùi",
-      "D": "Kháng lao"
-    },
-    "answer": "C",
-    "id": 78
-  },
-  {
-    "question": "Các chất nào sau đây trong công thức cấu tạo không chứa nhân pyrol:",
-    "options": {
-      "A": "Billirubin",
-      "B": "Porphin",
-      "C": "Indol",
-      "D": "Pyridin"
-    },
-    "answer": "D",
-    "id": 79
-  },
-  {
-    "question": "Imidzol là một hợp chất dị vòng 5 cạnh 2 dị tố, nó được xếp vào nhóm:",
-    "options": {
-      "A": "Pyrol",
-      "B": "Diazol",
-      "C": "Thiazol",
-      "D": "isothiazol"
-    },
-    "answer": "B",
-    "id": 80
-  },
-  {
-    "question": "Phenyl butazol là hợp chất dị vòng 5 cạnh 1 dị tố, được ứng dụng trong ngành dược dùng làm:",
-    "options": {
-      "A": "Thuốc giảm đau",
-      "B": "Thuốc chống viêm",
-      "C": "Thuốc kháng sinh",
-      "D": "Thuốc điều trị lao"
-    },
-    "answer": "B",
-    "id": 81
-  },
-  {
-    "question": "Pilocarpin được ứng dụng trong ngành dược dùng làm thuốc:",
-    "options": {
-      "A": "Thuốc giảm đau",
-      "B": "Thuốc điều trị bệnh thiên đầu thống",
-      "C": "Thuốc kháng sinh",
-      "D": "Thuốc điều trị lao"
-    },
-    "answer": "B",
-    "id": 82
-  },
-  {
-    "question": "Các vitamin nào sau đây trong công thức cấu tạo chứa nhóm thiazol",
-    "options": {
-      "A": "Vitamin A",
-      "B": "Vitamin C",
-      "C": "Vitamin K",
-      "D": "Thiamin (B1)"
-    },
-    "answer": "D",
-    "id": 83
-  },
-  {
-    "question": "Sufadiazol là một hợp chất dị vòng 5 cạnh 2 dị tố có tác dụng",
-    "options": {
-      "A": "Điều trị gout",
-      "B": "Kháng nấm",
-      "C": "Giảm đau",
-      "D": "Chống viêm"
-    },
-    "answer": "B",
-    "id": 84
-  },
-  {
-    "question": "α-pyron là một dihydropyran, có trong khung coumarin, khung này có trong hợp chất vafarin có tác dụng",
-    "options": {
-      "A": "Điều trị gout",
-      "B": "Kháng nấm",
-      "C": "Giảm đau",
-      "D": "chống đông máu"
-    },
-    "answer": "D",
-    "id": 85
-  },
-  {
-    "question": "Nicotin là alkaloid của cây thuốc lá, với lượng nhỏ nicotin có tác dụng kích thích  còn lượng nhỏ là một chất độc. Muối của nicotin được ứng dụng làm thuốc",
-    "options": {
-      "A": "Điều trị giun sán",
-      "B": "Thuốc trừ sâu",
-      "C": "Thuốc diệt cỏ",
-      "D": "Điều trị nấm"
-    },
-    "answer": "B",
-    "id": 86
-  },
-  {
-    "question": "Khi oxy hóa nicotin bằng acid sunfuric đậm đặc ta thu được acid 3 – nicotin – carboxylic, amid của acid này là 1 vitamin. Vậy vitamin đó là:",
-    "options": {
-      "A": "Vitamin A",
-      "B": "Vitamin E",
-      "C": "Vitamin K",
-      "D": "Vitamin PP"
-    },
-    "answer": "D",
-    "id": 87
-  },
-  {
-    "question": "Quinolin là khung của nhiều alkaloid và thuốc tổng hợp quinin có tác dụng:",
-    "options": {
-      "A": "Trị táo bón",
-      "B": "Trị tiêu chảy",
-      "C": "Điều trị sốt rét",
-      "D": "Kháng nấm"
-    },
-    "answer": "C",
-    "id": 88
-  },
-  {
-    "question": "Diazin là hợp chất dị vòng 6 cạnh 2 dị tố là nitơ gồm có 3 đồng phân sau:",
-    "options": {
-      "A": "pyran, pyrol, pyridin",
-      "B": "Pyridazin, pyrimidin, pyrazin",
-      "C": "Pyran, Pyridimin, pyridin",
-      "D": "Pyran, pyrol, pyrazin"
-    },
-    "answer": "B",
-    "id": 89
-  },
-  {
-    "question": "Piperarin là sản phẩm khử hóa của pyrazin, có tác dụng:",
-    "options": {
-      "A": "Kháng nấm",
-      "B": "Điều trị giun",
-      "C": "Kháng ung thư",
-      "D": "Gây ngủ"
-    },
-    "answer": "B",
-    "id": 90
-  },
-  {
-    "question": "Một trong những ứng dụng của các hợp chất hydrocarbon cyclanic trong ngành dược:",
-    "options": {
-      "A": "Methanol được sử dùng làm thuốc giảm đau bôi ngoài da",
-      "B": "Cyclohexan dùng làm thuốc điều trị nấm",
-      "C": "Cyclobutan được ứng dụng trong y học làm thuốc gây mê",
-      "D": "Cyclopropan có tác dụng gây mê"
-    },
-    "answer": "D",
-    "id": 91
-  },
-  {
-    "question": "Một trong những tính chất hóa học của phenol acid:",
-    "options": {
-      "A": "Tính acid của phenol acid mạnh hơn acid benzoic",
-      "B": "Tính acid của phenol acid mạnh hơn acid salicylic",
-      "C": "Tính base của phenol acid mạnh hơn acid benzoic",
-      "D": "Tính base  của phenol acid mạnh hơn acid salicylic"
-    },
-    "answer": "A",
-    "id": 92
-  },
-  {
-    "question": "Một trong những tính chất hóa học của phenol acid:",
-    "options": {
-      "A": "Phản ứng với kim loại",
-      "B": "Phản ứng với base",
-      "C": "Phản ứng ester",
-      "D": "Phản ứng với phi kim"
-    },
-    "answer": "B",
-    "id": 93
-  },
-  {
-    "question": "Chất nào sau đây có nhóm chức hyrdoxyl acid:",
-    "options": {
-      "A": "Aicd salicylic",
-      "B": "Paracetamol",
-      "C": "Ibuprofen",
-      "D": "Diclofenac"
-    },
-    "answer": "A",
-    "id": 94
-  },
-  {
-    "question": "Một trong những tính chất hóa học của acid salicycylic:",
-    "options": {
-      "A": "Acid salicylic phản ứng ester hóa với anhydrid acetic tạo thành aspirin",
-      "B": "Acid salicylic phản ứng oxy hóa với anhydrid acetic tạo thành aspirin",
-      "C": "Acid salicylic phản ứng khử hóa với anhydrid acetic tạo thành aspirin",
-      "D": "Acid salicylic phản ứng kiềm hóa với anhydrid acetic tạo thành aspirin"
-    },
-    "answer": "A",
-    "id": 95
-  },
-  {
-    "question": "Một trong những tính chất hóa học của aminophenol:",
-    "options": {
-      "A": "aminophenol tác dụng với NaOH tạo thành muối kiềm tan",
-      "B": "aminophenol tác dụng với HCl tạo thành muối kiềm tan",
-      "C": "aminophenol tác dụng với NaOH tạo thành muối kiềm không tan",
-      "D": "aminophenol tác dụng với HCl tạo thành muối kiềm tan"
-    },
-    "answer": "A",
-    "id": 96
-  },
-  {
-    "question": "Ứng dụng của para amino salicylic (PAS)  trong ngành dược:",
-    "options": {
-      "A": "PAS có tác dụng hạ sốt",
-      "B": "PAS có tác dụng kháng lao",
-      "C": "PAS có tác dụng giảm đau",
-      "D": "PAS có tác dụng kháng viêm"
-    },
-    "answer": "B",
-    "id": 97
-  },
-  {
-    "question": "Một trong những tính chất vật lý của ure:",
-    "options": {
-      "A": "Ure dễ tan trong nước và dung môi hữu cơ",
-      "B": "Ure khó tan trong nước, dễ tan trong dung môi hữu cơ",
-      "C": "Ure dễ tan trong nước và khó tan trong dung môi hữu cơ",
-      "D": "Ure khó tan trong nước, dễ tan trong dung môi hữu cơ"
-    },
-    "answer": "C",
-    "id": 98
-  },
-  {
-    "question": "Chất nào sau đây là amino acid:",
-    "options": {
-      "A": "Glycin",
-      "B": "Vaselin",
-      "C": "Lanoin",
-      "D": "Methionin"
-    },
-    "answer": "A",
-    "id": 99
-  },
-  {
-    "question": "Phát biểu nào sau đây về aminoacid là đúng:",
-    "options": {
-      "A": "Aminoacid có đồng phân quang học vì có carbon bất đối xứng",
-      "B": "Aminoacid không tan trong các dung môi phân cực như ether, benzen...",
-      "C": "Aminoacid không tan trong các dung môi phân cực như acid hữu cơ",
-      "D": "Aminoacid không tan trong các dung môi phân cực như ceton, aldehyd",
-      "E": "acid amin"
-    },
-    "answer": "A",
-    "id": 100
-  },
-  {
-    "question": "Hợp chất nào sau đây thuộc nhóm hợp chất dị vòng 5 cạnh:",
-    "options": {
-      "A": "Pyrol",
-      "B": "Fuffuran",
-      "C": "Thioure",
-      "D": "Benzofuran"
-    },
-    "answer": "A",
-    "id": 101
-  },
-  {
-    "question": "Thiophen là hợp chất dị vòng 5 cạnh và trong vòng chứa 1 nguyên tử:",
-    "options": {
-      "A": "S",
-      "B": "N",
-      "C": "O",
-      "D": "Na",
-      "E": "Hợp chất dị vòng 5 cạnh 1 dị tố"
-    },
-    "answer": "A",
-    "id": 102
-  },
-  {
-    "question": "Một trong những tính chất vật lý của thiophen:",
-    "options": {
-      "A": "Thiophen là chất lỏng, không tan trong nước, có mùi khó chịu",
-      "B": "Thiophen là dạng tinh thể, không tan trong nước, có mùi khó chịu",
-      "C": "Thiophen là dạng khí hóa lỏng, có mùi dễ chịu",
-      "D": "Thiphen dạng chất rắn, dễ tan trong nước, có mùi khó chịu",
-      "E": "Thiophen"
-    },
-    "answer": "A",
-    "id": 103
-  },
-  {
-    "question": "Một trong những tính chất hóa học của thiophen:",
-    "options": {
-      "A": "Thiophan là sản phẩm của phản ứng cộng của pyrol",
-      "B": "Thiophen bền vững với các tác nhân oxy hóa như kali permanganat",
-      "C": "Thiophen bền vững với các tác nhân khử hóa.",
-      "D": "Thiphen dễ bị oxy hóa bởi các tác nhân oxy hóa khử"
-    },
-    "answer": "B",
-    "id": 104
-  },
-  {
-    "question": "Một trong những tính chất vật lý của pyrol:",
-    "options": {
-      "A": "Pyrol là chất lỏng không màu, để lâu bị vàng nâu rồi hóa nhựa",
-      "B": "Pyrol là rắn không màu, để lâu bị vàng nâu rồi hóa nhựa",
-      "C": "Pyrol là chất lỏng không màu, để lâu không bị oxy hóa",
-      "D": "Pyrol là rắn không màu, để lâu không bị oxy hóa"
-    },
-    "answer": "A",
-    "id": 105
-  },
-  {
-    "question": "Một trong những tính chất vật lý của pyrol:",
-    "options": {
-      "A": "Ít tan trong nước, dễ tan trong alcol và ether",
-      "B": "Dễ tan trong acid, khó tan trong alcol và ether",
-      "C": "Khó tan trong nước, alcol, ether",
-      "D": "Dễ tan trong các dung môi hữu cơ"
-    },
-    "answer": "A",
-    "id": 106
-  },
-  {
-    "question": "Một trong những tính chất hóa học của pyrol:",
-    "options": {
-      "A": "Pyrol tham gian phản ứng cộng khó khăn",
-      "B": "Pyrol dễ dàng tham gia phản ứng oxy hóa khử",
-      "C": "Pyrol tham gia phản ứng tách loại",
-      "D": "Pyrol tham gia phản ứng khử hóa"
-    },
-    "answer": "A",
-    "id": 107
-  },
-  {
-    "question": "Một trong những tính chất hóa học của pyrol:",
-    "options": {
-      "A": "Pyrol có thể tham gia phản ứng thế ái điện tử",
-      "B": "Pyrol dễ dàng tham gia phản ứng oxy hóa khử",
-      "C": "Pyrol tham gia phản ứng tách loại",
-      "D": "Pyrol tham gia phản ứng khử hóa"
-    },
-    "answer": "A",
-    "id": 108
-  },
-  {
-    "question": "Một trong những tính chất hóa học của hợp chất pyrazol:",
-    "options": {
-      "A": "oxy hóa",
-      "B": "tính thơm",
-      "C": "tính acid",
-      "D": "tính base"
-    },
-    "answer": "C",
-    "id": 109
-  },
-  {
-    "question": "Một trong những tính chất hóa học của thiazol:",
-    "options": {
-      "A": "Thiazol có tính thơm cao hơn các oxazol",
-      "B": "Thiazol có tính oxy hóa cao hơn các oxazol",
-      "C": "Thiazol có tính acid cao hơn các oxazol",
-      "D": "Thiazol có tính base cao hơn các oxazol"
-    },
-    "answer": "A",
-    "id": 110
-  },
-  {
-    "question": "Một trong những tính chất vật lý của quinoline :",
-    "options": {
-      "A": "Quinolin là chất lỏng có màu, để lâu chuyển sang màu vàng nâu",
-      "B": "Quinolin là chất lỏng không màu, để lâu chuyển sang màu vàng nâu",
-      "C": "Quinolin là chất lỏng không màu, để lâu không bj chuyển màu",
-      "D": "Quinolin là chất lỏng có màu, để lâu không bị chuyển màu"
-    },
-    "answer": "B",
-    "id": 111
-  },
-  {
-    "question": "Một trong những tính chất hóa học của pyrazin",
-    "options": {
-      "A": "Khi bị khử hóa pyrazin bị chuyển thành piperazin.",
-      "B": "Khi bị khử hóa pyrazin bị chuyển thành pyrimidin",
-      "C": "Khi bị khử hóa pyrazin bị chuyển thành pyral",
-      "D": "Khi bị khử hóa pyrazin bị chuyển thành pyrol",
-      "E": "thuốc điều trị giun sán"
-    },
-    "answer": "A",
-    "id": 112
-  },
-  {
-    "question": "Một trong những tính chất hóa học của pyrazin",
-    "options": {
-      "A": "Piperazin có tính base mạnh hơn pyrazin",
-      "B": "Piperazin có tính base mạnh hơn pyrol",
-      "C": "Piperazin có tính base mạnh hơn pyral",
-      "D": "Piperazin có tính base mạnh hơn pyrimidin"
-    },
-    "answer": "A",
-    "id": 113
-  },
-  {
-    "question": "Dựa vào bản chất của phương pháp có thể chia các phương pháp thành mấy nhóm lớn:",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
-    },
-    "answer": "A",
-    "id": 114
-  },
-  {
-    "question": "Các phương pháp hóa học có thể phân thành mấy nhóm:",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
-    },
-    "answer": "A",
-    "id": 115
-  },
-  {
-    "question": "Các phương pháp vật lý và hóa lý chia thành mấy nhóm:",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
-    },
-    "answer": "B",
-    "id": 116
-  },
-  {
-    "question": "Quy trình phân tích có mấy bước:",
-    "options": {
-      "A": "6",
-      "B": "7",
-      "C": "8",
-      "D": "9"
-    },
-    "answer": "A",
-    "id": 117
-  },
-  {
-    "question": "Trong phương pháp phân tích thô, lượng  mẫu thử yêu cầu phải:",
-    "options": {
-      "A": "> 0,1g",
-      "B": "> 0,2 g",
-      "C": "> 0,3 g",
-      "D": "> 0,4g"
-    },
-    "answer": "A",
-    "id": 118
-  },
-  {
-    "question": "Trong phương pháp phân tích bán vi: lượng mẫu thử yêu cầu phải:",
-    "options": {
-      "A": "Từ 10-2 đến 10-1",
-      "B": "Từ 10-3 đến 10-2",
-      "C": "Từ 10-4 đến 10-3",
-      "D": "Từ 10-5 đến 10-4"
-    },
-    "answer": "A",
-    "id": 119
-  },
-  {
-    "question": "Trong phương pháp phân tích vi lượng, lượng mẫu thử yêu cầu phải:",
-    "options": {
-      "A": "Từ 10-4 đến 10-3 g",
-      "B": "Từ 10-3 đến 10-2 g",
-      "C": "Từ 10-2 đến 10-1 g",
-      "D": "Từ 10-1 đến 1 g"
-    },
-    "answer": "B",
-    "id": 120
-  },
-  {
-    "question": "Trong phương pháp phân tích siêu vi lượng, lượng mẫu thử yêu cầu phải:",
-    "options": {
-      "A": "< 0,1 mg",
-      "B": "< 0,2 mg",
-      "C": "< 0,3mg",
-      "D": "0,4 mg"
-    },
-    "answer": "A",
-    "id": 121
-  },
-  {
-    "question": "Trong một mẫu thử, nếu 1 thành phần có hàm lượng 1 % trở lên được gọi là:",
-    "options": {
-      "A": "Thành phần chính",
-      "B": "Thành phần thứ yếu",
-      "C": "Thành phần vết",
-      "D": "Tạp chất"
-    },
-    "answer": "A",
-    "id": 122
-  },
-  {
-    "question": "Trong một mẫu thử, nếu 1 thành phần có hàm lượng 0,01 đến 1% gọi là:",
-    "options": {
-      "A": "Thành phần chính",
-      "B": "Thành phần thứ yếu",
-      "C": "Thành phần vết",
-      "D": "Tạp chất"
-    },
-    "answer": "B",
-    "id": 123
-  },
-  {
-    "question": "Trong một mẫu thử, nếu 1 thành phần có hàm lượng  dưới 0,01% gọi là:",
-    "options": {
-      "A": "Thành phần chính",
-      "B": "Thành phần thứ yếu",
-      "C": "Thành phần vết",
-      "D": "Tạp chất"
-    },
-    "answer": "C",
-    "id": 124
-  },
-  {
-    "question": "Do sự phát triển của các thiết bị công nghệ cao, giới hạn định lượng có thể đạt được thấp hơn mức:",
-    "options": {
-      "A": "0,01%",
-      "B": "0, 02%",
-      "C": "0, 03%",
-      "D": "0,04%"
-    },
-    "answer": "A",
-    "id": 125
-  },
-  {
-    "question": "Trong phương pháp phân tích dựa vào lượng mẫu, phân tích ở mức ppm (cỡ µg ~ 10-9) gọi là::",
-    "options": {
-      "A": "Phân tích vết",
-      "B": "Phân tích thành phần chính",
-      "C": "Phân tích tạp chất",
-      "D": "Phân tích thành phần thứ yếu"
-    },
-    "answer": "A",
-    "id": 126
-  },
-  {
-    "question": "Trong phương pháp phân tích dựa vào lượng mẫu, phân tích ở mức ppm cỡ µg ~ 10-6 gọi là:",
-    "options": {
-      "A": "Phân tích siêu vết",
-      "B": "Phân tích thành phần chính",
-      "C": "Phân tích tạp chất",
-      "D": "Phân tích thành phần thứ yếu"
-    },
-    "answer": "A",
-    "id": 127
-  },
-  {
-    "question": "Trong một quy trình phân tích bước 5 có tên là:",
-    "options": {
-      "A": "Xác định mục tiêu và nội dung phân tích",
-      "B": "Chọn phương pháp phân tích",
-      "C": "Lấy mẫu và bảo quản mẫu",
-      "D": "Thực hiện các phép đo"
-    },
-    "answer": "D",
-    "id": 128
-  },
-  {
-    "question": "Khái niệm về sự hấp thụ ánh sáng của dung dịch màu:",
-    "options": {
-      "A": "Dung dịch có màu là do bản thân dung dịch đã hấp thụ một phần quang phổ (một vùng phổ) của ánh sáng trắng, phần còn lại ló ra cho ta màu của dung dịch, chính là màu phụ của phần ánh sáng trắng đã bị hấp thụ (vùng quang phổ còn lại).",
-      "B": "Dung dịch có màu là do bản thân dung dịch đã hấp thụ một phần quang phổ (một vùng phổ) của ánh sáng màu, phần còn lại ló ra cho ta màu của dung dịch, chính là màu phụ của phần ánh sáng trắng đã bị hấp thụ (vùng quang phổ còn lại).",
-      "C": "Dung dịch có màu là do bản thân dung dịch đã hấp phụ một phần quang phổ (một vùng phổ) của ánh sáng trắng, phần còn lại ló ra cho ta màu của dung dịch, chính là màu phụ của phần ánh sáng trắng đã bị hấp thụ (vùng quang phổ còn lại).",
-      "D": "Dung dịch có màu là do bản thân dung dịch đã hấp phụ một phần quang phổ (một vùng phổ) của ánh sáng màu, phần còn lại ló ra cho ta màu của dung dịch, chính là màu phụ của phần ánh sáng trắng đã bị hấp thụ (vùng quang phổ còn lại)"
-    },
-    "answer": "A",
-    "id": 129
-  },
-  {
-    "question": "Khái niệm về độ truyền quang:",
-    "options": {
-      "A": "Là tỉ lệ giữa cường độ chùm sáng đơn sắc sau khi đi qua dung dịch I với cường độ chùm sáng đơn sắc chiếu vào I0",
-      "B": "Là tỉ lệ giữa cường độ chùm sáng đa sắc sau khi đi qua dung dịch I với cường độ chùm sáng đơn sắc chiếu vào I0",
-      "C": "Là tỉ lệ giữa cường độ chùm sáng đơn sắc trước khi đi qua dung dịch I với cường độ chùm sáng đơn sắc chiếu vào I0.",
-      "D": "Là tỉ lệ giữa cường độ chùm sáng đa sắc trước khi đi qua dung dịch I với cường độ chùm sáng đơn sắc chiếu vào I0"
-    },
-    "answer": "A",
-    "id": 130
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B12",
-    "options": {
-      "A": "278 ± 1nm",
-      "B": "279 ± 1nm",
-      "C": "280 ± 1nm",
-      "D": "281 ± 1nm"
-    },
-    "answer": "A",
-    "id": 131
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B12",
-    "options": {
-      "A": "361 ± 1nm",
-      "B": "362 ± 1nm",
-      "C": "363 ± 1nm",
-      "D": "361 ± 1nm"
-    },
-    "answer": "A",
-    "id": 132
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B12",
-    "options": {
-      "A": "550 ± 2nm",
-      "B": "551 ± 2nm",
-      "C": "552 ± 2nm.",
-      "D": "553 ± 2nm"
-    },
-    "answer": "A",
-    "id": 133
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B2",
-    "options": {
-      "A": "222 nm",
-      "B": "223 nm",
-      "C": "224 nm",
-      "D": "225nm"
-    },
-    "answer": "B",
-    "id": 134
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B2",
-    "options": {
-      "A": "266nm",
-      "B": "267nm",
-      "C": "268nm",
-      "D": "269nm"
-    },
-    "answer": "B",
-    "id": 135
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B2",
-    "options": {
-      "A": "374nm",
-      "B": "375 nm",
-      "C": "376 nm",
-      "D": "377 nm"
-    },
-    "answer": "B",
-    "id": 136
-  },
-  {
-    "question": "Một trong các cực đại hấp thụ của Vitamin B2",
-    "options": {
-      "A": "444 nm",
-      "B": "445 nm",
-      "C": "446 nm",
-      "D": "447 nm"
-    },
-    "answer": "A",
-    "id": 137
-  },
-  {
-    "question": "Một trong những bộ phận của thiết bị đo quang:",
-    "options": {
-      "A": "Nguồn bức xạ hấp thụ",
-      "B": "Nguồn bức xạ hấp phụ",
-      "C": "Nguồn bức xạ phân bố",
-      "D": "Nguồn bức xạ liên tục"
-    },
-    "answer": "D",
-    "id": 138
-  },
-  {
-    "question": "Một trong những bộ phận của thiết bị đo quang:",
-    "options": {
-      "A": "Bộ phận tạo tia đơn sắc",
-      "B": "Bộ phận tạo tia đa sắc",
-      "C": "Bộ phận tạo tia ánh sáng trắng",
-      "D": "Bộ phận tạo tia ánh sáng màu"
-    },
-    "answer": "A",
-    "id": 139
-  },
-  {
-    "question": "Thiết bị đo quang có mấy bộ phận cơ bản:",
-    "options": {
-      "A": "4",
-      "B": "5",
-      "C": "6",
-      "D": "7"
-    },
-    "answer": "B",
-    "id": 140
-  },
-  {
-    "question": "Tuỳ theo cấu tạo của các loại thiết bị mà người ta chia thiết bị đo quang thành mấy loại:",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
-    },
-    "answer": "A",
-    "id": 141
-  },
-  {
-    "question": "Tuỳ theo cấu tạo của các loại thiết bị mà người ta chia thiết bị đo quang thành:",
-    "options": {
-      "A": "Máy đo quang 1 chùm tia và 2 chùm tia",
-      "B": "Máy đo quang 2 chùm tia và 3 chùm tia",
-      "C": "Máy đo quang 3 chùm tia và 4 chùm tia",
-      "D": "Máy đo quang 4 chùm tia và 5 chùm tia"
-    },
-    "answer": "A",
-    "id": 142
-  },
-  {
-    "question": "Các máy đo quang làm việc trong vùng tử ngoại (UV) và khả kiến (VIS) từ:",
-    "options": {
-      "A": "190 nm đến 900nm",
-      "B": "190nm đến 300nm",
-      "C": "260nm đến 300nm",
-      "D": "190 nm đến 500nm"
-    },
-    "answer": "A",
-    "id": 143
-  },
-  {
-    "question": "Định lượng là ứng dụng chủ yếu và khá phổ biến của quang phổ UV-VIS được áp dụng trong",
-    "options": {
-      "A": "Kiểm nghiệm thuốc",
-      "B": "Sản xuất thuốc",
-      "C": "Nghiên cứu thuốc",
-      "D": "Bào chế thuốc"
-    },
-    "answer": "A",
-    "id": 144
-  },
-  {
-    "question": "Sắc ký là quá trình tách dựa trên sự phân bố liên tục các cấu tử chất phân tích trên:",
-    "options": {
-      "A": "hai pha",
-      "B": "ba pha",
-      "C": "bốn pha",
-      "D": "năm pha"
-    },
-    "answer": "A",
-    "id": 145
-  },
-  {
-    "question": "Dựa trên cơ chế tách, sắc ký gồm có mấy loại:",
-    "options": {
-      "A": "4",
-      "B": "5",
-      "C": "6",
-      "D": "7"
-    },
-    "answer": "A",
-    "id": 146
-  },
-  {
-    "question": "Thuốc thử nhóm của các cation nhóm I là :",
-    "options": {
-      "A": "HCl 2N",
-      "B": "H2SO4 2N.",
-      "C": "NaOH 2N",
-      "D": "NH4OH 2N"
-    },
-    "answer": "A",
-    "id": 147
-  },
-  {
-    "question": "Các cation nhóm I tác dụng với HCl 2N tạo ra các kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Xanh",
-      "C": "Đỏ",
-      "D": "Vàng"
-    },
-    "answer": "A",
-    "id": 148
-  },
-  {
-    "question": "Ion Ag+ tác dụng với Kali cromat ( K2CrO4) tạo kết tủa màu:",
-    "options": {
-      "A": "Đỏ thẫm",
-      "B": "Xanh lục",
-      "C": "Tím",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 149
-  },
-  {
-    "question": "Ion Ag+ tác dụng với Kali iodide ( KI ) tạo kết tủa màu:",
-    "options": {
-      "A": "Vàng nhạt",
-      "B": "Xanh lục",
-      "C": "Đỏ thẫm",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 150
-  },
-  {
-    "question": "Ion Pb2+ tác dụng với Kali cromat ( K2CrO4)  tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Vàng",
-      "C": "Tím",
-      "D": "Đỏ"
-    },
-    "answer": "A",
-    "id": 151
-  },
-  {
-    "question": "Ion Pb2+ tác dụng với Kali iodide ( KI ) tạo kết tủa màu:",
-    "options": {
-      "A": "Vàng",
-      "B": "Xanh lục",
-      "C": "Đỏ thẫm",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 152
-  },
-  {
-    "question": "Ion Hg22+ tác dụng với Kali cromat ( K2CrO4 ) tạo kết tủa màu:",
-    "options": {
-      "A": "Đỏ gạch",
-      "B": "Xanh da trời",
-      "C": "Da cam",
-      "D": "Vàng tươi"
-    },
-    "answer": "A",
-    "id": 153
-  },
-  {
-    "question": "Ion Hg22+ tác dụng với Kali iodide ( KI ) tạo kết tủa màu:",
-    "options": {
-      "A": "Xanh lục",
-      "B": "Trắng",
-      "C": "Đỏ thẫm",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 154
-  },
-  {
-    "question": "Ion Hg22+ tác dụng với Hydro sulfur ( H2S ) tạo kết tủa màu:",
-    "options": {
-      "A": "Đen",
-      "B": "Trắng",
-      "C": "Đỏ",
-      "D": "Vàng"
-    },
-    "answer": "A",
-    "id": 155
-  },
-  {
-    "question": "Thuốc thử nhóm của các cation nhóm II là:",
-    "options": {
-      "A": "H2SO4 2N",
-      "B": "HCl 2N",
-      "C": "HNO3 2N",
-      "D": "NaOH 2N"
-    },
-    "answer": "A",
-    "id": 156
-  },
-  {
-    "question": "Các cation nhóm II tác dụng với H2SO4 2N tạo ra các kết tủa màu:",
-    "options": {
-      "A": "Trắng",
+      "A": "Xanh",
       "B": "Đỏ",
-      "C": "Da cam",
-      "D": "Vàng"
+      "C": "Hồng",
+      "D": "Tím}"
     },
-    "answer": "A",
-    "id": 157
+    "answer": "D"
   },
   {
-    "question": "Ion Ba2+ tác dụng với Kali cromat ( K2CrO4 ) tạo kết tủa màu:",
+    "id": "hd-051",
+    "source_number": 51,
+    "card_number": 51,
+    "question": "Morphin thể hiện tính acid do nhóm chức sau quyết định:",
     "options": {
-      "A": "Vàng tươi",
-      "B": "Xanh da trời",
-      "C": "Đỏ thẫm",
-      "D": "Xanh lục"
+      "A": "N bậc 1",
+      "B": "-Cl-",
+      "C": "-OH alcol",
+      "D": "-OH phenol"
     },
-    "answer": "A",
-    "id": 158
+    "answer": "D"
   },
   {
-    "question": "Ion Ba2+ tác dụng với Natri carbonat ( Na2CO3 ) tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Xanh",
-      "C": "Đỏ",
-      "D": "Vàng"
-    },
-    "answer": "A",
-    "id": 159
-  },
-  {
-    "question": "Ion Ba2+ tác dụng với Amoni oxalate [ (NH4)2C2O4 ] tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Xanh da trời",
-      "C": "Đỏ thẫm",
-      "D": "Xanh lục"
-    },
-    "answer": "A",
-    "id": 160
-  },
-  {
-    "question": "Ion Ca2+ tác dụng với Natri carbonat ( Na2CO3 ) tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Vàng",
-      "C": "Da cam",
-      "D": "Tím"
-    },
-    "answer": "A",
-    "id": 161
-  },
-  {
-    "question": "Ion Ca2+ tác dụng với Dinatri hydrophosphat ( Na2HPO4 ) tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Đỏ",
-      "C": "Da cam",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 162
-  },
-  {
-    "question": "Thuốc thử nhóm của các cation nhóm III là:",
-    "options": {
-      "A": "NaOH 2N",
-      "B": "HCl 2N",
-      "C": "HNO3 2N",
-      "D": "NH4OH 2N"
-    },
-    "answer": "A",
-    "id": 163
-  },
-  {
-    "question": "Các cation nhóm III tác dụng với NaOH 2N tạo ra các kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Tím",
-      "C": "Xanh",
-      "D": "Hồng"
-    },
-    "answer": "A",
-    "id": 164
-  },
-  {
-    "question": "Ion Zn2+ tác dụng với Montequi: trong môi trường acid acetic tạo kết tủa màu:",
-    "options": {
-      "A": "Tím xim",
-      "B": "Đỏ thẫm",
-      "C": "Da cam",
-      "D": "Xanh nước biển"
-    },
-    "answer": "A",
-    "id": 165
-  },
-  {
-    "question": "Ion Zn2+ tác dụng với Natri carbonat tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Đỏ",
-      "C": "Vàng",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 166
-  },
-  {
-    "question": "Ion Zn2+ tác dụng với Natri hydro phosphat (Na2HPO4 ) kết tủa màu:",
-    "options": {
-      "A": "Keo trắng",
-      "B": "Vàng nhạt",
-      "C": "Da cam",
-      "D": "Xanh lục"
-    },
-    "answer": "A",
-    "id": 167
-  },
-  {
-    "question": "Ion Al3+ tác dụng với Aluminon ( acid aurin tricarboxylic ) kết tủa màu:",
-    "options": {
-      "A": "Hồng",
-      "B": "Vàng",
-      "C": "Đỏ",
-      "D": "Tím"
-    },
-    "answer": "A",
-    "id": 168
-  },
-  {
-    "question": "Ion Al3+ tác dụng với hỗn hợp amoni hydroxyd + amoni clorid kết tủa màu:",
-    "options": {
-      "A": "Keo trắng",
-      "B": "Vàng nhạt",
-      "C": "Đỏ thẫm",
-      "D": "Tím xim"
-    },
-    "answer": "A",
-    "id": 169
-  },
-  {
-    "question": "Thuốc thử nhóm của các cation nhóm IV là:",
-    "options": {
-      "A": "Amoni hydroxyd cho dư, với sự có mặt của nước oxy già và amoni clorid.",
-      "B": "Amoni hydroxyd cho dư, với sự có mặt của HCI 2N già và H2SO4 2N.",
-      "C": "Amoni hydroxyd cho dư, với sự có mặt của HNO3 2N và amoni clorid.",
-      "D": "Amoni hydroxyd cho dư, với sự có mặt của nước oxy già và NaOH 2N."
-    },
-    "answer": "A",
-    "id": 170
-  },
-  {
-    "question": "Ion Fe2+ tác dụng với Kali fericyanid  K3[Fe(CN)6]  kết tủa màu:",
-    "options": {
-      "A": "Xanh thẫm",
-      "B": "Vàng nhạt",
-      "C": "Đỏ thẫm",
-      "D": "Tím xim"
-    },
-    "answer": "A",
-    "id": 171
-  },
-  {
-    "question": "Ion Fe2+ tác dụng với Natri hydroxyd ( NaOH ) kết tủa màu:",
-    "options": {
-      "A": "Trắng xanh",
-      "B": "Tím hồng",
-      "C": "Xanh da trời",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 172
-  },
-  {
-    "question": "Ion Fe3+ tác dụng với Kali ferocyanid  K4[Fe(CN)6] kết tủa màu:",
-    "options": {
-      "A": "Xanh đậm",
-      "B": "Trắng xanh",
-      "C": "Vàng nhạt",
-      "D": "Đỏ thẫm"
-    },
-    "answer": "A",
-    "id": 173
-  },
-  {
-    "question": "Ion Fe3+ tác dụng với Kali sulfocyanid ( KSCN ) kết tủa màu:",
-    "options": {
-      "A": "Đỏ máu",
-      "B": "Đỏ nâu",
-      "C": "Vàng cam",
-      "D": "Tím hồng"
-    },
-    "answer": "A",
-    "id": 174
-  },
-  {
-    "question": "Ion Bi3+ tác dụng với Amoni sulfur hoặc hydrosulfur kết tủa màu:",
-    "options": {
-      "A": "Đen",
-      "B": "Trắng",
-      "C": "Vàng",
-      "D": "Đỏ"
-    },
-    "answer": "A",
-    "id": 175
-  },
-  {
-    "question": "Ion Bi3+ tác dụng với Kali iodide ( KI ) tạo kết tủa đen, tủa này tan khi cho dư KI, tạo ra dung dịch có màu:",
-    "options": {
-      "A": "Vàng da cam",
-      "B": "Xanh da trời",
-      "C": "Đỏ nâu",
-      "D": "Xanh nước biển"
-    },
-    "answer": "A",
-    "id": 176
-  },
-  {
-    "question": "Ion Cu2+ tác dụng với Kali ferocyanid  K4[Fe(CN)6] kết tủa màu:",
-    "options": {
-      "A": "Đỏ thẫm",
-      "B": "Trắng xanh",
-      "C": "Vàng nhạt",
-      "D": "Xanh đậm"
-    },
-    "answer": "A",
-    "id": 177
-  },
-  {
-    "question": "Ion Cu2+ tác dụng với Natri hydroxyd ( NaOH ) kết tủa màu:",
-    "options": {
-      "A": "Xanh lục",
-      "B": "Đỏ nâu",
-      "C": "Vàng cam",
-      "D": "Tím hồng"
-    },
-    "answer": "A",
-    "id": 178
-  },
-  {
-    "question": "Ion Hg2+ tác dụng với Kali iodid kết tủa màu:",
-    "options": {
-      "A": "Đỏ",
-      "B": "Trắng",
-      "C": "Vàng",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 179
-  },
-  {
-    "question": "Ion Hg2+ tác dụng với Natri hydroxyd ( NaOH ) kết tủa màu:",
-    "options": {
-      "A": "Vàng",
-      "B": "Đỏ nâu",
-      "C": "Trắng",
-      "D": "Tím hồng"
-    },
-    "answer": "A",
-    "id": 180
-  },
-  {
-    "question": "Thuốc thử nhóm của các cation nhóm VI là:",
-    "options": {
-      "A": "Không có",
-      "B": "H2SO4 2N.",
-      "C": "HNO3 2N",
-      "D": "NH4OH 2N"
-    },
-    "answer": "A",
-    "id": 181
-  },
-  {
-    "question": "Xác định cation nhóm VI theo trình tự:",
-    "options": {
-      "A": "NH4+, K+, Na+",
-      "B": "K+, NH4+, Na+",
-      "C": "Na+, NH4+, K+",
-      "D": "K+, Na+, NH4+"
-    },
-    "answer": "A",
-    "id": 182
-  },
-  {
-    "question": "Ion NH4+ tác dụng với thuốc thử Nessler kết tủa màu:",
-    "options": {
-      "A": "Đỏ nâu hoặc vàng nâu",
-      "B": "Trắng hoặc trắng nhạt",
-      "C": "Tím hoặc tím hồng",
-      "D": "Xanh hoặc xanh lơ"
-    },
-    "answer": "A",
-    "id": 183
-  },
-  {
-    "question": "Ion K+ tác dụng với Acid  percloric ( HClO4 ) kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Xanh",
-      "C": "Vàng",
-      "D": "Tím"
-    },
-    "answer": "A",
-    "id": 184
-  },
-  {
-    "question": "Ion K+ tác dụng với Acid tartric ( H2C4H4O6 ): trong dung dịch đệm cho kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Đỏ",
-      "C": "Đen",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 185
-  },
-  {
-    "question": "Ion K+ tác dụng với Acid picric ( C6H2(NO2)3OH ) kết tủa màu:",
-    "options": {
-      "A": "Vàng",
-      "B": "Trắng",
-      "C": "Đỏ",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 186
-  },
-  {
-    "question": "Ion Na+ tác dụng với thuốc thử Streng ( kẽm Uranyl acetat ) trong môi trường acid acetic cho kết tủa màu:",
-    "options": {
-      "A": "Vàng lá mạ",
-      "B": "Đỏ thẫm",
-      "C": "Xanh lá cây",
-      "D": "Da cam"
-    },
-    "answer": "A",
-    "id": 187
-  },
-  {
-    "question": "Các anion nhóm I tác dụng với Ba(NO3)2 cho kết quả:",
-    "options": {
-      "A": "Không kết tủa",
-      "B": "Kết tủa trắng",
-      "C": "Kết tủa vàng",
-      "D": "Kết tủa đen"
-    },
-    "answer": "A",
-    "id": 188
-  },
-  {
-    "question": "Ion Cl-  tác dụng với bạc nitrat (AgNO3)  kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Đen",
-      "C": "Vàng",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 189
-  },
-  {
-    "question": "Ion I- tác dụng với thủy ngân clorid ( HgCl2 ) kết tủa màu:",
-    "options": {
-      "A": "Đỏ",
-      "B": "Trắng",
-      "C": "Vàng",
-      "D": "Tím"
-    },
-    "answer": "A",
-    "id": 190
-  },
-  {
-    "question": "Ion S2- tác dụng với Pb2+ ( chì acetat ) kết tủa màu:",
-    "options": {
-      "A": "Đen",
-      "B": "Trắng",
-      "C": "Vàng",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 191
-  },
-  {
-    "question": "Ion I- tác dụng với Pb(CH3COO)2 ( chì acetat ) cho kết tủa màu:",
-    "options": {
-      "A": "Vàng tươi",
-      "B": "Đỏ nâu",
-      "C": "Trắng nhạt",
-      "D": "Tím hồng"
-    },
-    "answer": "A",
-    "id": 192
-  },
-  {
-    "question": "Ion PO43- tác dụng với amoni molybdat trong môi trường acid nitric tạo kết tủa màu:",
-    "options": {
-      "A": "Vàng",
-      "B": "Xanh",
-      "C": "Trắng",
-      "D": "Hồng"
-    },
-    "answer": "A",
-    "id": 193
-  },
-  {
-    "question": "Ion SO32- tác dụng với bariclorid (BaCl2) tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Đỏ",
-      "C": "Vàng",
-      "D": "Tím"
-    },
-    "answer": "A",
-    "id": 194
-  },
-  {
-    "question": "Ion SO42 tác dụng với BaCl2  tạo kết tủa màu:",
-    "options": {
-      "A": "Trắng",
-      "B": "Xanh",
-      "C": "Đỏ",
-      "D": "Đen"
-    },
-    "answer": "A",
-    "id": 195
-  },
-  {
-    "question": "Cl-  tác dụng với Pb2+ tạo kết tủa trắng, tủa tan trong nước nóng và kết tủa lại khi:",
-    "options": {
-      "A": "Làm lạnh",
-      "B": "Tăng áp xuất",
-      "C": "Thêm NH4OH",
-      "D": "Cho dư Pb2+"
-    },
-    "answer": "A",
-    "id": 196
-  },
-  {
-    "question": "Ion Br- bị nước clor oxy hóa thành brom. Brom hòa tan trong chloroform làm cho lớp chloroform có màu:",
-    "options": {
-      "A": "Vàng nâu",
-      "B": "Xanh trắng",
-      "C": "Tím hồng",
-      "D": "Xanh lá cây"
-    },
-    "answer": "A",
-    "id": 197
-  },
-  {
-    "question": "Ion I- tác dụng với Thủy ngân clorid ( HgCl2 ): tạo kết tủa đỏ , tủa này tan trong:",
-    "options": {
-      "A": "Dung dịch I- dư",
-      "B": "Dung dịch Cl- dư",
-      "C": "Dung dịch Br- dư",
-      "D": "Dung dịch NO3- dư"
-    },
-    "answer": "A",
-    "id": 198
-  },
-  {
-    "question": "Các ion Cl-, Br-, I-, S2- tác dụng với AgNO3 tạo ra kết tủa màu, các tủa này:",
-    "options": {
-      "A": "Không tan trong HNO3 2N",
-      "B": "Tan trong HNO3 2N",
-      "C": "Không tan trong H2SO4 2N",
-      "D": "Tan trong H2SO4 2N"
-    },
-    "answer": "A",
-    "id": 199
-  },
-  {
-    "question": "Trong môi trường acid sulfuric đặc, ion NO3- tác dụng với…………… tạo ra hợp chất màu xanh lơ:",
-    "options": {
-      "A": "Diphenylamine",
-      "B": "Griess A",
-      "C": "Griess B",
-      "D": "Clororform"
-    },
-    "answer": "A",
-    "id": 200
-  },
-  {
-    "question": "Dùng hydrogen mới sinh ( do Zn + H2SO4 2N ) để khử AsO33- , AsO43- thành hydroarsenid ( H3As ), khí này bay lên gặp giấy tẩm …….làm cho giấy có màu đen.:",
-    "options": {
-      "A": "AgNO3",
-      "B": "Ba(NO3)2",
-      "C": "CH3COOH",
-      "D": "HNO3"
-    },
-    "answer": "A",
-    "id": 201
-  },
-  {
-    "question": "Ion I- tác dụng với Thủy ngân clorid ( HgCl2 ) tạo kết tủa màu:",
-    "options": {
-      "A": "Đỏ",
-      "B": "Da cam",
-      "C": "Vàng",
-      "D": "Xanh"
-    },
-    "answer": "A",
-    "id": 202
-  },
-  {
-    "question": "Phương pháp bay hơi bằng nhiệt được sử dụng để xác định……….. của dược liệu, hoá chất và nước kết tinh.:",
-    "options": {
-      "A": "Độ ẩm",
-      "B": "Thành phần",
-      "C": "Nồng độ",
-      "D": "Hàm lượng"
-    },
-    "answer": "A",
-    "id": 203
-  },
-  {
-    "question": "Trong phân tích khối lượng gồm mấy thao tác chung:",
-    "options": {
-      "A": "6",
-      "B": "5",
-      "C": "7",
-      "D": "8"
-    },
-    "answer": "A",
-    "id": 204
-  },
-  {
-    "question": "Một trong những  yêu cầu của thuốc thử kết tủa trong phân tích khối lượng:",
-    "options": {
-      "A": "Tạo tủa ứng với các yêu cầu dạng tủa và dạng cân.",
-      "B": "Dễ tan trong nước.",
-      "C": "Có màu sắc đặc trưng.",
-      "D": "Dễ xác định điểm tương đương."
-    },
-    "answer": "A",
-    "id": 205
-  },
-  {
-    "question": "Hệ số chuyển F là …………giữa khối lượng mol phân tử của chất cần xác định (hoặc khối lượng mol nguyên tử) với khối lượng mol phân tử của tủa (sau khi nung):",
-    "options": {
-      "A": "Tỷ số",
-      "B": "Hiệu số",
-      "C": "Tổng số",
-      "D": "Phân số"
-    },
-    "answer": "A",
-    "id": 206
-  },
-  {
-    "question": "Một trong những  yêu cầu của thuốc thử kết tủa trong phân tích khối lượng:",
-    "options": {
-      "A": "Có tính chọn lọc cao.",
-      "B": "Phản ứng phải xảy ra nhanh",
-      "C": "Phản ứng phải hoàn toàn",
-      "D": "Tạo tủa có màu sắc rõ rệt"
-    },
-    "answer": "A",
-    "id": 207
-  },
-  {
-    "question": "Thuốc thử kết tủa trong phân tích khối lượng cần đáp ứng  yêu cầu sau :",
-    "options": {
-      "A": "Dễ loại khi lọc và rửa tủa.",
-      "B": "Tan trong dung môi hữu cơ",
-      "C": "Bền vững trong môi trường kiềm",
-      "D": "Có thành phần xác định khi tiếp xúc với không khí"
-    },
-    "answer": "A",
-    "id": 208
-  },
-  {
-    "question": "Một trong những yếu tố ảnh hưởng đến quá trình hòa tan mẫu trong phân tích khối lượng là :",
-    "options": {
-      "A": "Nhiệt độ.",
-      "B": "Nồng độ các chất tham gia phản ứng.",
-      "C": "Thời gian hòa tan",
-      "D": "Thành phần các chất"
-    },
-    "answer": "A",
-    "id": 209
-  },
-  {
-    "question": "Một trong những yếu tố ảnh hưởng đến quá trình hòa tan mẫu trong phân tích khối lượng là:",
-    "options": {
-      "A": "Áp suất.",
-      "B": "Nồng độ dung dịch",
-      "C": "Thể tích dung dịch",
-      "D": "Hàm lượng các chất"
-    },
-    "answer": "A",
-    "id": 210
-  },
-  {
-    "question": "Một trong những yếu tố ảnh hưởng đến quá trình hòa tan mẫu trong phân tích khối lượng là:",
-    "options": {
-      "A": "Bản chất của chất cần phân tích.",
-      "B": "Thành phần chất cần phân tích",
-      "C": "Độ tan của các chất trong dung môi",
-      "D": "Tốc độ của phản ứng"
-    },
-    "answer": "A",
-    "id": 211
-  },
-  {
-    "question": "Những phản ứng tạo thành kết tủa được dùng trong PP kết tủa phải thỏa mãn một trong những điều kiện sau :",
-    "options": {
-      "A": "Kết tủa phải rất ít tan.",
-      "B": "Kết tủa phải không tan",
-      "C": "Sự kết tủa phải diễn ra từ từ",
-      "D": "Kết tủa phải hoàn toàn"
-    },
-    "answer": "A",
-    "id": 212
-  },
-  {
-    "question": "Những phản ứng tạo thành kết tủa được dùng trong PP kết tủa phải thỏa mãn một trong những điều kiện sau:",
-    "options": {
-      "A": "Phải có khả năng xác định được điểm tương đương.",
-      "B": "Phải cho màu sắc rõ rệt",
-      "C": "Có thành phần xác định",
-      "D": "Phản ứng tạo tủa phải tương đối nhanh"
-    },
-    "answer": "A",
-    "id": 213
-  },
-  {
-    "question": "Phương pháp bay hơi dựa vào tính chất dễ bay hơi của chất cần xác định ta lấy mẫu xử lý bằng ..................   hay thuốc thử rồi xác định hàm lượng của nó bằng độ tăng khối lượng của bình hấp thụ hay sự giảm khối lượng của bình khi nung :",
-    "options": {
-      "A": "Nhiệt độ",
-      "B": "Hóa chất",
-      "C": "Áp xuất",
-      "D": "Dung môi"
-    },
-    "answer": "A",
-    "id": 214
-  },
-  {
-    "question": "Trước khi cân phải đưa vào ………….. 20 phút để đưa về nhiệt độ phòng.   :",
-    "options": {
-      "A": "Bình hút ẩm",
-      "B": "Bình định mức",
-      "C": "Tủ sấy",
-      "D": "Tủ lạnh"
-    },
-    "answer": "A",
-    "id": 215
-  },
-  {
-    "question": "Dung dịch phần trăm là dung dịch có ...................biểu thị bằng số gam chất tan có trong 100 gam dung dịch (kí hiệu là C%):",
-    "options": {
-      "A": "Nồng độ",
-      "B": "Hàm lượng",
-      "C": "Khối lượng",
-      "D": "Thể tích"
-    },
-    "answer": "A",
-    "id": 216
-  },
-  {
-    "question": "Dung dịch định lượng là dung dịch có nồng độ biểu thị bằng số ....................chất tan có trong 1000 ml dung dịch (kí hiệu CN):",
-    "options": {
-      "A": "Đương lượng gam",
-      "B": "Đương lượng",
-      "C": "Phân tử gam",
-      "D": "Mol phân tử"
-    },
-    "answer": "A",
-    "id": 217
-  },
-  {
-    "question": "Nồng độ đương lượng của dung dịch acid sulfuric 14,35% (d ~ 1,1) là:",
-    "options": {
-      "A": "3,22 N",
-      "B": "2,22 N",
-      "C": "4,22 N",
-      "D": "5,22 N"
-    },
-    "answer": "A",
-    "id": 218
-  },
-  {
-    "question": "Lượng natri hydroxyd nguyên chất cần lấy để pha 100ml dung dịch NaOH 0,1N là:",
-    "options": {
-      "A": "0,4g",
-      "B": "0,5g",
-      "C": "0,6g",
-      "D": "0,3g"
-    },
-    "answer": "A",
-    "id": 219
-  },
-  {
-    "question": "Phương pháp phân tích thể tích (PTTT) là một phương pháp định lượng hoá học dựa vào ...........................thuốc thử  dùng để phản ứng vừa đủ với một thể tích chính xác dung dịch chất cần xác định:",
-    "options": {
-      "A": "Thể tích",
-      "B": "Khối lượng",
-      "C": "Nồng độ",
-      "D": "Hàm lượng"
-    },
-    "answer": "A",
-    "id": 220
-  },
-  {
-    "question": "Phản ứng hóa học dùng trong phương pháp chuẩn độ cần thỏa mãn mấy yêu cầu:",
-    "options": {
-      "A": "4",
-      "B": "5",
-      "C": "3",
-      "D": "6"
-    },
-    "answer": "A",
-    "id": 221
-  },
-  {
-    "question": "Điểm tương đương trong phản ứng acid- base có pH là:",
-    "options": {
-      "A": "7",
-      "B": "8",
-      "C": "6",
-      "D": "9"
-    },
-    "answer": "A",
-    "id": 222
-  },
-  {
-    "question": "Có mấy kỹ thuật chuẩn độ trong trong phương pháp phân tích thể tích:",
-    "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "2"
-    },
-    "answer": "A",
-    "id": 223
-  },
-  {
-    "question": "Trong phép đo Iod, chỉ thị Hồ tinh bột 1% phải cho vào môi trường phản ứng khi  :",
-    "options": {
-      "A": "Trước khi bắt đầu định lượng",
-      "B": "Gần kết thúc định lượng",
-      "C": "Kết thúc định lượng",
-      "D": "Thời điểm bất kỳ không ảnh hưởng đến kết quả"
-    },
-    "answer": "B",
-    "id": 224
-  },
-  {
-    "question": "Định lượng Glucose dùng  dung dịch chuẩn độ :",
-    "options": {
-      "A": "NaOH 0,1N",
-      "B": "HCl 0,1N",
-      "C": "I2 0,1 N.",
-      "D": "AgNO3 0,1N"
-    },
-    "answer": "C",
-    "id": 225
-  },
-  {
-    "question": "Trong phương pháp định lượng bằng Kali permangannat, tại thời điểm tương đương dung dịch sẽ có màu:",
-    "options": {
-      "A": "Vàng nhạt",
-      "B": "Màu xanh",
-      "C": "Màu tím",
-      "D": "Màu hồng nhạt"
-    },
-    "answer": "D",
-    "id": 226
-  },
-  {
-    "question": "Trong phép định lượng bằng Kali permangannat, chất chỉ thị được sử dụng là:",
-    "options": {
-      "A": "Không cần thêm chất chỉ thị",
-      "B": "Phenolphatlein",
-      "C": "Metyl da cam",
-      "D": "Quỳ tím"
-    },
-    "answer": "A",
-    "id": 227
-  },
-  {
-    "question": "Một trong những phép định lượng thuộc phương pháp định lượng oxy hóa khử:",
-    "options": {
-      "A": "Định lượng bằng Kali permanganat",
-      "B": "Định lượng bằng Bạc",
-      "C": "Định lượng bằng HCl",
-      "D": "Định lượng bằng NaOH"
-    },
-    "answer": "A",
-    "id": 228
-  },
-  {
-    "question": "Một trong những phép định lượng thuộc phương pháp định lượng oxy hóa khử:",
-    "options": {
-      "A": "Định lượng bằng Iod",
-      "B": "Định lượng bằng Kẽm sunfat",
-      "C": "Định lượng bằng HCl",
-      "D": "Định lượng bằng Natri carbonat"
-    },
-    "answer": "A",
-    "id": 229
-  },
-  {
-    "question": "Phương pháp định lượng Kali permanganate là phương pháp định lượng:",
-    "options": {
-      "A": "Oxy hóa – khử",
-      "B": "acid – base",
-      "C": "Kết tủa",
-      "D": "Complexon"
-    },
-    "answer": "A",
-    "id": 230
-  },
-  {
-    "question": "Một trong những tính chất của tinh bột",
-    "options": {
-      "A": "Khử yếu",
-      "B": "Oxy hóa yếu",
-      "C": "Khử mạnh",
-      "D": "Oxy hóa mạnh"
-    },
-    "answer": "A",
-    "id": 231
-  },
-  {
-    "question": "Trong phương pháp định lượng bằng hydroperoxyd thì tại điểm tương đương dung dịch chuyển từ màu:",
-    "options": {
-      "A": "Màu tím sang màu hồng",
-      "B": "Không màu sang màu hồng nhạt",
-      "C": "Màu xanh sang không màu",
-      "D": "Màu đỏ sang không màu"
-    },
-    "answer": "B",
-    "id": 232
-  },
-  {
-    "question": "Phương pháp định lượng bằng iod là dựa trên nguyên tắc:",
-    "options": {
-      "A": "Oxy hóa – khử",
-      "B": "Acid – base",
-      "C": "Complexon",
-      "D": "Kết tủa"
-    },
-    "answer": "A",
-    "id": 233
-  },
-  {
-    "question": "Một trong những điều kiện để tiến hành phản ứng định lượng bằng iod:",
-    "options": {
-      "A": "PH > 9",
-      "B": "pH < 9",
-      "C": "pH 5-8",
-      "D": "pH >"
-    },
-    "answer": "C",
-    "id": 234
-  },
-  {
-    "question": "Khi định lượng bằng phương pháp iod, cho chỉ thị hồ tinh bột vào lúc dung dịch trong bình nón chuyển  sang màu:",
+    "id": "hd-052",
+    "source_number": 52,
+    "card_number": 52,
+    "question": "Dung dịch Aspirin trong nước làm giấy quỳ xanh chuyển sang:",
     "options": {
       "A": "Màu đỏ",
       "B": "Màu xanh",
-      "C": "Màu hồng",
-      "D": "Màu vàng nhạt"
+      "C": "Màu vàng",
+      "D": "Màu hồng"
     },
-    "answer": "D",
-    "id": 235
+    "answer": "A"
   },
   {
-    "question": "Trong phản ứng định lượng bằng iod, thời gian để phản ứng giữa kali iodid và chất oxy hóa xảy ra là:",
-    "options": {
-      "A": "5 đến 10 phút",
-      "B": "10 đến 15 phút",
-      "C": "20 đến 30 phút",
-      "D": "35 đến 40 phút"
-    },
-    "answer": "B",
-    "id": 236
-  },
-  {
-    "question": "Trong phép định lượng dung dịch glucose 5% thì tại điểm tương đương dung dịch chuyển từ màu:",
-    "options": {
-      "A": "Màu xanh sang không màu",
-      "B": "Màu đỏ sang không màu",
-      "C": "Màu hồng sang không màu",
-      "D": "Màu tím sang không màu"
-    },
-    "answer": "A",
-    "id": 237
-  },
-  {
-    "question": "Chuẩn độ acid-base là phương pháp dựa trên phản ứng:",
-    "options": {
-      "A": "Trung hòa",
-      "B": "Oxi hóa- khử",
-      "C": "Tạo tủa",
-      "D": "Tạo phức"
-    },
-    "answer": "A",
-    "id": 238
-  },
-  {
-    "question": "Một trong những yêu cầu với chất chỉ thị acid- base:",
-    "options": {
-      "A": "Ở nồng độ nhỏ (10(5 -10(4 M) màu đã phải xuất hiện khá rõ",
-      "B": "Ở nồng độ nhỏ (10(6 -10(5 M) màu đã phải xuất hiện khá rõ",
-      "C": "Ở nồng độ nhỏ (10(4 -10(3 M) màu đã phải xuất hiện khá rõ",
-      "D": "Ở nồng độ nhỏ (10(3 -10(2 M) màu đã phải xuất hiện khá rõ"
-    },
-    "answer": "A",
-    "id": 239
-  },
-  {
-    "question": "Một trong những yêu cầu với chất chỉ thị acid- base:",
-    "options": {
-      "A": "Tan được trong nước hoặc trong cồn",
-      "B": "Tan được trong nước hoặc trong ete",
-      "C": "Tan được trong cồn hoặc trong cloroform",
-      "D": "Tan được trong cồn hoặc trong dung môi hữu cơ"
-    },
-    "answer": "A",
-    "id": 240
-  },
-  {
-    "question": "Khoảng đổi màu của Đỏ methyl là:",
-    "options": {
-      "A": "4,2- 6,2",
-      "B": "3,2- 5,2",
-      "C": "5,2- 7,2",
-      "D": "6,2- 8,2"
-    },
-    "answer": "A",
-    "id": 241
-  },
-  {
-    "question": "Khoảng đổi màu của da cam methyl là:",
-    "options": {
-      "A": "3,1- 4,4",
-      "B": "4,1-5,4",
-      "C": "4,4- 6,1",
-      "D": "5,1- 6,4"
-    },
-    "answer": "A",
-    "id": 242
-  },
-  {
-    "question": "Định lượng bằng dung dịch chuẩn độ acid hydro clorid (HCL) chọn chỉ thị là:",
-    "options": {
-      "A": "Metyl đỏ",
-      "B": "Metyl da cam",
-      "C": "Phenolphtalein",
-      "D": "Xanh bromophenol"
-    },
-    "answer": "A",
-    "id": 243
-  },
-  {
-    "question": "Định lượng bằng dung dịch chuẩn độ Natri hydrocid (NaOH) chọn chỉ thị là:",
+    "id": "hd-053",
+    "source_number": 53,
+    "card_number": 53,
+    "question": "Định lượng Hydrochlothiaxid bằng phương pháp đo kiềm trong môi trường khan, với chỉ thị:",
     "options": {
       "A": "Phenolphtalein",
-      "B": "Đỏ trung tính",
-      "C": "Đỏ phenol",
-      "D": "Vàng alizarin"
+      "B": "Tím azo",
+      "C": "Đo thể",
+      "D": "không đáp án"
     },
-    "answer": "A",
-    "id": 244
+    "answer": "C"
   },
   {
-    "question": "Dùng dung dịch Natri hydrocid (NaOH)  0,1N để chuẩn độ dung dịch CH3COOH, muốn tránh sai số lớn phải dùng chỉ thị pH là  :",
+    "id": "hd-054",
+    "source_number": 54,
+    "card_number": 54,
+    "question": "Hợp chất có thể kiểm nghiệm bằng cách đo phổ tử ngoại UV là do trong cấu tạo có:",
+    "options": {
+      "A": "Nhóm hydroxyl liên hợp",
+      "B": "Hệ dây nối đôi liên hợp",
+      "C": "Nhóm –OH phenolic",
+      "D": "Nhóm –OH ancol"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-055",
+    "source_number": 55,
+    "card_number": 55,
+    "question": "Hợp chất có thể kiểm nghiệm bằng cách đo góc quay cực riêng là do trong cấu tạo có:",
+    "options": {
+      "A": "Nhân thơm",
+      "B": "Nhóm –OH phenol",
+      "C": "Carbon bất đối",
+      "D": "Hệ dây nối đôi liên hợp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-056",
+    "source_number": 56,
+    "card_number": 56,
+    "question": "Phổ hồng ngoại IR có đặc điểm:",
+    "options": {
+      "A": "Dùng để kiểm tra độ tinh khiết của hợp chất",
+      "B": "Dùng để định tính",
+      "C": "Dùng để định lượng",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-057",
+    "source_number": 57,
+    "card_number": 57,
+    "question": "Phổ hồng ngoại IR có đặc điểm:",
+    "options": {
+      "A": "Có ở tất cả các hợp chất",
+      "B": "Dùng để định tính",
+      "C": "Không dùng để định lượng",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-058",
+    "source_number": 58,
+    "card_number": 58,
+    "question": "Phổ tử ngoại UV có đặc điểm:",
+    "options": {
+      "A": "Dùng để định tính",
+      "B": "Dùng để định lượng",
+      "C": "Không phải tất cả các hợp chất đều hấp thụ tia UV",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-059",
+    "source_number": 59,
+    "card_number": 59,
+    "question": "Phổ tử ngoại UV có đặc điểm:",
+    "options": {
+      "A": "Dùng để định tính",
+      "B": "Có ở tất cả các hợp chất",
+      "C": "Dùng để đo góc quay cực riêng",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-060",
+    "source_number": 60,
+    "card_number": 60,
+    "question": "Đặc điểm của các hợp chất có chứa Nito bậc 3 trong cấu tạo:",
+    "options": {
+      "A": "Hợp chất có tính lưỡng tính",
+      "B": "Phản ứng với các thuốc thử chung của alkaloid",
+      "C": "Tan tốt trong dung môi nước",
+      "D": "Phản ứng tạo muối diazoni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-061",
+    "source_number": 61,
+    "card_number": 61,
+    "question": "Đặc điểm của dược chất Lidocain hydroclorid dùng trong kiểm nghiệm:",
+    "options": {
+      "A": "Tan tốt trong nước",
+      "B": "Định tính và định lượng được bằng phần hydroclorid kết hợp",
+      "C": "Có chứa nhân thơm nên hấp thụ tia UV",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-062",
+    "source_number": 62,
+    "card_number": 62,
+    "question": "Đặc điểm của dược chất Procain hydroclorid dùng trong kiểm nghiệm:",
+    "options": {
+      "A": "Có chứa amin thơm bậc I nên có phản ứng tạo phẩm màu nito",
+      "B": "Có chứa nhân thơm nên hấp thụ tia IR",
+      "C": "Có chứa nito bậc III nên phản ứng tạo màu xanh tím với FeCl3",
+      "D": "Tất cả các ý trên đều đúng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-063",
+    "source_number": 63,
+    "card_number": 63,
+    "question": "Đặc điểm của dược chất Levodopa được dùng trong kiểm nghiệm:",
+    "options": {
+      "A": "Có nhân thơm nên đo góc quay cực riêng",
+      "B": "Có nhóm –OH phenolic nên có phản ứng tạo màu xanh tím với FeCl3",
+      "C": "Có chức acid amin nên có phản ứng với thuốc thử chung của alkaloid",
+      "D": "Có chức acid amin nên có phản ứng tạo phẩm màu nito"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-064",
+    "source_number": 64,
+    "card_number": 64,
+    "question": "176 độ C  là nhiệt độ nóng chảy của dược chất sau:",
+    "options": {
+      "A": "Diazepam",
+      "B": "Phenobarbital",
+      "C": "Procain",
+      "D": "Lidocain"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-065",
+    "source_number": 65,
+    "card_number": 65,
+    "question": "Trị số MCA của thuốc mê càng nhỏ thì:",
+    "options": {
+      "A": "Thuốc bay hơi càng nhanh",
+      "B": "Hiệu lực thuốc càng thấp",
+      "C": "Hiệu lực thuốc càng cao",
+      "D": "Hiệu lực thuốc không phụ thuộc vào MCA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-066",
+    "source_number": 66,
+    "card_number": 66,
+    "question": "Thuốc gây mê đường hô hấp gồm:",
+    "options": {
+      "A": "Các chất lỏng dễ bay hơi và khí hoá lỏng",
+      "B": "Các chất lỏng khó bay hơi và khí hóa lỏng",
+      "C": "Khí hóa lỏng",
+      "D": "Các chất lỏng dễ bay hơi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-067",
+    "source_number": 67,
+    "card_number": 67,
+    "question": "Tác dụng không mong muốn của Halothan:",
+    "options": {
+      "A": "Liêu thấp gây giãn tử cung, có thể gây chảy máu",
+      "B": "Liều cao gây co bàng quang, có thể gây chảy máu",
+      "C": "Liều cao gây giãn đồng tử, có thể gây chảy máu",
+      "D": "Liều cao gây giãn tử cung, có thể gây chảy máu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-068",
+    "source_number": 68,
+    "card_number": 68,
+    "question": "Thuốc có sản phẩm chuyển hoá không hoạt tính:",
+    "options": {
+      "A": "Lorazepam, Oxazepam, Triazolam",
+      "B": "Clodiazepoxid, Diazepam, Temazepam",
+      "C": "Triazolam, Clodiazepoxid, Oxazepam",
+      "D": "Diazepam, Temazepam, Oxazepam"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-069",
+    "source_number": 69,
+    "card_number": 69,
+    "question": "Thuốc có sản phẩm chuyển hoá còn hoạt tính:",
+    "options": {
+      "A": "Lorazepam, Oxazepam, Triazolam",
+      "B": "Clodiazepoxid, Diazepam, Loaepam",
+      "C": "Clorazepat, Clodiazepoxid, Diazepam",
+      "D": "Diazepam, Temazepam, Oxazepam"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-070",
+    "source_number": 70,
+    "card_number": 70,
+    "question": "Lidocain nóng chảy ở khoảng:",
+    "options": {
+      "A": "76 độ C",
+      "B": "66 độ C",
+      "C": "96 độ C",
+      "D": "86 độ C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-071",
+    "source_number": 71,
+    "card_number": 71,
+    "question": "Phenobarbital khó tan trong:",
+    "options": {
+      "A": "Dung dịch NaOH",
+      "B": "Nước",
+      "C": "Dung môi hữu cơ",
+      "D": "Ethanol"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-072",
+    "source_number": 72,
+    "card_number": 72,
+    "question": "Các thuốc gây tê đều có nhóm amin nên :",
+    "options": {
+      "A": "Có tính khử",
+      "B": "Có tính oxy hoá",
+      "C": "Có tính acid",
+      "D": "Có tính base"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-073",
+    "source_number": 73,
+    "card_number": 73,
+    "question": "Nhiệt độ nóng chảy của Diazepam là:",
+    "options": {
+      "A": "131-135 độ C",
+      "B": "95 -135 độ C",
+      "C": "100-105 độ C",
+      "D": "100 -135 độ C}"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-074",
+    "source_number": 74,
+    "card_number": 74,
+    "question": "(131 – 135 độ C) là nhiệt độ nóng chảy của dược chất nào :",
+    "options": {
+      "A": "Butobarbital",
+      "B": "Diazepam",
+      "C": "Phenobarbital",
+      "D": "Talbutal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-075",
+    "source_number": 75,
+    "card_number": 75,
+    "question": "Dược chất nào dưới đây là khí hóa lỏng:",
+    "options": {
+      "A": "Ether",
+      "B": "Cloroform",
+      "C": "Isofluran",
+      "D": "Nitrogen monoxid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-076",
+    "source_number": 76,
+    "card_number": 76,
+    "question": "Các chất sau có tác dụng gây tê bề mặt, ngoại trừ:",
+    "options": {
+      "A": "Benzocain",
+      "B": "Dyclonin hydroclorid",
+      "C": "Procain hydroclorid",
+      "D": "Pramonxin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-077",
+    "source_number": 77,
+    "card_number": 77,
+    "question": "Dạng muối mononatri của Phenobarbital được dùng làm:",
+    "options": {
+      "A": "Thuốc gây tê",
+      "B": "Thuốc mê",
+      "C": "Thuốc an thần, gây ngủ",
+      "D": "Thuốc tiền mê"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-078",
+    "source_number": 78,
+    "card_number": 78,
+    "question": "Các thuốc gẳy mê đường hô hẩp là:",
+    "options": {
+      "A": "Ether, Halothan, Enỉluran, Nitrogen monoxide",
+      "B": "Ether, Halothan, Cloprocain, Primacain",
+      "C": "Enfluran, Nitrogen monoxid, Benzocain",
+      "D": "Halothan, Cloprocain, Primacain, Tetracain"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-079",
+    "source_number": 79,
+    "card_number": 79,
+    "question": "Định lượng hàm lượng ion Na trong Thiopental Natri bằng dung dịch HCL 0.lM, chỉ thị là:",
     "options": {
       "A": "Phenolphtalein",
-      "B": "Methyl đỏ",
-      "C": "Methyl da cam",
-      "D": "Heliantin"
+      "B": "Đo điện thế",
+      "C": "Quỳ tím",
+      "D": "Đỏ Methyl"
     },
-    "answer": "A",
-    "id": 245
+    "answer": "D"
   },
   {
-    "question": "Định lượng Acid sulfuric (H2SO4) người ta dùng  :",
+    "id": "hd-080",
+    "source_number": 80,
+    "card_number": 80,
+    "question": "Định tính ion trong Thiopental Natri bằng đốt trên dây Pt chọ ngọn lửa:",
     "options": {
-      "A": "Na2S2O3 0,1N.",
-      "B": "NaOH 0,1N.",
-      "C": "Dung dịch I2 0,1 N.",
-      "D": "KMnO4 0,1N"
+      "A": "Không màu",
+      "B": "Màu xanh tím",
+      "C": "Màu đò",
+      "D": "Màu vàng"
     },
-    "answer": "B",
-    "id": 246
+    "answer": "D"
   },
   {
-    "question": "Khoảng chuyển màu của Phenolphtalein có pH là  :",
+    "id": "hd-081",
+    "source_number": 81,
+    "card_number": 81,
+    "question": "Định lượng Lidocain bằng dung dịch HClO4 0.1M trong dung môi acid acetickhan, với chỉ thị:",
     "options": {
-      "A": "8 – 10.",
-      "B": "3,1 – 4,1.",
-      "C": "4,2 – 6,2.",
-      "D": "3,4 – 3,8."
-    },
-    "answer": "A",
-    "id": 247
-  },
-  {
-    "question": "Chỉ thị có khoảng pH chuyển màu ở vùng pH base là  :",
-    "options": {
-      "A": "Heliantin",
-      "B": "Methyl đỏ",
-      "C": "Phenolphtalein",
-      "D": "Metyl đỏ cam"
-    },
-    "answer": "C",
-    "id": 248
-  },
-  {
-    "question": "Định lượng dung dịch Natricarbonat (Na2CO3) dùng dung dịch chuẩn độ là :",
-    "options": {
-      "A": "HCl 0,N",
-      "B": "NaOH 0,1N",
-      "C": "KMnO4 0,1N",
-      "D": "Na2S2O3 0,1N"
-    },
-    "answer": "A",
-    "id": 249
-  },
-  {
-    "question": "Phép chuẩn độ Morh tốt nhất trong môi trường  :",
-    "options": {
-      "A": "Acid mạnh, acid yếu",
-      "B": "Trung tính hoặc kiềm nhẹ (7≤pH≤10).",
-      "C": "Trung tính hoặc acid yếu",
-      "D": "Acid hoặc kiềm mạnh"
-    },
-    "answer": "B",
-    "id": 250
-  },
-  {
-    "question": "Định lượng Natri hydrocid (NaOH)  dùng dùng dung dịch chuẩn độ là :",
-    "options": {
-      "A": "Na2S2O3 0,1N.",
-      "B": "NaOH 0,1N.",
-      "C": "Dung dịch I2 0,1 N.",
-      "D": "HCl 0,1N."
-    },
-    "answer": "D",
-    "id": 251
-  },
-  {
-    "question": "Khoảng chuyển màu của Metyl đỏ là  :",
-    "options": {
-      "A": "pH ~ 8 – 10.",
-      "B": "pH ~ 3,1 – 4,1.",
-      "C": "pH ~ 4,2 – 6,2",
-      "D": "pH ~ 3,4 – 3,8."
-    },
-    "answer": "C",
-    "id": 252
-  },
-  {
-    "question": "Dùng DD Acid clohydric (HCl) 0,1N để định lượng DD Natricarbonat (Na2CO3) muốn tránh sai số lớn phải dung chỉ thị là:",
-    "options": {
-      "A": "Methyl đỏ",
-      "B": "Phenolphtalein",
-      "C": "Xanh bromophenol",
-      "D": "Đỏ phenol"
-    },
-    "answer": "A",
-    "id": 253
-  },
-  {
-    "question": "Chỉ thị có khoảng pH chuyển màu ở vùng pH acid là:",
-    "options": {
-      "A": "Đỏ methyl",
-      "B": "Thymolphtalein",
-      "C": "Thy mol xanh",
-      "D": "Vàng alizarin"
-    },
-    "answer": "A",
-    "id": 254
-  },
-  {
-    "question": "Chỉ thị có khoảng pH chuyển màu ở vùng pH acid mạnh là:",
-    "options": {
-      "A": "Tropeolin 00",
-      "B": "Xanh bromothymol",
-      "C": "Đỏ methyl",
-      "D": "Đỏ phenol"
-    },
-    "answer": "A",
-    "id": 255
-  },
-  {
-    "question": "Chỉ thị có khoảng pH chuyển màu ở vùng pH base mạnh là:",
-    "options": {
-      "A": "Vàng alizarin",
-      "B": "Đỏ trung tính",
-      "C": "Thy mol xanh",
-      "D": "Đỏ phenol"
-    },
-    "answer": "A",
-    "id": 256
-  },
-  {
-    "question": "ET là ký hiệu viết tắt của chỉ thị:",
-    "options": {
-      "A": "Metyl da cam",
-      "B": "Metyl đỏ",
-      "C": "Phenolphtalein",
-      "D": "Đen eriocrom T"
-    },
-    "answer": "D",
-    "id": 257
-  },
-  {
-    "question": "ET tạo phức màu đỏ chuẩn độ trực tiếp Mg2+, Zn2+, Cd2+,  thường dùng ET là chất chỉ thị trong dd đệm có pH là:",
-    "options": {
-      "A": "9",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": "B",
-    "id": 258
-  },
-  {
-    "question": "Trong chuẩn độ complexon có bước nhảy pM, cho nên cần có chỉ thị ion kim loại để phát hiện…:",
-    "options": {
-      "A": "Kết quả",
-      "B": "Bước nhảy",
-      "C": "Điểm tương đương",
-      "D": "Điểm kết thúc"
-    },
-    "answer": "C",
-    "id": 259
-  },
-  {
-    "question": "Trong phương pháp chuẩn độ … khi không có chỉ thị cho chuẩn độ trực tiếp, hoặc phản ứng của EDTA với ion kim loại diễn ra chậm, người ta dùng kỹ thuật chuẩn độ thừa trừ:",
-    "options": {
-      "A": "Oxy hóa khử",
-      "B": "Complexon",
-      "C": "Tạo phức",
-      "D": "Kết tủa"
-    },
-    "answer": "B",
-    "id": 260
-  },
-  {
-    "question": "Trong chuẩn độ Complexon, phương pháp bạc dựa trên nguyên tắc chuẩn độ:",
-    "options": {
-      "A": "Oxy hóa – khử",
-      "B": "Acid – base",
-      "C": "Tạo phức",
-      "D": "Kết tủa"
-    },
-    "answer": "C",
-    "id": 261
-  },
-  {
-    "question": "Một trong các chỉ thị kim loại hay dùng trong phương pháp comlexon",
-    "options": {
-      "A": "Đen eriocrom T",
+      "A": "Phenolphtalein",
       "B": "Quỳ tím",
-      "C": "Phenolphtalein",
-      "D": "Metyl da cam"
-    },
-    "answer": "A",
-    "id": 262
-  },
-  {
-    "question": "Phương pháp định lượng bằng đồng sulfat dựa trên nguyên tắc:",
-    "options": {
-      "A": "Acid – base",
-      "B": "Oxy hóa – khử",
-      "C": "Tạo phức",
-      "D": "Kết tủa"
-    },
-    "answer": "B",
-    "id": 263
-  },
-  {
-    "question": "Phương pháp định lượng bằng Bromat dựa trên nguyên tắc :",
-    "options": {
-      "A": "Acid – base",
-      "B": "Oxy hóa – khử",
-      "C": "Tạo phức",
-      "D": "Kết tủa"
-    },
-    "answer": "B",
-    "id": 264
-  },
-  {
-    "question": "Chỉ thị kim loại thường dùng trong phép chuẩn độ bằng complexon:",
-    "options": {
-      "A": "Acid đa chức",
-      "B": "Acid đơn chức",
-      "C": "Acid vô cơ",
-      "D": "Acid hữu cơ"
-    },
-    "answer": "A",
-    "id": 265
-  },
-  {
-    "question": "Phương pháp chuẩn độ complexon được ứng dụng trong:",
-    "options": {
-      "A": "Định lượng các acid",
-      "B": "Xác định ion kim loại",
-      "C": "Định lượng các base",
-      "D": "Định lượng các muối"
-    },
-    "answer": "B",
-    "id": 266
-  },
-  {
-    "question": "Complexon III còn có tên gọi khác là gì:",
-    "options": {
-      "A": "Trilon A",
-      "B": "Trilon B",
-      "C": "Trilon C",
-      "D": "Trilon D"
-    },
-    "answer": "B",
-    "id": 267
-  },
-  {
-    "question": "Trong Định lượng complexon 0,05M bằng dung dịch kẽm sulfat 0,05M dùng chất chỉ thị:",
-    "options": {
-      "A": "Đenericrom T",
-      "B": "Phenolphatalein",
       "C": "Methyl da cam",
-      "D": "Iod"
+      "D": "Đo điện thế"
     },
-    "answer": "A",
-    "id": 268
+    "answer": "D"
   },
   {
-    "question": "Trong phép Định lượng complexon 0,05M bằng dung dịch kẽm sulfat 0,05M, dung dịch chuyển từ màu",
+    "id": "hd-082",
+    "source_number": 82,
+    "card_number": 82,
+    "question": "Phản ứng thể hiện tính base của dung dịch Procain hydroclorid:",
     "options": {
-      "A": "Đỏ sang sáng xanh",
-      "B": "Đỏ sang không màu",
-      "C": "Đỏ sang vàng",
-      "D": "Đỏ sang xanh"
+      "A": "Kết tủa với AgNO3",
+      "B": "Cho kết tủa với các chất thử chung của alcaloid",
+      "C": "Làm mất màu tím của kali permanganat",
+      "D": "Tất cả các đáp án đều đúng"
     },
-    "answer": "A",
-    "id": 269
+    "answer": "B"
   },
   {
-    "question": "Đen Eriocrom  T được ký hiệu là:",
+    "id": "hd-083",
+    "source_number": 83,
+    "card_number": 83,
+    "question": "Lidocain hầu như không tan trong:",
     "options": {
-      "A": "ET",
-      "B": "AT",
-      "C": "BT",
-      "D": "DT"
+      "A": "Ether",
+      "B": "Ethanol",
+      "C": "Nước",
+      "D": "Cloroform"
     },
-    "answer": "A",
-    "id": 270
+    "answer": "A"
   },
   {
-    "question": "Đen Eriocrom T là acid gồm mấy nhóm chức:",
+    "id": "hd-084",
+    "source_number": 84,
+    "card_number": 84,
+    "question": "Dung dịch Procain hydroclorid trong nước làm mất màu tím của KMnO<sub>4</sub> thể hiện:",
+    "options": {
+      "A": "Tính kiềm",
+      "B": "Tính khử",
+      "C": "Tính oxy hóa",
+      "D": "Tính oxy hóa-khử"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-085",
+    "source_number": 85,
+    "card_number": 85,
+    "question": "Dung dịch Procain hydroclorid phản ửng với dung dịch iod cho kết tủa:",
+    "options": {
+      "A": "Màu đỏ nâu",
+      "B": "Màu vàng",
+      "C": "Màu đỏ gạch",
+      "D": "Màu nâu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-086",
+    "source_number": 86,
+    "card_number": 86,
+    "question": "Procain hydroclorid tạo muối diazoni vói HNO3 sau đó ngưng tụ với β-naphtol/NaOH tạo:",
+    "options": {
+      "A": "Phẩm màu nitơ (màu đỏ)",
+      "B": "Kết tinh trắng",
+      "C": "Kết tủa đỏ gạch",
+      "D": "Kết tủa màu vàng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-087",
+    "source_number": 87,
+    "card_number": 87,
+    "question": "Acid barbituric có tác dụng sinh học không đáng kể chỉ các dẫn chất thế ở vị trí... có tác dụng ức chế thần kinh trung ương :",
     "options": {
       "A": "3",
       "B": "4",
-      "C": "5",
-      "D": "6"
+      "C": "6",
+      "D": "5"
     },
-    "answer": "A",
-    "id": 271
+    "answer": "D"
   },
   {
-    "question": "Trong chuẩn độ complexon có bước nhảy pM, cho nên cần có chỉ thị … để phát hiện điểm tương đương:",
+    "id": "hd-088",
+    "source_number": 88,
+    "card_number": 88,
+    "question": "Theo đường đưa thuốc, thuốc gây mê được chia thành:",
     "options": {
-      "A": "Ion kim loại",
-      "B": "Ion phi kim",
-      "C": "Phenolphtalein",
-      "D": "Quỳ tím"
+      "A": "1 nhóm",
+      "B": "4 nhóm",
+      "C": "3 nhóm",
+      "D": "2 nhóm"
     },
-    "answer": "A",
-    "id": 272
+    "answer": "D"
   },
   {
-    "question": "Trong định lượng bằng coplexon, định lượng Mg2+, Zn2+ trong dung dịch đệm amoni dùng chỉ thị:",
+    "id": "hd-089",
+    "source_number": 89,
+    "card_number": 89,
+    "question": "Diazepam cho huỳnh quang màu ... khi hòa tan vào H2SO4 đậm đặc:",
     "options": {
-      "A": "Đen eriocrom T",
-      "B": "Methyl da cam",
-      "C": "Quỳ tím",
-      "D": "Phenolphtalein"
+      "A": "Nâu đỏ",
+      "B": "Đỏ máu",
+      "C": "Tím",
+      "D": "Xanh lục"
     },
-    "answer": "A",
-    "id": 273
+    "answer": "D"
   },
   {
-    "question": "Trong định lượng bằng coplexon, định lượng Mg2+ chuẩn độ tạo phức kết thúc khi màu chuyển hẳn từ màu:",
+    "id": "hd-090",
+    "source_number": 90,
+    "card_number": 90,
+    "question": "Dung dịch diazepam trong H2SO4 0,5% / methanol cho mấy cực đại hấp thụ:",
     "options": {
-      "A": "Màu đỏ sang màu xanh",
-      "B": "Màu xanh sang màu đỏ",
-      "C": "Màu hồng sang màu tím",
-      "D": "Màu tím sang màu trắng"
+      "A": "3",
+      "B": "5",
+      "C": "2",
+      "D": "4"
     },
-    "answer": "A",
-    "id": 274
+    "answer": "A"
   },
   {
-    "question": "Phương pháp định lượng định lượng complexon 0,05M bằng dung dịch kẽm sulfat 0,05M dựa trên nguyên tắc:",
-    "options": {
-      "A": "Phản ứng oxy hóa – khử",
-      "B": "Phản ứng acid - base",
-      "C": "Phản ứng tạo phức",
-      "D": "Phản ứng kết tủa"
-    },
-    "answer": "C",
-    "id": 275
-  },
-  {
-    "question": "Phép chuẩn độ Morh tốt nhất trong môi trường  :",
-    "options": {
-      "A": "Acid mạnh, acid yếu",
-      "B": "Trung tính hoặc kiềm nhẹ (7≤pH≤10).",
-      "C": "Trung tính hoặc acid yếu",
-      "D": "Acid hoặc kiềm mạnh"
-    },
-    "answer": "B",
-    "id": 276
-  },
-  {
-    "question": "Chỉ thị dùng trong phép chuẩn độ Fonharh là  :",
-    "options": {
-      "A": "Phèn sắt amoni",
-      "B": "Methyl da cam",
-      "C": "Phenolphtalein",
-      "D": "Kalicromat."
-    },
-    "answer": "A",
-    "id": 277
-  },
-  {
-    "question": "Phương pháp Fonharh tiến hành trong môi trường  :",
-    "options": {
-      "A": "HNO3.",
-      "B": "H2SO4.",
-      "C": "HCl",
-      "D": "NaOH"
-    },
-    "answer": "A",
-    "id": 278
-  },
-  {
-    "question": "Phương pháp Morh áp dụng kỹ thuật chuẩn độ :",
-    "options": {
-      "A": "Thẳng",
-      "B": "Thế",
-      "C": "Thừa trừ",
-      "D": "Ngược"
-    },
-    "answer": "A",
-    "id": 279
-  },
-  {
-    "question": "Phương pháp Fonhar áp dụng kỹ thuật chuẩn độ :",
-    "options": {
-      "A": "Thừa trừ",
-      "B": "Thế",
-      "C": "Thẳng",
-      "D": "Cả thẳng và thế"
-    },
-    "answer": "A",
-    "id": 280
-  },
-  {
-    "question": "Dược điển Việt nam quy định sử dụng dung dịch chuẩn độ .................để định lượng dung dịch các muối halogenid:",
-    "options": {
-      "A": "Bạc nitrat 0,1N",
-      "B": "Thủy ngân nitrat 0,1N",
-      "C": "Natri thiosulfat 0,1N",
-      "D": "Natri hydrocid 0,1N"
-    },
-    "answer": "A",
-    "id": 281
-  },
-  {
-    "question": "Phương pháp Mohr dùng để định lượng:",
-    "options": {
-      "A": "Cl- và Br-",
-      "B": "Cl- và I-",
-      "C": "Br- và I-",
-      "D": "Các muối của halogen"
-    },
-    "answer": "A",
-    "id": 282
-  },
-  {
-    "question": "Phương pháp Mohr không tiến hành trong môi trường acid vì:",
-    "options": {
-      "A": "Chỉ thị bị phá hủy",
-      "B": "Không tạo được tủa với bạc nitrat",
-      "C": "Phản ứng không hoàn toàn",
-      "D": "Gây sai số kết quả định lượng"
-    },
-    "answer": "A",
-    "id": 283
-  },
-  {
-    "question": "Phương pháp Mohr không tiến hành trong môi trường base mạnh (pH > 10) vì:",
-    "options": {
-      "A": "Tủa của Ag+ với OH-",
-      "B": "Mất màu chỉ thị",
-      "C": "Không xác định được điểm tương đương",
-      "D": "Tủa của Ag+ với CrO42-"
-    },
-    "answer": "A",
-    "id": 284
-  },
-  {
-    "question": "Chỉ thị dùng trong phương pháp Fonhar là:",
-    "options": {
-      "A": "Phèn sắt amoni",
-      "B": "Kali cromat",
-      "C": "Phenolftalein",
-      "D": "Vàng alizarin"
-    },
-    "answer": "A",
-    "id": 285
-  },
-  {
-    "question": "Tại điểm tương đương một giọt dung dịch Amoni sulfocyanid (NH4SCN) thừa làm cho dung dịch có màu......................:",
-    "options": {
-      "A": "Hồng nhạt",
-      "B": "Vàng nhạt",
-      "C": "Tím hồng",
-      "D": "Xanh lá mạ"
-    },
-    "answer": "A",
-    "id": 286
-  },
-  {
-    "question": "Phương pháp Fonharh tiến hành trong môi trường ...................thì kết quả định lượng sẽ chính xác hơn:",
-    "options": {
-      "A": "Acid nitric",
-      "B": "Acid formic",
-      "C": "Acid nitric",
-      "D": "Acid hydrocloric"
-    },
-    "answer": "A",
-    "id": 287
-  },
-  {
-    "question": "Chỉ thị dùng trong phương pháp Fonhar là:",
-    "options": {
-      "A": "Phèn sắt amoni",
-      "B": "Đỏ metyl",
-      "C": "Đỏ phenol",
-      "D": "Xanh thymol"
-    },
-    "answer": "A",
-    "id": 288
-  },
-  {
-    "question": "Dùng dung dịch Amoni sulfocyanid (NH4SCN) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "Bạc nitrat",
-      "B": "Natri hydrocid",
-      "C": "Kali sulfocyanid",
-      "D": "Natri cloric"
-    },
-    "answer": "A",
-    "id": 289
-  },
-  {
-    "question": "Dùng dung dịch Bạc nitrat (AgNO3) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "Natri clorid",
-      "B": "Natri carbonat",
-      "C": "Natri sulfat",
-      "D": "Natri nitrat"
-    },
-    "answer": "A",
-    "id": 290
-  },
-  {
-    "question": "Chất gốc phải thuộc loại phân tích hoặc tinh khiết hóa học, lượng tạp chất có mặt trong nó phải dưới:",
-    "options": {
-      "A": "0,1%",
-      "B": "0,01%",
-      "C": "0,2%",
-      "D": "0,02%"
-    },
-    "answer": "A",
-    "id": 291
-  },
-  {
-    "question": "Chất chỉ thị trong chuẩn độ acid-base là những chất có màu sắc thay đổi theo sự biến đổi ………của dung dịch, được gọi là chất chỉ thị acid – base hay chất chỉ thị pH:",
-    "options": {
-      "A": "pH",
-      "B": "Áp suất",
-      "C": "Nồng độ",
-      "D": "Nhiệt độ"
-    },
-    "answer": "A",
-    "id": 292
-  },
-  {
-    "question": "Dùng dung dịch Acid hydrocloric (HCL) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "KOH",
-      "B": "KNO3",
-      "C": "KSCN",
-      "D": "KCL"
-    },
-    "answer": "A",
-    "id": 293
-  },
-  {
-    "question": "Dùng dung dịch Acid hydrocloric (HCL) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "Na2CO3",
-      "B": "NaCL",
-      "C": "NaI",
-      "D": "NaBr"
-    },
-    "answer": "A",
-    "id": 294
-  },
-  {
-    "question": "Dùng dung dịch Bạc nitrat (AgNO3) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "Natri bromid",
-      "B": "Natri carbonat",
-      "C": "Natri sulfat",
-      "D": "Natri nitrat"
-    },
-    "answer": "A",
-    "id": 295
-  },
-  {
-    "question": "Dùng dung dịch Acid sulfuric )H2SO4) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "KOH",
-      "B": "KNO3",
-      "C": "KSCN",
-      "D": "KI"
-    },
-    "answer": "A",
-    "id": 296
-  },
-  {
-    "question": "Dùng dung dịch Acid sulfuric )H2SO4) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "Na2CO3",
-      "B": "H2C2O4.2H2O",
-      "C": "NaI",
-      "D": "NaBr"
-    },
-    "answer": "A",
-    "id": 297
-  },
-  {
-    "question": "Dùng dung dịch Kali hydrocid (KOH) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "H2SO4",
-      "B": "Na2SO4",
-      "C": "NaHCO3",
-      "D": "NaNO3"
-    },
-    "answer": "A",
-    "id": 298
-  },
-  {
-    "question": "Dùng dung dịch Kali hydrocid (KOH) 0,1N để định lượng dung dịch:",
-    "options": {
-      "A": "HCL",
-      "B": "NaOH",
-      "C": "Ca(OH)2",
-      "D": "Mg(OH)2"
-    },
-    "answer": "A",
-    "id": 299
-  },
-  {
-    "question": "Kí hiệu của đương lượng gam là:",
-    "options": {
-      "A": "E",
-      "B": "F",
-      "C": "M",
-      "D": "P"
-    },
-    "answer": "A",
-    "id": 300
-  },
-  {
-    "question": "Kí hiệu của nồng độ đương lượng là:",
-    "options": {
-      "A": "CN",
-      "B": "C%",
-      "C": "CM",
-      "D": "N"
-    },
-    "answer": "A",
-    "id": 301
-  },
-  {
-    "question": "Khi 2 dung dịch có nồng độ đương lượng  khác nhau mà ...............vừa đủ với nhau thì thể tích của chúng tỷ lệ nghịch với nồng độ:",
-    "options": {
-      "A": "Tác dụng",
-      "B": "Phản ứng",
-      "C": "Kết hợp",
-      "D": "Tác động"
-    },
-    "answer": "A",
-    "id": 302
-  },
-  {
-    "question": "Độ chuẩn của dung dịch (kí hiệu là T) được biểu thị bằng số gam chất tan có trong ..........dung dịch:",
-    "options": {
-      "A": "1ml",
-      "B": "10ml",
-      "C": "100ml",
-      "D": "1000ml"
-    },
-    "answer": "A",
-    "id": 303
-  },
-  {
-    "question": "Dung dịch đương lượng là dung dịch có nồng độ biểu thị bằng số đương lượng gam chất tan có trong .........dung dịch (kí hiệu CN):",
-    "options": {
-      "A": "1000ml",
-      "B": "10ml",
-      "C": "100ml",
-      "D": "1ml"
-    },
-    "answer": "A",
-    "id": 304
-  },
-  {
-    "question": "Dung dịch phần trăm là dung dịch có nồng độ biểu thị bằng số gam chất tan có trong ............................dung dịch (kí hiệu là C%):",
-    "options": {
-      "A": "100 gam",
-      "B": "10 gam",
-      "C": "1 gam",
-      "D": "1000 gam"
-    },
-    "answer": "A",
-    "id": 305
-  },
-  {
-    "question": "Dung dịch chuẩn độ không cần dùng chỉ thị là:",
-    "options": {
-      "A": "KMnO4",
-      "B": "H2SO4",
-      "C": "Na2S2O3",
-      "D": "AgNO3"
-    },
-    "answer": "A",
-    "id": 306
-  },
-  {
-    "question": "Chuẩn độ trung hòa là:",
-    "options": {
-      "A": "Dựa trên phản ứng giữa các acid và base.",
-      "B": "Dựa trên phản ứng tạo phức chất giữa chất cần định lượng với thuốc thử",
-      "C": "Dựa trên phản ứng cho nhận electron giữa một chất khử và một chất oxy hóa",
-      "D": "Dựa trên phản ứng tạo kết tủa giữa thuốc thử và chất cần định lượng"
-    },
-    "answer": "A",
-    "id": 307
-  },
-  {
-    "question": "Thy mol xanh (Nồng độ 0,05%, Dung môi nước) dạng acid có màu:",
+    "id": "hd-091",
+    "source_number": 91,
+    "card_number": 91,
+    "question": "Phenobarbital phản ứng với hỗn hợp formol H2SO4 đặc cho màu:",
     "options": {
       "A": "Vàng",
       "B": "Xanh",
-      "C": "Đỏ",
-      "D": "Hồng"
+      "C": "Không màu",
+      "D": "Đỏ"
     },
-    "answer": "A",
-    "id": 308
+    "answer": "D"
   },
   {
-    "question": "Đỏ trung tính (Nồng độ 0,1%, Dung môi cồn 60% ) dạng base có màu:",
+    "id": "hd-092",
+    "source_number": 92,
+    "card_number": 92,
+    "question": "Nitrazepam cho cực đại hấp thụ ở bước sóng:",
     "options": {
-      "A": "Vàng gạch",
-      "B": "Đỏ",
-      "C": "Vàng nhạt",
-      "D": "Xanh đậm"
+      "A": "288nm",
+      "B": "180nm",
+      "C": "330nm",
+      "D": "280nm"
     },
-    "answer": "A",
-    "id": 309
+    "answer": "D"
   },
   {
-    "question": "Đỏ methyl (Nồng độ 0,1 và 0,2%, Dung môi cồn 60%) dạng base có màu:",
+    "id": "hd-093",
+    "source_number": 93,
+    "card_number": 93,
+    "question": "Nitro hóa Phenobarbital bằng HNO3 cho:",
     "options": {
-      "A": "Vàng",
-      "B": "Xanh",
-      "C": "Đỏ",
-      "D": "Hồng"
+      "A": "Dẫn xuất nitro màu vàng",
+      "B": "Phẩm màu đỏ",
+      "C": "Dẫn xuất nitro màu đỏ",
+      "D": "Dẫn xuất amin màu vàng"
     },
-    "answer": "A",
-    "id": 310
+    "answer": "A"
   },
   {
-    "question": "Xanh bromophenol (Nồng độ 0,05%, Dung môi cồn 20%) dạng base có màu:",
+    "id": "hd-094",
+    "source_number": 94,
+    "card_number": 94,
+    "question": "Phenobarbital cho phản ứng Nito hoá bằng HNO3 thu được dẫn xuất Nitro màu:",
     "options": {
-      "A": "Nâu",
-      "B": "Đỏ",
-      "C": "Hồng",
-      "D": "Xanh"
+      "A": "Nâu đỏ",
+      "B": "Tim thẫm",
+      "C": "Xanh lục",
+      "D": "Vàng"
     },
-    "answer": "A",
-    "id": 311
+    "answer": "D"
   },
   {
-    "question": "Vàng alizarin (Nồng độ 0,1%, Dung môi nước)  dạng base có màu:",
+    "id": "hd-095",
+    "source_number": 95,
+    "card_number": 95,
+    "question": "Nitro hóa Phenobarbital bằng HNO3 cho:",
     "options": {
-      "A": "Tím",
-      "B": "Hồng",
-      "C": "Vàng",
-      "D": "Nâu"
+      "A": "Dẫn xuất amin màu vàng",
+      "B": "Dẫn xuất nitro màu vàng",
+      "C": "Phẩm màu đỏ",
+      "D": "Dẫn xuất nitro màu đỏ"
     },
-    "answer": "A",
-    "id": 312
+    "answer": "B"
   },
   {
-    "question": "Phenolphtalein (Nồng độ 0,1%, Dung môi cồn 90% ) dạng acid có màu:",
+    "id": "hd-096",
+    "source_number": 96,
+    "card_number": 96,
+    "question": "Lidocain nóng chảy ở nhiệt độ khoảng:",
     "options": {
-      "A": "Không màu",
-      "B": "Hồng",
-      "C": "Xanh lá cây",
-      "D": "Vàng nhạt"
+      "A": "70 độ C",
+      "B": "100 độ C",
+      "C": "76 độ C",
+      "D": "96 độ C"
     },
-    "answer": "A",
-    "id": 313
+    "answer": "C"
   },
   {
-    "question": "Thymolphtalein (Nồng độ 0,1%, Dung môi cồn 90%) dạng base có màu:",
+    "id": "hd-097",
+    "source_number": 97,
+    "card_number": 97,
+    "question": "Halothan là:",
+    "options": {
+      "A": "Chất lỏng nhẹ, không màu, không mùi, vị nóng",
+      "B": "Chất lỏng nặng, không màu, mùi đặc trưng, vị nóng",
+      "C": "Chất lỏng nặng, không màu, không mủi, không vị",
+      "D": "Chất lỏng nặng, màu vàng, mùi đặc trung, vị nóng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-098",
+    "source_number": 98,
+    "card_number": 98,
+    "question": "Các chất sau có tác dụng gây tê tiêm, ngoại trừ:",
+    "options": {
+      "A": "Prolicain hydrocloríd",
+      "B": "Mepivacain hydroclorid",
+      "C": "Cloroprocain hydroclorid",
+      "D": "Benzocain"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-099",
+    "source_number": 99,
+    "card_number": 99,
+    "question": "Thiopental natri là thuốc:",
+    "options": {
+      "A": "Gây mê đường hố hấp, tác dụng ngắn nhung thời gian tác dụng dài",
+      "B": "Gây mê đường hồ hẩp, tác dụng nhanh nhtmg thời gian tác dụng ngắn",
+      "C": "Gây mê đường tiêm, tác dụng nhanh nhưng thời gian tác dụng ngắn",
+      "D": "Gây mê đưòmg tiêm, tác dụng ngắn nhưng thời gian tác dụng dài"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-100",
+    "source_number": 100,
+    "card_number": 100,
+    "question": "Phenobarbital phản ứng với hỗn hợp formol/H2SO4đặc cho:",
+    "options": {
+      "A": "Màu đỏ gạch",
+      "B": "Màu vàng nhạt",
+      "C": "Màu đỏ",
+      "D": "Màu xanh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-101",
+    "source_number": 101,
+    "card_number": 101,
+    "question": "Các thuốc gây mê đường hô hấp sau đều không gây cháy, ngoại trừ:",
+    "options": {
+      "A": "Ether",
+      "B": "Cloroform",
+      "C": "Enfluran",
+      "D": "Halothan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-102",
+    "source_number": 102,
+    "card_number": 102,
+    "question": "Diazepam dễ tan trong:",
+    "options": {
+      "A": "Dung môi hữu cơ",
+      "B": "Nước",
+      "C": "Cloroform",
+      "D": "Methanol"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-103",
+    "source_number": 103,
+    "card_number": 103,
+    "question": "Dung dịch Diazcpam trong H2SO4 đậm đặc với ánh sáng UV 365 nm, cho:",
+    "options": {
+      "A": "Huỳnh quang màu vàng lục",
+      "B": "Huỳnh quang màu xanh",
+      "C": "Huỳnh quang màu xanh lục-vàng",
+      "D": "Huỳnh quang màu xanh lục"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-104",
+    "source_number": 104,
+    "card_number": 104,
+    "question": "Định lượng Morphin hydroclorid bằng dung dịch HClO4 0,1N trong môi trường CH3COOH khan với chỉ thị:",
+    "options": {
+      "A": "Tím tinh thể",
+      "B": "Phenolphtalein",
+      "C": "Đỏ da cam",
+      "D": "Đo điện thế"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-105",
+    "source_number": 105,
+    "card_number": 105,
+    "question": "Acid acetyl salicylic phản ứng với thuốc thử sắt (III) clorid tạo:",
+    "options": {
+      "A": "Màu tím",
+      "B": "Màu nâu",
+      "C": "Màu đỏ nâu",
+      "D": "Không cho màu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-106",
+    "source_number": 106,
+    "card_number": 106,
+    "question": "Định lượng Ibuprofen bằng dung dịch NaOH với chỉ thị:",
+    "options": {
+      "A": "Đo điện thế",
+      "B": "Phenolphtalein",
+      "C": "Hồ tinh bột",
+      "D": "Tím tinh thể"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-107",
+    "source_number": 107,
+    "card_number": 107,
+    "question": "Định lượng Paracetamol bằng phương pháp đo phổ tử ngoại trong môi trường:",
+    "options": {
+      "A": "Kiềm",
+      "B": "Methanol hoặc kiềm",
+      "C": "Methanol",
+      "D": "Acid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-108",
+    "source_number": 108,
+    "card_number": 108,
+    "question": "Dung dịch morphin hydroclorid với thuốc thử Dragendroff cho:",
+    "options": {
+      "A": "tủa đỏ và dung dịch màu đỏ",
+      "B": "màu đỏ tía sau chuyển thành tím",
+      "C": "màu tím chuyển sang xanh",
+      "D": "tủa màu da cam"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-109",
+    "source_number": 109,
+    "card_number": 109,
+    "question": "Định lượng Diclofenac bằng acid percloric trong dung môi CH3 COOH  khan, với chỉ thị:",
+    "options": {
+      "A": "Đo thế",
+      "B": "Quỳ tím",
+      "C": "Hồ tinh bột",
+      "D": "Tím tinh thể"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-110",
+    "source_number": 110,
+    "card_number": 110,
+    "question": "Chế phẩm Diclofenac không tan trong:",
+    "options": {
+      "A": "Ethanol",
+      "B": "Methanol",
+      "C": "Ether",
+      "D": "Nước"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-111",
+    "source_number": 111,
+    "card_number": 111,
+    "question": "Morphin tan trong kiềm mạnh và cho màu... với dung dịch sắt III clorid:",
     "options": {
       "A": "Xanh",
-      "B": "Không màu",
-      "C": "Hồng nhạt",
-      "D": "Vàng nhạt"
+      "B": "Đỏ",
+      "C": "Hồng",
+      "D": "Tím"
     },
-    "answer": "A",
-    "id": 314
+    "answer": "D"
   },
   {
-    "question": "Acid hydrocloric (HCl) đặc thường có nồng độ từ:",
+    "id": "hd-112",
+    "source_number": 112,
+    "card_number": 112,
+    "question": "Morphin thể hiện tính acid do nhóm chức sau quyết định:",
     "options": {
-      "A": "35- 38%",
-      "B": "38- 42%",
-      "C": "33- 35%",
-      "D": "43- 46%"
+      "A": "N bậc 1",
+      "B": "-Cl-",
+      "C": "-OH alcol",
+      "D": "-OH phenol"
     },
-    "answer": "A",
-    "id": 315
+    "answer": "D"
   },
   {
-    "question": "Đương lượng gam của Acid hydrocloric (HCl)  là:",
+    "id": "hd-113",
+    "source_number": 113,
+    "card_number": 113,
+    "question": "Dung dịch Aspirin trong nước làm giấy quỳ xanh chuyển sang:",
     "options": {
-      "A": "36,5",
-      "B": "35,5",
-      "C": "35,6",
-      "D": "36,6"
+      "A": "Màu đỏ",
+      "B": "Màu xanh",
+      "C": "Màu vàng",
+      "D": "Màu hồng"
     },
-    "answer": "A",
-    "id": 316
+    "answer": "A"
   },
   {
-    "question": "Dùng dung dịch chuẩn độ nào không cần chất chỉ thị :",
+    "id": "hd-114",
+    "source_number": 114,
+    "card_number": 114,
+    "question": "Methadon hydroclorid phản ứng với dung dịch amoni thiocyanat trong môi trường HCl cho:",
     "options": {
-      "A": "KMnO4 0,1N",
-      "B": "NaOH 0,1N",
-      "C": "HCL 0,1N",
-      "D": "H2C2O4 0,1N"
+      "A": "Kết tủa nâu đỏ",
+      "B": "Kết tủa trắng",
+      "C": "Kết tủa màu đỏ",
+      "D": "Kết tủa hỉnh kim vàng nhạt"
     },
-    "answer": "A",
-    "id": 317
+    "answer": "B"
   },
   {
-    "question": "Phương pháp kết tủa dựa vào sự tạo thành chất kết tủa ít tan trong các phản ứng :",
+    "id": "hd-115",
+    "source_number": 115,
+    "card_number": 115,
+    "question": "Tên khoa học của methyl salicylat:",
     "options": {
-      "A": "Trao đổi",
-      "B": "Oxi hóa khử",
-      "C": "Acid- base",
-      "D": "Tạo phức"
+      "A": "2-trihydroxybenzoat methyl",
+      "B": "2-hydroxybenzoat methyl",
+      "C": "2-hydroxybenzoic methyl",
+      "D": "2-dihydroxyhenzoat methyl"
     },
-    "answer": "A",
-    "id": 318
+    "answer": "B"
   },
   {
-    "question": "Phương pháp bay hơi bằng nhiệt được sử dụng để xác định……….. của dược liệu, hoá chất và nước kết tinh.:",
+    "id": "hd-116",
+    "source_number": 116,
+    "card_number": 116,
+    "question": "Định lượng N-Acetyl cystein bằng dung dịch iod 0.05M, với chỉ thị:",
     "options": {
-      "A": "Độ ẩm",
-      "B": "Thành phần",
-      "C": "Nồng độ",
-      "D": "Hàm lượng"
+      "A": "Phenolphtalein",
+      "B": "Hồ tinh bột",
+      "C": "Methyl da cam",
+      "D": "Tím tinh thể"
     },
-    "answer": "A",
-    "id": 319
+    "answer": "B"
   },
   {
-    "question": "Chọn đáp án đúng nhất trong các phương án sau:",
+    "id": "hd-117",
+    "source_number": 117,
+    "card_number": 117,
+    "question": "Ibuprofen không tan trong:",
     "options": {
-      "A": "AgNO3 (dư) + Cl-   (   AgCl ↓+ NO3-",
-      "B": "AgNO3  + Cl-   (   AgCl + NO3-",
-      "C": "AgNO3 (dư) + Cl-   (   AgCl + NO3-",
-      "D": "AgNO3  + Cl-   (   AgCl↓ + NO3-"
+      "A": "ether",
+      "B": "nước",
+      "C": "methanol",
+      "D": "aceton"
     },
-    "answer": "C",
-    "id": 320
+    "answer": "B"
   },
   {
-    "question": "Phương pháp quang phổ hấp thụ phân tử hay còn gọi là:",
+    "id": "hd-118",
+    "source_number": 118,
+    "card_number": 118,
+    "question": "Định lượng Diclofenac bằng acid percloric trong dung môi CH3COOH khan, với chỉ thị:",
     "options": {
-      "A": "Phương pháp đo quang",
-      "B": "Phương pháp khối lượng",
-      "C": "Phương pháp đo thể tích",
-      "D": "Phương pháp sắc ký"
+      "A": "Đo thế",
+      "B": "Hổ tinh bột",
+      "C": "Tím tinh thể",
+      "D": "Đáp án khác"
     },
-    "answer": "A",
-    "id": 321
+    "answer": "A"
   },
   {
-    "question": "Tỉ lệ giữa cường độ chùm sáng đơn sắc sau khi đi qua dung dịch I với cường độ chùm sáng đơn sắc chiếu vào I0 gọi là:",
+    "id": "hd-119",
+    "source_number": 119,
+    "card_number": 119,
+    "question": "Tên khác của Paracetamnol:",
     "options": {
-      "A": "Độ truyền quang",
-      "B": "Mật độ quang",
-      "C": "Nồng độ dung dịch",
-      "D": "Hệ số hấp phụ phân tử"
+      "A": "Acetaminophenol",
+      "B": "Acetaminophen",
+      "C": "Acid benzoic",
+      "D": "Đáp án khác"
     },
-    "answer": "A",
-    "id": 322
+    "answer": "B"
   },
   {
-    "question": "Một trong những bộ phận của máy thiết bị đo quang:",
+    "id": "hd-120",
+    "source_number": 120,
+    "card_number": 120,
+    "question": "Đinh tính Ibuprofen bằng cách:",
     "options": {
-      "A": "Nguồn bức xạ",
-      "B": "Bộ phận tạo tia đa sắc",
-      "C": "Cuvet đựng dung dịch",
-      "D": "Detector"
+      "A": "Đo độ Chảy, đo phổ tử ngoại, phổ hồng ngoại, sắc ký lớp mỏng",
+      "B": "Đo phổ hồng ngoại",
+      "C": "Đo độ Chảy",
+      "D": "Sắc ký lớp mỏng"
     },
-    "answer": "C",
-    "id": 323
+    "answer": "A"
   },
   {
-    "question": "Thời gian lúc bắt đầu bơm mẫu vào đầu cột tới khi pic đạt giá trị cực đại gọi là:",
+    "id": "hd-121",
+    "source_number": 121,
+    "card_number": 121,
+    "question": "Các thuốc sau đều có tác dụng chống viêm, trừ:",
     "options": {
-      "A": "Thời gian chết",
-      "B": "Thời gian lưu",
-      "C": "Thời gian đo mẫu",
-      "D": "Thời gian thử mẫu"
+      "A": "Paracetamol",
+      "B": "Cochicin",
+      "C": "Ibuprofen",
+      "D": "Aspirin"
     },
-    "answer": "B",
-    "id": 324
+    "answer": "A"
   },
   {
-    "question": "Phương pháp phân tích khối lượng được phân loại thành:",
+    "id": "hd-122",
+    "source_number": 122,
+    "card_number": 122,
+    "question": "Định lượng Diclofenac natri bằng acid percloric trong dung môi là:",
     "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
+      "A": "Acid acetic khan",
+      "B": "Kiềm",
+      "C": "Methanol",
+      "D": "Methanol hoặc kiềm"
     },
-    "answer": "A",
-    "id": 325
+    "answer": "A"
   },
   {
-    "question": "Phương pháp bay hơi có mấy loại:",
+    "id": "hd-123",
+    "source_number": 123,
+    "card_number": 123,
+    "question": "Dung dịch Diclofenac trong  methanol, thêm acid nitric đặc sẽ có:",
     "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
+      "A": "Màu đỏ",
+      "B": "Màu vàng nhạt",
+      "C": "Màu xanh lục",
+      "D": "Màu nâu đỏ"
     },
-    "answer": "A",
-    "id": 326
+    "answer": "D"
   },
   {
-    "question": "Trong phương pháp Morh để xác định điểm tương đương dùng chỉ thị là kali cromat. Tại thời điểm tương đương, khi dư một giọt dung dịch bạc nitrat, tủa màu trắng sẽ chuyển.....................  :",
+    "id": "hd-124",
+    "source_number": 124,
+    "card_number": 124,
+    "question": "Thuốc giảm đau loại opioid là các thuốc tác dụng trực tiếp và chọn lọc trên:",
     "options": {
-      "A": "Màu hồng nhạt.",
-      "B": "Màu xanh nhạt",
+      "A": "Thần kinh trung ương",
+      "B": "Thần kinh ngoại biên",
+      "C": "Thần kinh cột sống",
+      "D": "Thần kinh thực vật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-125",
+    "source_number": 125,
+    "card_number": 125,
+    "question": "Morphin hydroclorid không tan trong:",
+    "options": {
+      "A": "Dung dịch kiềm mạnh",
+      "B": "Glycerin",
+      "C": "Nưóc",
+      "D": "Ether"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-126",
+    "source_number": 126,
+    "card_number": 126,
+    "question": "Định lượng Methyl salicylat bằng dung dịch HCl 0,1N với chỉ thị:",
+    "options": {
+      "A": "Phenolphtalein",
+      "B": "Đo điện thế",
+      "C": "Quỳ tím",
+      "D": "Methyl da cam"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-127",
+    "source_number": 127,
+    "card_number": 127,
+    "question": "Tủa Acid salicylic có độ Chảy từ:",
+    "options": {
+      "A": "162 -165 độ C",
+      "B": "166- 168 độ C",
+      "C": "l56-162 độ C",
+      "D": "256-262 độ C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-128",
+    "source_number": 128,
+    "card_number": 128,
+    "question": "Morphin hydroclorid tác dụng với dung dịch FeCl3 cho:",
+    "options": {
+      "A": "Màu nâu",
+      "B": "Màu tím",
+      "C": "Màu đỏ",
+      "D": "Màu đỏ nâu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-129",
+    "source_number": 129,
+    "card_number": 129,
+    "question": "Định lượng morphin hydroclorid bằng dung dịch HCLO4 0.1N trong môi trường CH3COOH khan với chỉ thị:",
+    "options": {
+      "A": "Đỏ da cam",
+      "B": "Tím tinh thể",
+      "C": "Đo điện thế",
+      "D": "Phenolphtalein"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-130",
+    "source_number": 130,
+    "card_number": 130,
+    "question": "Dung dịch N-Acetyl cystein 5% cho màu tím đậm với hỗn hợp:",
+    "options": {
+      "A": "Dung dịch amoni hydroxyd",
+      "B": "Dung dịch amoniac",
+      "C": "Dung dịch Natri nitroprusiat",
+      "D": "Dung dịch Natri nitroprusiat và dung dịch amoniac đặc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-131",
+    "source_number": 131,
+    "card_number": 131,
+    "question": "Nhiệt độ nóng chảy của Paracetamol bằng:",
+    "options": {
+      "A": "100 độ C",
+      "B": "170 độ C",
+      "C": "250 độ C",
+      "D": "90 độ C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-132",
+    "source_number": 132,
+    "card_number": 132,
+    "question": "Morphin được định lượng bằng acid percloric 0,1 N trong môi trường acid acetic khan chỉ thị:",
+    "options": {
+      "A": "Phenophtalein",
+      "B": "Đỏ phenol",
+      "C": "Xanh methylen",
+      "D": "Tím tinh thể"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-133",
+    "source_number": 133,
+    "card_number": 133,
+    "question": "Naloxon hydroclorid có nhiệt độ nóng chảy là:",
+    "options": {
+      "A": "100-215 độ C",
+      "B": "100-l05 độ C",
+      "C": "200-205 độ C",
+      "D": "205-255 độ C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-134",
+    "source_number": 134,
+    "card_number": 134,
+    "question": "Methyl salicylat tác dụng với thuốc thử FeCl3  cho:",
+    "options": {
+      "A": "Dung dịch màu xanh tím",
+      "B": "Dung dịch màu tím",
+      "C": "Dung dịch màu đỏ",
+      "D": "Dung dịch màu tím xanh"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-135",
+    "source_number": 135,
+    "card_number": 135,
+    "question": "Morphin hydroclorid tác dụng với thuốc thử Marquis cho:",
+    "options": {
+      "A": "Màu tím sau chuyển thành tím",
+      "B": "Màu vàng chuyển sang xanh lục",
+      "C": "Màu đỏ tía sau chuyển thành tím",
+      "D": "Màu tím"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-136",
+    "source_number": 136,
+    "card_number": 136,
+    "question": "Định lượng Acid acetyl salicylic bằng dung dịch NaOH .0,1 N trong môi trường ethanol với chỉ thị:",
+    "options": {
+      "A": "Đo điện thế",
+      "B": "Phenolphtalein",
+      "C": "Hồ tinh bột",
+      "D": "Quỳ tím"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-137",
+    "source_number": 137,
+    "card_number": 137,
+    "question": "Acid acetyl salicylic phản ứng với thuốc thử sắt III tạo:",
+    "options": {
+      "A": "Không cho màu",
+      "B": "Màu đỏ nâu",
+      "C": "Màu nâu",
+      "D": "Màu tím"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-138",
+    "source_number": 138,
+    "card_number": 138,
+    "question": "Morphin hydroclorid tác dụng với thuốc thử Dragendoff cho:",
+    "options": {
+      "A": "Tủa kết tinh trắng",
+      "B": "Tủa màu da cam",
+      "C": "Tủa màu vàng nhạt",
+      "D": "Tủa màu xanh lục"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-139",
+    "source_number": 139,
+    "card_number": 139,
+    "question": "Định lượng Naloxon hyđroclorid bằng dung dịch NaOH 0,1N trong ethanol, với chỉ thị:",
+    "options": {
+      "A": "Methyl đỏ",
+      "B": "Quỳ tím",
+      "C": "Đo thế",
+      "D": "Tím tinh thề"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-140",
+    "source_number": 140,
+    "card_number": 140,
+    "question": "Dung dịch Paracetamol bão hòa trong nước có pH khoảng:",
+    "options": {
+      "A": "5,3-6,5",
+      "B": "5,0-9,5",
+      "C": "5,3-5,6",
+      "D": "4,3-4,6"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-141",
+    "source_number": 141,
+    "card_number": 141,
+    "question": "Nhiệt độ nỏng chảy của Paracetamol khoảng:",
+    "options": {
+      "A": "250 độ C",
+      "B": "l70 độ C",
+      "C": "90 độ C",
+      "D": "100 độ C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-142",
+    "source_number": 142,
+    "card_number": 142,
+    "question": "Methyl salicylat cho màu tím với thuốc thử sắt III clorid do nhóm chức sau quyết định:",
+    "options": {
+      "A": "Nhân thơm",
+      "B": "-COOH",
+      "C": "Ester",
+      "D": "-OH phenol"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-143",
+    "source_number": 143,
+    "card_number": 143,
+    "question": "Định lượng Paracetamol bằng phương pháp:",
+    "options": {
+      "A": "Acid-base",
+      "B": "Đo bạc",
+      "C": "Đo phổ IR",
+      "D": "Đo nito"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-144",
+    "source_number": 144,
+    "card_number": 144,
+    "question": "Paracetamol phản ứng với dung dịch muối sắt III cho:",
+    "options": {
+      "A": "Màu tím",
+      "B": "Màu xanh lục",
       "C": "Màu đỏ",
       "D": "Màu vàng"
     },
-    "answer": "A",
-    "id": 327
+    "answer": "A"
   },
   {
-    "question": "Định lượng Acid oxalic bằng dung dịch chuẩn độ  Natri Hydroxyd (NaOH) chọn chỉ thị là :",
+    "id": "hd-145",
+    "source_number": 145,
+    "card_number": 145,
+    "question": "Định tính Ibuprofen bằng cách:",
+    "options": {
+      "A": "Sắc ký lớp mỏng",
+      "B": "Đo  độ Chảy",
+      "C": "Đo phổ hỏng ngoại",
+      "D": "Đo độ Chảy, đo phổ tử ngoại, phổ hồng ngoại, sắc ký lớp mỏng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-146",
+    "source_number": 146,
+    "card_number": 146,
+    "question": "Định lượng Methyl salicylat bằng dung dịch HCl  0.1N với chỉ thị:",
+    "options": {
+      "A": "Methyl da cam",
+      "B": "Đo điện thế",
+      "C": "Phenolphtalein",
+      "D": "Quỳ tím"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-147",
+    "source_number": 147,
+    "card_number": 147,
+    "question": "Hoạt chất của thuốc phiện là:",
+    "options": {
+      "A": "morphin",
+      "B": "heroin",
+      "C": "oxycodon",
+      "D": "codein"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-148",
+    "source_number": 148,
+    "card_number": 148,
+    "question": "Dung dịch Diclofenac trong cồn cho phản ứng với sắt III clorid tạo:",
+    "options": {
+      "A": "Màu xanh và có tủa",
+      "B": "Màu vàng và có tủa",
+      "C": "Màu đỏ nâu",
+      "D": "Màu xanh và không có tủa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-149",
+    "source_number": 149,
+    "card_number": 149,
+    "question": "Tên khoa học của aspirin:",
+    "options": {
+      "A": "acid-2-acethoxy benzoat",
+      "B": "acid-2-acethoxy benzoic",
+      "C": "2-acethoxy benzoate",
+      "D": "acid -2-acethyl benzoic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-150",
+    "source_number": 150,
+    "card_number": 150,
+    "question": "Định lựọng Bromhexin hydroclorid bằng dung dịch NaOH 0.1M, xác định điểm kết thúc bằng:",
+    "options": {
+      "A": "Chỉ thi hổ tinh bột",
+      "B": "Tím tinh thể",
+      "C": "Phenolphtalein",
+      "D": "Đo điện thế"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-151",
+    "source_number": 151,
+    "card_number": 151,
+    "question": "Nhiệt độ nóng chảy của N-Acetylcystein là:",
+    "options": {
+      "A": "104- 110 độ C",
+      "B": "100 - 150 độ C",
+      "C": "104- 210 độ C",
+      "D": "94-210 độ C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-152",
+    "source_number": 152,
+    "card_number": 152,
+    "question": "Các dẫn chất của acid propionic trong nhóm giảm đau hạ sốt chống viêm gồm:",
+    "options": {
+      "A": "Diclofenac, Ibuprofen, Phenoprofen",
+      "B": "Ibuprofen, Naprofen, Paracetamol",
+      "C": "Diclofenac, Naproxen, Paracetamol",
+      "D": "Ibuprofen, naprofen, Phenoprofen"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-153",
+    "source_number": 153,
+    "card_number": 153,
+    "question": "Methadon hydroclorid phản ứng với dụng dịch amoni thiocyanat trong môi trườmg HCL cho:",
+    "options": {
+      "A": "kết tủa màu đỏ",
+      "B": "kết tủa trắng",
+      "C": "kết tủa hình kim vàng nhạt",
+      "D": "kết tủa nâu đỏ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-154",
+    "source_number": 154,
+    "card_number": 154,
+    "question": "Testosteron và các androgen khác có tác dụng tăng dưỡng da:",
+    "options": {
+      "A": "Tăng tổng hợp protid",
+      "B": "Tăng tổng hợp protid, giữ nitơ, giảm bài tiết vre theo nưóc tiếu, tăng cân",
+      "C": "Giữ nito",
+      "D": "Giữ Na+"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-155",
+    "source_number": 155,
+    "card_number": 155,
+    "question": "Trong môi trường kiềm Cafein không bền, dễ bị phân hủy thành chất:",
+    "options": {
+      "A": "Cafeidin",
+      "B": "Cafezidin",
+      "C": "Cefiđin",
+      "D": "Cafedin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-156",
+    "source_number": 156,
+    "card_number": 156,
+    "question": "Định lượng ion citrat trong ORS bằng phương pháp:",
+    "options": {
+      "A": "Đo acid trong môi trường nước",
+      "B": "Đo acid trong môi trường khan",
+      "C": "Đo iod",
+      "D": "Đo bạc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-157",
+    "source_number": 157,
+    "card_number": 157,
+    "question": "Cloroquin rất khó tan trong:",
+    "options": {
+      "A": "Cloroform",
+      "B": "Các acid loãng",
+      "C": "Ether",
+      "D": "Nưóc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-158",
+    "source_number": 158,
+    "card_number": 158,
+    "question": "Định lượng Cafein bằng phương pháp đo Iod, với chỉ thị:",
+    "options": {
+      "A": "Hồ tinh bột",
+      "B": "Phenolphtalein",
+      "C": "Đo thế",
+      "D": "Tím tinh thể"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-159",
+    "source_number": 159,
+    "card_number": 159,
+    "question": "Đun nóng Nikelamid với dung dịch NaOH thì sẽ bị thủy phân giải phóng ra:",
+    "options": {
+      "A": "Dimethylamin có mùi đặc biệt",
+      "B": "Amoniac có mùi đặc biệt",
+      "C": "Ethylamin có mùi đặc biệt",
+      "D": "Diethylamin có mùi đặc biệt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-160",
+    "source_number": 160,
+    "card_number": 160,
+    "question": "Hòa tan nhôm hydroxyd trong HCL loãng, them alizarin và amoniac tạo kết tủa:",
+    "options": {
+      "A": "Màu đỏ",
+      "B": "Màu đỏ, tan trong CH3COOH",
+      "C": "Màu đỏ, không tan trong CH3COOH",
+      "D": "Không màu, tan trong CH3COOH"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-161",
+    "source_number": 161,
+    "card_number": 161,
+    "question": "Định lượng nhôm hydroxyd bằng phương pháp đo complexon, với chỉ thị:",
+    "options": {
+      "A": "EDTA",
+      "B": "Tím azo",
+      "C": "Dithison",
+      "D": "Quỳ tím"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-162",
+    "source_number": 162,
+    "card_number": 162,
+    "question": "Nhiệt độ nóng chảy của Omeprazol ở khoảng:",
+    "options": {
+      "A": "105 độ C",
+      "B": "515 độ C C",
+      "C": "155 độ C",
+      "D": "215 độ C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-163",
+    "source_number": 163,
+    "card_number": 163,
+    "question": "Omeprazol nhanh chóng bị phân hủy trong môi trường:",
+    "options": {
+      "A": "Kiềm yếu",
+      "B": "Kiềm",
+      "C": "Acid",
+      "D": "Trung tính"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-164",
+    "source_number": 164,
+    "card_number": 164,
+    "question": "Omeprazol khá bền vững trong môi trường:",
+    "options": {
+      "A": "Kiềm",
+      "B": "Acid yếu",
+      "C": "Trung tính",
+      "D": "Acid"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-165",
+    "source_number": 165,
+    "card_number": 165,
+    "question": "Định lượng Hydrochlothiazid bằng phương pháp đo kiềm trong môi trường khan, với chỉ thị:",
     "options": {
       "A": "Phenolphtalein",
-      "B": "Metyl đỏ",
-      "C": "Metyl da cam",
-      "D": "Đỏ phenol"
+      "B": "Tím azo",
+      "C": "Đo thể",
+      "D": "Tím tinh thể"
     },
-    "answer": "A",
-    "id": 328
+    "answer": "C"
   },
   {
-    "question": "Định lượng Acid hydrocloric (HCl) bằng dung dịch chuẩn độ NaOH chọn chỉ thị là :",
+    "id": "hd-166",
+    "source_number": 166,
+    "card_number": 166,
+    "question": "Định lượng Magnesi sulfat bằng phương pháp đo complexon, chất chuẩn EDTA, dung dịch đệm amoniac pH bằng 10, với chỉ thị:",
+    "options": {
+      "A": "Dithison",
+      "B": "Đen eriocrom T",
+      "C": "Phenolphtalein",
+      "D": "Hồ tinh bột"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-167",
+    "source_number": 167,
+    "card_number": 167,
+    "question": "Công thức của Magnesulfat ngậm mấy phân từ nước:",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "7",
+      "D": "5"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-168",
+    "source_number": 168,
+    "card_number": 168,
+    "question": "Định lượng Cafein bằng phương pháp môi trường khan, chuẩn độ bằng dung dịch acid percloric 0,1N với chi thị:",
+    "options": {
+      "A": "Hồ tinh bột",
+      "B": "Methyldacam",
+      "C": "Phenolphtalein",
+      "D": "Tím tinh thể"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-169",
+    "source_number": 169,
+    "card_number": 169,
+    "question": "Nhiệt độ nóng chảy của Mannitol là:",
+    "options": {
+      "A": "135-168 3 C",
+      "B": "155-158 3C",
+      "C": "165-168  3C",
+      "D": "265-268  3 C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-170",
+    "source_number": 170,
+    "card_number": 170,
+    "question": "Mannitol dễ tan trong:",
+    "options": {
+      "A": "nước",
+      "B": "ethanol",
+      "C": "ether",
+      "D": "lipid"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-171",
+    "source_number": 171,
+    "card_number": 171,
+    "question": "Độ hấp thụ A (1 %, 1 cm) của Estradiol monobenzoat trong môi trường cồn, ờ bước sóng cực đại 231nm là:",
+    "options": {
+      "A": "501",
+      "B": "105",
+      "C": "600",
+      "D": "500"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-172",
+    "source_number": 172,
+    "card_number": 172,
+    "question": "Cafein trong phân tử không có hydrogen linh động nên là chất:",
+    "options": {
+      "A": "Base yếu",
+      "B": "Lưỡng tính",
+      "C": "Acid yếu",
+      "D": "Kiềm mạnh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-173",
+    "source_number": 173,
+    "card_number": 173,
+    "question": "Các corticosteroid có hấp thụ cực đại ở bước sóng là:",
+    "options": {
+      "A": "238 hoặc 241 nm",
+      "B": "328 nm",
+      "C": "214nm",
+      "D": "238 nm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-174",
+    "source_number": 174,
+    "card_number": 174,
+    "question": "Ethinylestradiol không tan trong:",
+    "options": {
+      "A": "nước",
+      "B": "alcol",
+      "C": "ether",
+      "D": "chloroform"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-175",
+    "source_number": 175,
+    "card_number": 175,
+    "question": "Các sulfonylure được chia làm … thế hệ:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-176",
+    "source_number": 176,
+    "card_number": 176,
+    "question": "Các tác dụng cơ bản ứng dụng trong điều trị của các glucocorticoid là:",
+    "options": {
+      "A": "Chổng dị ứng, tăng cân và ức chế miễn dịch",
+      "B": "Chống dị ứng và ức chế miễn dịch",
+      "C": "Chống viêm, chống dị ứng và ức chế miễn dịch",
+      "D": "Chống viêm, tăng tiết pepsin, giữ Na+"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-177",
+    "source_number": 177,
+    "card_number": 177,
+    "question": "Dụng dịch Cloroquin trong nước tác dụng với acid picric tạo sản phầm:",
+    "options": {
+      "A": "Kết tủa màu xanh nhạt",
+      "B": "Kết tủa màu vàng",
+      "C": "Kết túa mảu đỏ",
+      "D": "Kết tủa màu trắng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-178",
+    "source_number": 178,
+    "card_number": 178,
+    "question": "Estradiol monobenzoat phản ứng với thuốc thử sulfomolipdic cho sản phẩm là:",
+    "options": {
+      "A": "Màu hồng",
+      "B": "Huỳnh quang vàng ở dưới dèn UV 365nm",
+      "C": "Màu hồng và huỳnh quang vàng",
+      "D": "Màu xanh ánh dương, soi dưới đèn UV 365mn có huỳnh quang xanh"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-179",
+    "source_number": 179,
+    "card_number": 179,
+    "question": "Định lượng Cloroquin bằng phương pháp đo aciđ trong môi trường khan, dung môi acid acctic với chỉ thị:",
+    "options": {
+      "A": "Quỳ tím hoặc đo thế",
+      "B": "Dithison",
+      "C": "Đo thế hoặc tím tinh thể",
+      "D": "Phenolphtalein hoặc hồ tinh bột"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-180",
+    "source_number": 180,
+    "card_number": 180,
+    "question": "pH của dung dịch Niketamid 25% trong nước là:",
+    "options": {
+      "A": "4.0 đến 6,8",
+      "B": "3,0 đến 5.8",
+      "C": "5.0 đến 7,8",
+      "D": "6,0 đến 7.8"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-181",
+    "source_number": 181,
+    "card_number": 181,
+    "question": "Trong cơ thể, hormon chính là estradioi do buồng trứng sinh ra, chất này được chuyển hóa thành:",
+    "options": {
+      "A": "Estron",
+      "B": "Estriol",
+      "C": "Equilenin",
+      "D": "Estron, estriol và một số chất khác như equilin,equilenin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-182",
+    "source_number": 182,
+    "card_number": 182,
+    "question": "Estradiol mạnh hơn estron khoảng:",
+    "options": {
+      "A": "8 lần",
+      "B": "10 1ần",
+      "C": "18 lần",
+      "D": "5 lần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-183",
+    "source_number": 183,
+    "card_number": 183,
+    "question": "Định lượng glucose trong ORS bằng phương pháp đo iod với chỉ thị:",
+    "options": {
+      "A": "Hồ tinh bột",
+      "B": "Quỳ tím",
+      "C": "Methyl da cam",
+      "D": "Phenolphtalein"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-184",
+    "source_number": 184,
+    "card_number": 184,
+    "question": "Định lượng Furosemid bằng phương pháp đo kiềm trong môi trường khan, với chỉ thị:",
+    "options": {
+      "A": "Xanh bromothymol",
+      "B": "Hồ tinh bột",
+      "C": "Tím tinh thể",
+      "D": "Phenolphtalein"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-185",
+    "source_number": 185,
+    "card_number": 185,
+    "question": "Có thể định lượng Niketamid bằng dung dịch NaOH 0.1N, với chỉ thị:",
     "options": {
       "A": "Phenolphtalein",
-      "B": "Thymolphtalein",
-      "C": "Đỏ trung tính",
-      "D": "Xanh bromothymol"
+      "B": "Hồ tinh bột",
+      "C": "Tím tinh thể",
+      "D": "Đo thế"
     },
-    "answer": "A",
-    "id": 329
+    "answer": "D"
   },
   {
-    "question": "Dùng dung dịch chuẩn độ Natri hydrocid (NaOH) để định lượng dung dịch :",
+    "id": "hd-186",
+    "source_number": 186,
+    "card_number": 186,
+    "question": "Nhiệt độ nóng chảy của estradiol monobenzoat khoảng:",
     "options": {
-      "A": "Acid sulfuric",
-      "B": "Thuốc tím",
-      "C": "Iod",
-      "D": "Natri thiosulphat"
+      "A": "189- 198  độ C",
+      "B": "191- 198  độ C",
+      "C": "189- 191  độ C",
+      "D": "119-198  độ C"
     },
-    "answer": "A",
-    "id": 330
+    "answer": "B"
   },
   {
-    "question": "Dùng dung dịch chuẩn độ Natri hydrocid (NaOH)  để định lượng dung dịch :",
+    "id": "hd-187",
+    "source_number": 187,
+    "card_number": 187,
+    "question": "Thủy phân Hydvochlothiazid giải phỏng nhóm amin thơm tự do, nhận biết nhóm amin bằng:",
     "options": {
-      "A": "Acid hydrocloric",
-      "B": "Bạc nitrat",
-      "C": "Kali cromat",
-      "D": "Natri carbonat"
+      "A": "phản ứng tạo phẩm màu nito",
+      "B": "phản ứng tạo kết tủa trắng",
+      "C": "phản ứng tạo phẩm màu azo",
+      "D": "phản ứng tạo kết tủa nâu đỏ"
     },
-    "answer": "A",
-    "id": 331
+    "answer": "C"
   },
   {
-    "question": "Khối lượng đương lượng của Acid oxalic (H2C2O4.2H2O) là  :",
+    "id": "hd-188",
+    "source_number": 188,
+    "card_number": 188,
+    "question": "Ethinylestradiol có nhiệt độ nóng chảy là:",
     "options": {
-      "A": "63,035",
-      "B": "6,3035",
-      "C": "65,033",
-      "D": "63,503"
+      "A": "118-185  độ C",
+      "B": "18l- 185  độ C",
+      "C": "181-581  độ C",
+      "D": "158-185  độ C"
     },
-    "answer": "A",
-    "id": 332
+    "answer": "B"
   },
   {
-    "question": "Khối lượng của Acid oxalic (H2C2O4.2H2O) cần lấy để pha 100ml dung dịch H2C2O4.2H2O là:",
+    "id": "hd-189",
+    "source_number": 189,
+    "card_number": 189,
+    "question": "Propylthiourcil tan trong:",
     "options": {
-      "A": "6,3035g",
-      "B": "63,035g",
-      "C": "6,5033g",
-      "D": "65,303g"
+      "A": "Nước",
+      "B": "Ethanol",
+      "C": "Các dung dịch hydroxyd kiềm",
+      "D": "Ether"
     },
-    "answer": "A",
-    "id": 333
+    "answer": "C"
   },
   {
-    "question": "Khối lượng đương lượng của Natri carbonat (Na2CO3) là  :",
+    "id": "hd-190",
+    "source_number": 190,
+    "card_number": 190,
+    "question": "Progesteron có nhiệt độ nóng chảy là:",
     "options": {
-      "A": "52,997",
-      "B": "53,997",
-      "C": "59,977",
-      "D": "57,997"
+      "A": "126-131  độ C",
+      "B": "131- độ C",
+      "C": "l31-161  độ C",
+      "D": "l26-311  độ C"
     },
-    "answer": "A",
-    "id": 334
+    "answer": "A"
   },
   {
-    "question": "Khối lượng của Natri carbonat (Na2CO3) cần lấy để pha 1000ml dung dịch Na2CO3 0,1N là  :",
+    "id": "hd-191",
+    "source_number": 191,
+    "card_number": 191,
+    "question": "Đun dung dịch Testosteron propionat trong methanol với hydroxylamine hydroclorid, có mặt natri acetat tạo sản phẩm:",
     "options": {
-      "A": "5,2997g",
-      "B": "5,3997g",
-      "C": "5,9977g",
-      "D": "5,7997g"
+      "A": "Tủa oxim testosteron",
+      "B": "Tủa axim tcstostcron",
+      "C": "Tủa testosteron",
+      "D": "Tủa amin testcstcron"
     },
-    "answer": "A",
-    "id": 335
+    "answer": "A"
   },
   {
-    "question": "Dùng dung dịch acid Oxalic (H2C2O4) 0,1N để định lượng dung dịch :",
+    "id": "hd-192",
+    "source_number": 192,
+    "card_number": 192,
+    "question": "Định lượng Niketamid bằng dung dịch acid percloric 0.lN trong môi trường khan, với chi thị:",
     "options": {
-      "A": "NaOH",
-      "B": "HNO3",
-      "C": "HCL",
-      "D": "Thuốc tím"
+      "A": "Tím tinh thể",
+      "B": "Phenolphtalein",
+      "C": "Đo thế",
+      "D": "Quỳ tím"
     },
-    "answer": "A",
-    "id": 336
+    "answer": "C"
+  },
+  {
+    "id": "hd-193",
+    "source_number": 193,
+    "card_number": 193,
+    "question": "Hydrochlothiazid tác dụng với hydroperoxyd tạo:",
+    "options": {
+      "A": "Ion sulfat",
+      "B": "Ion sulfit",
+      "C": "Ion Na+",
+      "D": "Ion Ba2+"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-194",
+    "source_number": 194,
+    "card_number": 194,
+    "question": "Định lượng Natri levothyroxin bàng phương pháp:",
+    "options": {
+      "A": "Đo huỳnh quang",
+      "B": "Đo phổ hấp thụ tử ngoại trực tiếp",
+      "C": "Đo phổ IR",
+      "D": "Đo góc quay cực"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-195",
+    "source_number": 195,
+    "card_number": 195,
+    "question": "Dung dịch Cloroquin trong nước tác dụng với acid silicovolframic tạo sản phẩm:",
+    "options": {
+      "A": "Kết tủa màu vàng",
+      "B": "Kết tủa màu trắng",
+      "C": "Kết tủa màu đỏ gạch",
+      "D": "Kết tủa màu vàng sau đó chuyển sang xanh tím"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-196",
+    "source_number": 196,
+    "card_number": 196,
+    "question": "Định lượng Omeprazol bằng phương pháp đo kiềm, với chỉ thị:",
+    "options": {
+      "A": "Đo điện thế",
+      "B": "Phenolphtalein",
+      "C": "Hổ tinh bột",
+      "D": "Dithison"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-197",
+    "source_number": 197,
+    "card_number": 197,
+    "question": "Progesteron không tan trong:",
+    "options": {
+      "A": "Dầu",
+      "B": "Alcol",
+      "C": "Ether",
+      "D": "Nước"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-198",
+    "source_number": 198,
+    "card_number": 198,
+    "question": "Furosemid không tan trong:",
+    "options": {
+      "A": "Nước",
+      "B": "Methanol",
+      "C": "Ethanol",
+      "D": "Aceton"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-199",
+    "source_number": 199,
+    "card_number": 199,
+    "question": "Định lượng Metformin bằng phương pháp:",
+    "options": {
+      "A": "Đo acid",
+      "B": "Đo kiềm, đo acid trong môi trường khan",
+      "C": "Đo phổ IR",
+      "D": "Đo kiềm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-200",
+    "source_number": 200,
+    "card_number": 200,
+    "question": "Định lượng Metformin bằng phương pháp đo acid trong môi trường khan, với chỉ thị:",
+    "options": {
+      "A": "Dithison",
+      "B": "Quỳ tím",
+      "C": "Đo điện thế",
+      "D": "Phenolphtalein"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-201",
+    "source_number": 201,
+    "card_number": 201,
+    "question": "Cephalosporin thế hệ III là:",
+    "options": {
+      "A": "Cephalexin, Cefuroxim, Cefixim",
+      "B": "Ceftriaxon, Cefuroxim,cefaclor",
+      "C": "Cefotaxim, Ceftriaxon, Cefìxim",
+      "D": "Cephalexin, cefuroxim, cefaclor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-202",
+    "source_number": 202,
+    "card_number": 202,
+    "question": "Tetracyclin hydroclorid tan trong:",
+    "options": {
+      "A": "Dung dịch acid và kiềm loãng",
+      "B": "Cloroform",
+      "C": "Ethanol",
+      "D": "Aceton"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-203",
+    "source_number": 203,
+    "card_number": 203,
+    "question": "Penicillin G cho phản ứng amin phân, dùng hydroxylamin hydroclorid trong môi trường NaOH tạo sản phẩm:",
+    "options": {
+      "A": "Phức màu với H2SO4",
+      "B": "Phức màu với bằng CuSO4",
+      "C": "Phức màu với HCL",
+      "D": "Phức màu với FeC3"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-204",
+    "source_number": 204,
+    "card_number": 204,
+    "question": "Quinolon thế hệ II:",
+    "options": {
+      "A": "Đều có phân tử Iod trong phân tử nên còn được gọi là Fluoroquinoỉon",
+      "B": "Đều có phân tử Fluor trong phân tử nên còn được gọi là Fluoroquinolon",
+      "C": "Đều có phân tử Clor trong phân tử nên còn được gọi là Cloroquinolon",
+      "D": "Đểu có phân tử Brom trong phân tử nên còn được gọỉ là Fluoroquinolon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-205",
+    "source_number": 205,
+    "card_number": 205,
+    "question": "Các penicillin dạng muối với các base amin phân tử lớn rấtt khó tan trong nước được dùng với tác dụng kéo dài do:",
+    "options": {
+      "A": "Giải phóng từ từ Penicillin trong cơ thể",
+      "B": "Giải phóng Benzathin penicillin",
+      "C": "Giải phóng amin",
+      "D": "Giải phóng acid amin trong cơ thể"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-206",
+    "source_number": 206,
+    "card_number": 206,
+    "question": "Một phân tử Hg(NO3)2 tác dụng vừa đủ với mấy sản phẩm thủy phân của một phân tử Penicillin:",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-207",
+    "source_number": 207,
+    "card_number": 207,
+    "question": "Định lượng các dạng bào chế của penicillin bằng phương pháp đo iod, với chỉ thị:",
+    "options": {
+      "A": "Hồ tinh bột",
+      "B": "Phenolphtalein",
+      "C": "Tím tinh thể",
+      "D": "Đỏ methyl"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-208",
+    "source_number": 208,
+    "card_number": 208,
+    "question": "Penicillin dễ tan trong:",
+    "options": {
+      "A": "aceton",
+      "B": "nước",
+      "C": "ether",
+      "D": "cloroform"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-209",
+    "source_number": 209,
+    "card_number": 209,
+    "question": "Khánh sinh Macrolid  hấp thụ ánh sáng UV cường độ cao do trong công thức cấu tạo của kháng sinh này có:",
+    "options": {
+      "A": "vòng lacton có nhiều dây nối",
+      "B": "vòng lacton có 15 nguyên tử",
+      "C": "vòng lacton lớn",
+      "D": "dẫn chất oixm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-210",
+    "source_number": 210,
+    "card_number": 210,
+    "question": "Penicillin G cho phản ứng amin phân, dùng hydroxylamine hydroclorid trong môi trường NaOH tạo sản phẩm:",
+    "options": {
+      "A": "Phức màu với FeCl3",
+      "B": "Phức màu với HCl",
+      "C": "Phức  màu với CuSO4",
+      "D": "Phức màu với H2SO4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-211",
+    "source_number": 211,
+    "card_number": 211,
+    "question": "Định lượng ampicillin bằng phương pháp:",
+    "options": {
+      "A": "Đo nặng suất quay cực",
+      "B": "Đo quang",
+      "C": "Đo thủy ngân hoặc dùng HPLC",
+      "D": "Đo iod"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-212",
+    "source_number": 212,
+    "card_number": 212,
+    "question": "Định lượng penicillin bằng phép đo iod chỉ áp dụng đối với:",
+    "options": {
+      "A": "Dạng nguyên liệu",
+      "B": "Dạng bào chế",
+      "C": "Dạng viên nén",
+      "D": "Dung dịch tiêm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-213",
+    "source_number": 213,
+    "card_number": 213,
+    "question": "Định lượng các kháng sinh Cephalosporin bằng các phương pháp sau:",
+    "options": {
+      "A": "Đo iod, phương pháp trung hòa, đo quang phổ UV hoặc dùng HPLC",
+      "B": "Đo iod, đo thủy ngân",
+      "C": "Dùng TLC, phương pháp trung hòa",
+      "D": "Dùng HPLC, đo góc quay cực"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-214",
+    "source_number": 214,
+    "card_number": 214,
+    "question": "Cephalosporin thế hệ II nào duy nhất đạt nồng độ điều trị ở dịch não tuỷ:",
+    "options": {
+      "A": "Cefotetan",
+      "B": "Cefaclor",
+      "C": "Cefmetazol",
+      "D": "Cefuroxim"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-215",
+    "source_number": 215,
+    "card_number": 215,
+    "question": "Cephalexin tan trong dung dịch:",
+    "options": {
+      "A": "Kiềm loãng",
+      "B": "Nước",
+      "C": "Ethanol 96%",
+      "D": "Ether"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-216",
+    "source_number": 216,
+    "card_number": 216,
+    "question": "Cefuroxim phản ứng với thuốc thứ HCHO/H2SO4 cho sản phẩm:",
+    "options": {
+      "A": "Vàng nhạt, vàng thẫm",
+      "B": "Nâu nhạt, nâu đỏ",
+      "C": "Đỏ nâu, vàng nhạt",
+      "D": "Xanh lam, xanh lục"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-217",
+    "source_number": 217,
+    "card_number": 217,
+    "question": "Ạmpicillin phản ứng với thuốc thử HCHO/ H2SO4 cho sản phẩm:",
+    "options": {
+      "A": "Không màu, màu vàng sẫm",
+      "B": "Nâu nhạt, nâu đỏ",
+      "C": "Xanh lam, xanh lục",
+      "D": "Vàng nhạt, vàng thẫm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-218",
+    "source_number": 218,
+    "card_number": 218,
+    "question": "Cephalexin phản ứng với thuốc thử HCHO/ H2SO4 cho sản phẩm:",
+    "options": {
+      "A": "Vàng nhạt, vàng thẫm",
+      "B": "Không màu ,tím nhạt",
+      "C": "Không màu, màu vàng sẫm",
+      "D": "Nâu nhạt, nâu dò"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-219",
+    "source_number": 219,
+    "card_number": 219,
+    "question": "Dung dịch Cefuroxim phải trong suốt và có độ hấp thụ ở bước sóng 450nm là:",
+    "options": {
+      "A": "A<2,05",
+      "B": "A<0,25",
+      "C": "A<0,05",
+      "D": "A>0.25"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-220",
+    "source_number": 220,
+    "card_number": 220,
+    "question": "Định luợng Cefuroxim bằng phương pháp:",
+    "options": {
+      "A": "Dùng HPLC",
+      "B": "Đo góc quay cực riêng",
+      "C": "Dùng TLC",
+      "D": "Đo thủy ngân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-221",
+    "source_number": 221,
+    "card_number": 221,
+    "question": "Cefotaxim dễ tan trong:",
+    "options": {
+      "A": "Methanol",
+      "B": "Nước",
+      "C": "Ethanol",
+      "D": "Ether"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-222",
+    "source_number": 222,
+    "card_number": 222,
+    "question": "Cefixim dạng ngậm 3 phân tử nước có nhiệt độ nóng chảy khoảng:",
+    "options": {
+      "A": "120 độ C",
+      "B": "320  độ C",
+      "C": "240  độ C",
+      "D": "220  độ C"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-223",
+    "source_number": 223,
+    "card_number": 223,
+    "question": "Cefixim không tan trong:",
+    "options": {
+      "A": "Ethylacetat",
+      "B": "Alcol",
+      "C": "Methanol",
+      "D": "Nước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-224",
+    "source_number": 224,
+    "card_number": 224,
+    "question": "Ceftriaxon có nhiệt độ nóng chảy là:",
+    "options": {
+      "A": "255 độ C",
+      "B": "155 độ C",
+      "C": "515 độ C",
+      "D": "555 độ C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-225",
+    "source_number": 225,
+    "card_number": 225,
+    "question": "Phenoxy methyl penicillin còn có tên gọi khác là:",
+    "options": {
+      "A": "Penicilin M",
+      "B": "Penicilin G",
+      "C": "Penicilin V",
+      "D": "Ampicilin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-226",
+    "source_number": 226,
+    "card_number": 226,
+    "question": "Định lượng penicillin V bằng phương pháp:",
+    "options": {
+      "A": "Đo phổ IR",
+      "B": "Đo góc quay cực",
+      "C": "Đo thủy ngân",
+      "D": "Đo iod"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-227",
+    "source_number": 227,
+    "card_number": 227,
+    "question": "Hòa tan Tetracyclin hydroclorid vào H2SO4đậm đặc cho sản phẩm:",
+    "options": {
+      "A": "Màu xanh",
+      "B": "Màu nâu đỏ, chuyển sang vàng khi thêm nước",
+      "C": "Màu vàng sẫm",
+      "D": "Màu tím đỏ, chuyển sang vàng khi thêm nước"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-228",
+    "source_number": 228,
+    "card_number": 228,
+    "question": "Đặc điềm sau là của kháng sinh Penicillin nhóm I:",
+    "options": {
+      "A": "Gồm các Penicilin tự nhiên, phổ rộng, chủ yếu tác dụng trên vi khuẩn Gram (+)",
+      "B": "Gồm các Penicilin tự nhiên, phổ hẹp, không bị β-lactamase làm mất tác dụng",
+      "C": "Gồm các Penicilin tự nhiên, phổ hẹp, chủ yếu tác dụng trên vi khuẩn Gram(-)",
+      "D": "Gồm các Penicilin tự nhiên, phổ hẹp, chủ yếu tác dụng trên vi khuẩn Gram(+)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-229",
+    "source_number": 229,
+    "card_number": 229,
+    "question": "Penicilin G phản ứng với Formol/ H2SO4cho màu ... sau khi đun cách thuỷ:",
+    "options": {
+      "A": "Xanh",
+      "B": "Nâu ánh đỏ",
+      "C": "Nâu ánh vàng",
+      "D": "Vàng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-230",
+    "source_number": 230,
+    "card_number": 230,
+    "question": "Tác dụng kháng khuẩn của Benzathin benzyl penicillin bằng… lần so với tác dụng của Pepicillin G:",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-231",
+    "source_number": 231,
+    "card_number": 231,
+    "question": "Đặc điểm của Ampicillin:",
+    "options": {
+      "A": "Kháng acid (không bị dịch vị phá huỷ) và hấp thu được theo đường uống",
+      "B": "Kháng acid (không bị dịch vị phá huỷ) nhưng tốt nhất là dùng đường tiêm",
+      "C": "Bị dịch vị phá huỷ nên chỉ dùng đường tiêm",
+      "D": "Hấp thu hoàn toàn theo đường uống"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-232",
+    "source_number": 232,
+    "card_number": 232,
+    "question": "Nhóm kháng sinh nào sau đây có phổ kháng khuẩn đặc trưng trên các vi khuẩn Gram(-) :",
+    "options": {
+      "A": "Penicillin",
+      "B": "Tetracyclin",
+      "C": "Macrolid",
+      "D": "Aminosid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-233",
+    "source_number": 233,
+    "card_number": 233,
+    "question": "Ceftriaxon phản ứng với thuốc thử HCHO/ H2SO4cho sản phẩm:",
+    "options": {
+      "A": "Vàng nhạt, vàng thẫm",
+      "B": "Không màu và màu vàng nhạt",
+      "C": "Cho các màu vàng xanh và vàng",
+      "D": "Không màu đến đỏ nâu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-234",
+    "source_number": 234,
+    "card_number": 234,
+    "question": "Định lượng các kháng sinh Cephalosporin bằng các phương pháp sau:",
+    "options": {
+      "A": "Dùng HPLC, đo góc quay cực",
+      "B": "Đo iod, đo thủy ngân",
+      "C": "Dùng TLC, phương pháp trung hòa",
+      "D": "Phương pháp trung hòa, đo quang phồ UV hoặc dùng HPLC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-235",
+    "source_number": 235,
+    "card_number": 235,
+    "question": "Quinolon thế hệ II là:",
+    "options": {
+      "A": "Cinoxacin",
+      "B": "Acid nalidixic",
+      "C": "Flumequin",
+      "D": "Ciprofloxacin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-236",
+    "source_number": 236,
+    "card_number": 236,
+    "question": "Khi dùng liều cao kéo dài Cloromphenicol sẽ gây ra:",
+    "options": {
+      "A": "Vàng răng",
+      "B": "Suy tuỷ khó hồi phục",
+      "C": "Điếc không hồi phục",
+      "D": "Suy thận"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-237",
+    "source_number": 237,
+    "card_number": 237,
+    "question": "Định lượng penicillin G bằng phương pháp:",
+    "options": {
+      "A": "Đo bạc",
+      "B": "Đo iod",
+      "C": "Đo thủy ngân",
+      "D": "Đo phổ IR"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-238",
+    "source_number": 238,
+    "card_number": 238,
+    "question": "Ampicillin bền với acid, không bị dịch vị phá hủy nên:",
+    "options": {
+      "A": "dùng dạng thuốc đạn, hấp thụ qua trực tràng",
+      "B": "dùng dạng uống, hấp thu qua đường tiêu hóa",
+      "C": "dùng dạng tiêm tiêm tĩnh mạch",
+      "D": "dùng dạng tiêm bắp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-239",
+    "source_number": 239,
+    "card_number": 239,
+    "question": "Penicllin G ổn định ở pH:",
+    "options": {
+      "A": "5,5 - 6,0",
+      "B": "6,0 - 6,5",
+      "C": "3,5-5.5",
+      "D": "5,5-8,0"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-240",
+    "source_number": 240,
+    "card_number": 240,
+    "question": "Cefixim dạng khan có nhiệt độ nóng chảy là:",
+    "options": {
+      "A": "Trên 250 độ C",
+      "B": "Trên 200 độ C",
+      "C": "Trên 150 độ C",
+      "D": "Trên 105 độ C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-241",
+    "source_number": 241,
+    "card_number": 241,
+    "question": "Tính chất nào của Amoxicilin:",
+    "options": {
+      "A": "Dạng bột màu trắng, vị ngọt, khó tan trong nước, bị phân hủy nhanh ở độ ấm cao và nhiệt độ 37độ C",
+      "B": "Dạng bột màu trắng, vị đắng, tan tốt trong nước, bị phân hủy nhanh ở độ ẩm cao và nhiệt độ trên 37độ C",
+      "C": "Dạng bột màu trắng hồng, vị đắng, khó tan trong nước, bị phân hủy nhanh ở độ ẩm cao và nhiệt độ trên 27 độ C",
+      "D": "Dạng bột màu trắng, vị đắng, khó tan trong nước, bị phân hủy nhanh ở dộ ẩm cao và nhiệt độ trên 37 độ C"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-242",
+    "source_number": 242,
+    "card_number": 242,
+    "question": "Cephalosporin thế hệ II là:",
+    "options": {
+      "A": "Cettriaxon, Cefíxim, Cefaclor",
+      "B": "Cefuroxim, Cefaclor, Cefprozil",
+      "C": "Cefotaxim, Cefaclor, Cefprozil",
+      "D": "Cephalothin, Cephapirin, Cefuroxim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-243",
+    "source_number": 243,
+    "card_number": 243,
+    "question": "Hoạt lực kháng sinh của Gentamycin là:",
+    "options": {
+      "A": "59 UI/1mg chất thừ",
+      "B": "590 UI /l mg chất thử",
+      "C": "490 UI /l mg chất thứ",
+      "D": "509 UI /l mg chất thử"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-244",
+    "source_number": 244,
+    "card_number": 244,
+    "question": "Các dược chất sau có màu trắng, ngoại trừ:",
+    "options": {
+      "A": "Tetracyclin",
+      "B": "Cephalexin",
+      "C": "Cefuroxim",
+      "D": "Tobramycin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-245",
+    "source_number": 245,
+    "card_number": 245,
+    "question": "Ceftriaxon phản ứng với thuốc thử HCHO/ H2SO4 cho sản phẩm:",
+    "options": {
+      "A": "vàng nhạt, vàng thẫm",
+      "B": "không màu và màu vàng nhạt",
+      "C": "không màu đến đỏ nâu",
+      "D": "cho các màu vàng xanh và vàng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-246",
+    "source_number": 246,
+    "card_number": 246,
+    "question": "Bezathin benzyl Penicillin G rất ít tan trong nước (1g/5000ml) nên khi tiêm bắp sâu có tác dụng:",
+    "options": {
+      "A": "giải phóng chậm ra penicillin G, có tác dụng kéo dài",
+      "B": "giải phóng chậm ra penicillin , có tác dụng kéo dài",
+      "C": "giải phóng nhanh ra penicillin G, có tác dụng kéo dài",
+      "D": "giải phóng chậm ra penicillin V , có tác dụng kéo dài"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-247",
+    "source_number": 247,
+    "card_number": 247,
+    "question": "Thử tinh khiết dung dịch ampicillin 0.25% trong nước không có CO2 pH nằm trong khoảng:",
+    "options": {
+      "A": "3,5-5,5",
+      "B": "1,5-2,5",
+      "C": "6,5-8,5",
+      "D": "6,0-7,0"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-248",
+    "source_number": 248,
+    "card_number": 248,
+    "question": "Gentamycin có hoạt lực yếu với các chủng vi khuẩn:",
+    "options": {
+      "A": "Neisseria và liên cầu",
+      "B": "Staphylococcus aureus",
+      "C": "Ps.auruginosa",
+      "D": "Actinomyses"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-249",
+    "source_number": 249,
+    "card_number": 249,
+    "question": "Cephalexin tan trong dung dịch:",
+    "options": {
+      "A": "ether",
+      "B": "kiềm loãng",
+      "C": "ethanol 96%",
+      "D": "nước"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-250",
+    "source_number": 250,
+    "card_number": 250,
+    "question": "Tetracyclin hydroclorid tác dụng với thuốc thử Fe3:",
+    "options": {
+      "A": "màu vàng",
+      "B": "màu xanh",
+      "C": "màu tím đỏ",
+      "D": "màu nâu đỏ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-251",
+    "source_number": 251,
+    "card_number": 251,
+    "question": "Cefuroxim phản ứng với thuốc thử HCHO/ H2SO4sản phẩm:",
+    "options": {
+      "A": "đỏ nâu, vàng nhạt",
+      "B": "vàng nhạt, vàng thẫm",
+      "C": "xanh lục, xanh lục",
+      "D": "nâu nhạt, nâu đỏ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-252",
+    "source_number": 252,
+    "card_number": 252,
+    "question": "Ampicillin phản ứng với thuốc thử HCHO/ H2SO4 cho sản phẩm:",
+    "options": {
+      "A": "nâu nhạt, nâu đỏ",
+      "B": "vàng nhạt, vàng thẫm",
+      "C": "xanh lam, xanh lục",
+      "D": "không màu, màu vàng sẫm"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-253",
+    "source_number": 253,
+    "card_number": 253,
+    "question": "Penicillin G phản ứng với HCHO/ H2SO4 đun cách thủy cho sản phẩm có màu:",
+    "options": {
+      "A": "đỏ nâu",
+      "B": "nâu ánh đỏ",
+      "C": "xanh lam",
+      "D": "vàng nhạt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-254",
+    "source_number": 254,
+    "card_number": 254,
+    "question": "Cefotaxim dễ tan trong:",
+    "options": {
+      "A": "ethanol",
+      "B": "nước",
+      "C": "methanol",
+      "D": "ether"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-255",
+    "source_number": 255,
+    "card_number": 255,
+    "question": "Dung dịch Cefotaxim 10% phải trong và pH nằm trong khoảng:",
+    "options": {
+      "A": "4,6-5,6",
+      "B": "3,5-3,6",
+      "C": "2,5-2,6",
+      "D": "4,5-4,6"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-256",
+    "source_number": 256,
+    "card_number": 256,
+    "question": "Định lượng Cefotaxim bằng phương pháp:",
+    "options": {
+      "A": "đo phổ IR, đo iod",
+      "B": "đo thủy ngân, TLC",
+      "C": "đo phổ IR, HPLC",
+      "D": "dùng HPLC, đo UV"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-257",
+    "source_number": 257,
+    "card_number": 257,
+    "question": "Đặc điểm của Cephalosporin thế hệ III:",
+    "options": {
+      "A": "Tác dụng trên vi khuản Gram (+) mạnh hơn thế hệ I",
+      "B": "Tác dụng yếu trên vi khuẩn Gram (-) kỵ khí",
+      "C": "Kháng β-lactamase của vi khuẩn Gram (-) mạnh hơn thế hệ II",
+      "D": "Không thấm vào dịch não tủy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-258",
+    "source_number": 258,
+    "card_number": 258,
+    "question": "Ceftriaxon có nhiệt độ nóng chảy:",
+    "options": {
+      "A": "515độ C",
+      "B": "155độ C",
+      "C": "555độ C",
+      "D": "255độ C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-259",
+    "source_number": 259,
+    "card_number": 259,
+    "question": "Các kháng sinh aminosid tác dụng với ninhydrin tạo sản phẩm:",
+    "options": {
+      "A": "kết tủa đỏ",
+      "B": "kết tủa vàng nhạt",
+      "C": "phức màu tím",
+      "D": "phức màu vàng cam"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-260",
+    "source_number": 260,
+    "card_number": 260,
+    "question": "Chlorramphenicol không tan trong:",
+    "options": {
+      "A": "ether",
+      "B": "ethanol",
+      "C": "ethylacetat",
+      "D": "propylenglycon"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-261",
+    "source_number": 261,
+    "card_number": 261,
+    "question": "Kháng sinh macrolid có vòng lacton dễ bị mở vòng trong môi trường nào:",
+    "options": {
+      "A": "môi trường acid yếu",
+      "B": "môi trường kiềm mạnh",
+      "C": "môi trường pH kiềm hoặc acid",
+      "D": "môi trường pH trung tính"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-262",
+    "source_number": 262,
+    "card_number": 262,
+    "question": "Penicillin G trong nước mất hoạt tính nhanh nên thường dụng đệm citrate, phosphate để ổn định pH nằm trong khoảng:",
+    "options": {
+      "A": "5,5-6,0",
+      "B": "7,5-8,0",
+      "C": "4,5-5,0",
+      "D": "1,0-3,0"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-263",
+    "source_number": 263,
+    "card_number": 263,
+    "question": "Sản phẩm chuyển hóa chính của Clarithromycin là:",
+    "options": {
+      "A": "14-hydroxyclarithromycin",
+      "B": "14-aminoclarithromycin",
+      "C": "14-hydramỉnclarithromycin",
+      "D": "14-hydroxylaminclorithromycin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-264",
+    "source_number": 264,
+    "card_number": 264,
+    "question": "Acid nalidixic có mấy cực đại hấp thụ UV:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-265",
+    "source_number": 265,
+    "card_number": 265,
+    "question": "Dung dịch Acid nalidixic 0.05% trong NaOH 1M  hấp thụ UV ở bước sóng cực đại là:",
+    "options": {
+      "A": "158nm và 334 nm",
+      "B": "258nm và 334 nm",
+      "C": "582 nm và 433nm",
+      "D": "528 nm và 433nm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-266",
+    "source_number": 266,
+    "card_number": 266,
+    "question": "Trong dịch ép cam hoặc chanh chứa khoảng:",
+    "options": {
+      "A": "5mg acid ascorbic/ml",
+      "B": "0,5mg acidascorbic/ml",
+      "C": "2,5 mg acid ascorbic/ml",
+      "D": "5,2 mg acid ascorbic/ml"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-267",
+    "source_number": 267,
+    "card_number": 267,
+    "question": "Vitamin C dễ tan trong các dung dịch hydroxyd và carbonat kim loại kiềm, tác dụng với muối tạo muối mới do:",
+    "options": {
+      "A": "Tính acid",
+      "B": "Có tính khử",
+      "C": "Hấp thụ bức xạ tử ngoại",
+      "D": "Có tính base"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-268",
+    "source_number": 268,
+    "card_number": 268,
+    "question": "Chỉ định acid ascorbic để phòng và điều trị:",
+    "options": {
+      "A": "Bệnh viêm da dây thần kinh",
+      "B": "Bệnh Beri-beri",
+      "C": "Scorbut",
+      "D": "Bệnh Pellagra"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-269",
+    "source_number": 269,
+    "card_number": 269,
+    "question": "Dung dịch Thiamin1% trong nước có pH trong khoảng:",
+    "options": {
+      "A": "3,7-4,4",
+      "B": "4,7- 5,4",
+      "C": "2,7-3,4",
+      "D": "1,7-5,4"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-270",
+    "source_number": 270,
+    "card_number": 270,
+    "question": "Thiamin tạo tủa với một số thuốc thử chung của alkaloid do có:",
+    "options": {
+      "A": "Tính acid",
+      "B": "Tính base",
+      "C": "Dẫn xuất thiazol",
+      "D": "Tính lưõng tính"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-271",
+    "source_number": 271,
+    "card_number": 271,
+    "question": "Trong môi trường kiềm,Thiamin tác dụng với kalifericyanid tạo:",
+    "options": {
+      "A": "huỳnh quang màu xanh da trời",
+      "B": "huỳnh quang màu vàng",
+      "C": "thiocrom màu vàng",
+      "D": "thiocrom màu vàng và có huỳnh quang màu xanh da trời"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-272",
+    "source_number": 272,
+    "card_number": 272,
+    "question": "Thiamin hydroclorid dễ tan trong:",
+    "options": {
+      "A": "ether",
+      "B": "methanol",
+      "C": "benzen",
+      "D": "nước"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-273",
+    "source_number": 273,
+    "card_number": 273,
+    "question": "Acid ascorbic tham gia tổng hợp:",
+    "options": {
+      "A": "testosteron",
+      "B": "insullin",
+      "C": "các hormone steroid",
+      "D": "aldosteron"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "hd-274",
+    "source_number": 274,
+    "card_number": 274,
+    "question": "Để làm tăng độ tan của riboflavin trong nước, cần thêm:",
+    "options": {
+      "A": "nước",
+      "B": "ether",
+      "C": "cloroform",
+      "D": "methyl acetamid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-275",
+    "source_number": 275,
+    "card_number": 275,
+    "question": "Vitamin A không tan trong:",
+    "options": {
+      "A": "dung môi hữu cơ",
+      "B": "nước",
+      "C": "ethanol",
+      "D": "dầu thực vật"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "hd-276",
+    "source_number": 276,
+    "card_number": 276,
+    "question": "Vitamin A hấp thụ mạnh bức xạ vùng tử ngoại và có cực đại hấp thụ ở bước sóng:",
+    "options": {
+      "A": "326nm",
+      "B": "526nm",
+      "C": "316nm",
+      "D": "306nm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-277",
+    "source_number": 277,
+    "card_number": 277,
+    "question": "Vitamin A hấp thụ mạnh bức xạ vùng tử ngoại và cả bức xạ vùng trông thấy do cấu trúc của vitamin A có:",
+    "options": {
+      "A": "hệ dây nối đôi luân phiên tương đối dài",
+      "B": "dây nối đôi",
+      "C": "nhóm alcol gắn với hệ dây nối đôi",
+      "D": "nhóm alcol bậc nhất"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "hd-278",
+    "source_number": 278,
+    "card_number": 278,
+    "question": "Vitamin C hấp thụ bức xạ tử ngoại vì trong phân tử có:",
+    "options": {
+      "A": "nhóm chức lacton liên hợp với nhóm carbonyl",
+      "B": "nhóm endiol liên hợp với nhóm carboxyl",
+      "C": "nhóm endiol liên hợp với nhóm hydroxyl",
+      "D": "nhóm endiol liên hợp với nhóm carbonyl"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-279",
+    "source_number": 279,
+    "card_number": 279,
+    "question": "Trước khi đào thải qua nước tiểu, acid ascorbic chuyển hóa thành:",
+    "options": {
+      "A": "acid ascorbic-2-sulfat",
+      "B": "acid ascorbic",
+      "C": "acid oxalic",
+      "D": "acid oxalic, acid ascorbic-2-sulfat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "hd-280",
+    "source_number": 280,
+    "card_number": 280,
+    "question": "Acid ascorbic tham gia các phản ứng hydroxyl hóa và amid hóa nên cần thiết cho việc tổng hợp:",
+    "options": {
+      "A": "Oglycan và các hợp chất hữu cơ khác",
+      "B": "Collagen, các proteoglycan và các hợp chất hữu cơ khác",
+      "C": "Proteoglycan",
+      "D": "Collagen"
+    },
+    "answer": "B"
   }
 ]
